@@ -67,6 +67,10 @@ multiple days.
 
 [![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
 
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
+
+... (one image per POI in the itinerary)
+
 <2–4 sentence description of the trip. What makes it special, the overall
 mood/pace, and what the visitor can expect.>
 
@@ -113,6 +117,10 @@ long to spend, and estimated budget for this stop.>
 ## Overview
 
 [![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
+
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
+
+... (one image per POI in the itinerary)
 
 <2–4 sentence description of the event. What it is, why it matters, and what
 the experience is like.>
@@ -264,9 +272,10 @@ absent from the graph.
 
 ### Images
 
-Every page must include one image in the **Overview section**, placed immediately
-after the `## Overview` heading. Images are displayed inline and link to their
-original source using this format:
+Every page must include one image per POI in the **Overview section**, placed
+immediately after the `## Overview` heading. Images are listed consecutively,
+one per line, in the same order as the POIs appear in the itinerary. Images
+are displayed inline and link to their original source using this format:
 
 ```markdown
 [![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
