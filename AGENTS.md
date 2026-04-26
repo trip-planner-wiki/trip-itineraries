@@ -65,6 +65,8 @@ multiple days.
 
 ## Overview
 
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
+
 <2–4 sentence description of the trip. What makes it special, the overall
 mood/pace, and what the visitor can expect.>
 
@@ -103,6 +105,8 @@ long to spend, and estimated budget for this stop.>
 ---
 
 ## Overview
+
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
 
 <2–4 sentence description of the event. What it is, why it matters, and what
 the experience is like.>
@@ -245,6 +249,28 @@ absent from the graph.
   Overview section summarising the dates and any advance booking requirement.
 - Date-specific pages do **not** count toward the minimum two general
   day-trips per city per day.
+
+### Images
+
+Every page must include one image in the **Overview section**, placed immediately
+after the `## Overview` heading. Images are displayed inline and link to their
+original source using this format:
+
+```markdown
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
+```
+
+**Do not save images locally.** All images must reference remote URLs.
+
+Image source priority (use the first source that yields a suitable result):
+
+1. **Official event/venue website** — press images or OGP images from the
+   event's own site
+2. **Trip blogs or news articles** — photos from the actual event or location
+3. **Wikimedia Commons** — use `https://upload.wikimedia.org/...` as the image
+   URL and `https://commons.wikimedia.org/wiki/File:...` as the link target
+
+Only use images that are publicly accessible without login.
 
 ### Uniqueness
 No two day-trip pages in the same city should cover the same primary POIs in
