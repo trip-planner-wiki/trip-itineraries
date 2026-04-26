@@ -12,6 +12,7 @@ These itineraries can be done on any day during the Kyoto stay (May 31 – June 
 | Page | Description |
 |------|-------------|
 | [Nishiki Market & Gion](nishiki-market-and-gion.md) | Kyoto's famous food arcade, Gion geisha district, and evening in traditional Higashiyama |
+| [Nishiki Market Culinary Walk: Food, Shrines & Pontocho](nishiki-market-culinary-walk.md) | Deep-dive food day: Nishiki Market snacking, Nishiki Tenmangu Shrine, Rokkakudo Temple, Shinkyogoku, and Pontocho dinner |
 | [Uji Day Trip: Byodo-in & Tea Culture](uji-byodo-in-day-trip.md) | UNESCO World Heritage Byodo-in Phoenix Hall plus Uji's world-famous matcha culture |
 | [Kifune & Kurama: Mountain Shrines & Onsen](kifune-and-kurama-temples.md) | Ancient mountain temples, Kurama Onsen, and the mystical Kifune Shrine valley |
 | [Kyoto Maid Cafes & Anime Shopping](kyoto-maid-cafes-and-anime-shopping.md) | Multiple maid cafes, anime shopping at Kawaramachi OPA, Don Quijote, and Uniqlo |

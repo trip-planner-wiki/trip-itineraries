@@ -34,6 +34,7 @@ These day trips are tied to specific dates and cannot be rescheduled:
 | [Design Festa Vol. 63](2026-05-23-design-festa-vol-63.md) | May 23–24 | Asia's largest art event — 6,500+ creator booths at Tokyo Big Sight |
 | [Blue Archive Music 3D Live — 5th Anniversary](2026-05-23-blue-archive-3d-live.md) | May 23 | First-ever 3D live concert for the Blue Archive mobile RPG |
 | [Bungo Stray Dogs 10th Anniversary Orchestra Live](2026-05-23-bungo-stray-dogs-orchestra.md) | May 23 | Orchestral anniversary concert with composer Taku Iwasaki and Lotus Juice |
+| [Manpaku Food Festival — Final Day at Showa Kinen Park](2026-05-23-manpaku-food-festival.md) | May 23 | Final day of Tokyo's largest open-air food festival in Showa Kinen Park, Tachikawa |
 
 ---
 
