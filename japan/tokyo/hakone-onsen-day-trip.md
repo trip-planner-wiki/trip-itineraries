@@ -11,8 +11,6 @@
 
 [![Lake Ashi with Mt. Fuji and Hakone Shrine torii gate](https://upload.wikimedia.org/wikipedia/commons/d/d7/Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg)](https://commons.wikimedia.org/wiki/File:Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg)
 
-[![Owakudani volcanic valley and ropeway, Hakone](https://upload.wikimedia.org/wikipedia/commons/6/63/A_view_of_Owakudani_and_ropeway%2C_Hakone%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:A_view_of_Owakudani_and_ropeway,_Hakone,_Japan.jpg)
-
 [![Hakone Shrine torii gate on Lake Ashi](https://upload.wikimedia.org/wikipedia/commons/3/34/Hakone_Shrine%27s_torii_%2830577923547%29.jpg)](https://commons.wikimedia.org/wiki/File:Hakone_Shrine's_torii_(30577923547).jpg)
 
 [![Yunessun onsen resort, Hakone](https://upload.wikimedia.org/wikipedia/commons/3/30/Hakone-kowaki-en-yunessun_2015-11-16.JPG)](https://commons.wikimedia.org/wiki/File:Hakone-kowaki-en-yunessun_2015-11-16.JPG)

@@ -9,8 +9,6 @@
 
 ## Overview
 
-[![Maid cafe staff in Akihabara, Tokyo](https://upload.wikimedia.org/wikipedia/commons/8/87/Maid_Cafe_Staff_Akihabara_Tokyo_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Maid_Cafe_Staff_Akihabara_Tokyo_Japan.jpg)
-
 [![Super Potato retro game store, Akihabara](https://upload.wikimedia.org/wikipedia/commons/d/da/Super_Potato_in_Akihabara_%284066556528%29.jpg)](https://commons.wikimedia.org/wiki/File:Super_Potato_in_Akihabara_(4066556528).jpg)
 
 [![Maids distributing flyers in Akihabara, Tokyo](https://upload.wikimedia.org/wikipedia/commons/a/a3/Maids_distributing_flyers_in_Akihabara_Tokyo_20100731_7376.jpg)](https://commons.wikimedia.org/wiki/File:Maids_distributing_flyers_in_Akihabara_Tokyo_20100731_7376.jpg)
