@@ -11,6 +11,8 @@
 
 ## Overview
 
+[![Heian Shrine courtyard — venue for Kyoto Takigi Nō](https://upload.wikimedia.org/wikipedia/commons/8/86/Courtyard_of_Heian_Jingu_%282616076789%29.jpg)](https://commons.wikimedia.org/wiki/File:Courtyard_of_Heian_Jingu_(2616076789).jpg)
+
 Kyoto's annual torchlight Noh theater — one of the city's most atmospheric cultural events. Two Noh schools (Kanze and Kongo) and the Okura Kyogen school perform on the open-air stage of Heian Shrine as night falls, lit only by flickering torches. Five plays per night. English summaries provided. The combination of ancient Noh drama, open night sky, flickering torchlight, and the magnificent Heian Shrine backdrop creates an experience unlike any other.
 
 > **Date-specific:** June 1–2, 2026. Evening performances starting at 18:00.

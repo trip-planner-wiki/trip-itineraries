@@ -9,7 +9,9 @@
 
 ## Overview
 
-Akihabara — "Electric Town" — is the heart of Tokyo's otaku culture. This day trip takes you through the best maid cafes in Japan and the legendary retro gaming shops that make Akihabara unique. Start with a maid cafe brunch, explore retro consoles and collectibles, and end with dinner at another maid cafe experience. The pace is relaxed and fun, with no rush between stops.
+[![Maid cafe staff in Akihabara, Tokyo](https://upload.wikimedia.org/wikipedia/commons/8/87/Maid_Cafe_Staff_Akihabara_Tokyo_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Maid_Cafe_Staff_Akihabara_Tokyo_Japan.jpg)
+
+Akihabara — "Electric Town" — is the heart of Tokyo's otaku culture. This day trip takes you through the best maid cafes in Japan and the legendary retro gaming shops that make Akihabara unique. Start with a maid cafe brunch, explore retro consoles and collectibles, and end with dinner at another maid cafe experience. The pace is relaxed and fun, with no rush between stops. Maid cafes first emerged in Akihabara in the late 1990s, initially as novelty extensions of the district's anime merchandise culture, and have since evolved into a full entertainment industry with dozens of venues each offering distinct themes, performances, and food presentations. Retro gaming in Akihabara spans everything from Famicom cartridges and Game Boy titles to rare Neo Geo and PC-88 software — serious collectors travel here from around the world. The district's multi-floor game centers also preserve classic arcade titles that have long disappeared elsewhere, making Akihabara the world's most complete living archive of Japanese gaming history.
 
 ---
 

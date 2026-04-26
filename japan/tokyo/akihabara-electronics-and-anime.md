@@ -9,7 +9,9 @@
 
 ## Overview
 
-A second approach to Akihabara, this time focused on new electronics, anime merchandise, and the full breadth of what the district offers beyond maid cafes. Akihabara deserves multiple visits — this itinerary covers the anime/manga/electronics side in depth. Relaxed pace with plenty of browsing time.
+[![Akihabara's neon-lit street at night](https://upload.wikimedia.org/wikipedia/commons/8/86/Akihabara_at_night.jpg)](https://commons.wikimedia.org/wiki/File:Akihabara_at_night.jpg)
+
+A second approach to Akihabara, this time focused on new electronics, anime merchandise, and the full breadth of what the district offers beyond maid cafes. Akihabara deserves multiple visits — this itinerary covers the anime/manga/electronics side in depth. Relaxed pace with plenty of browsing time. The district's towering buildings are stacked floor by floor with specialist retailers: one floor for CPU components, another for camera lenses, another entirely dedicated to a single anime franchise's merchandise. Anime figure culture here ranges from mass-market releases to hand-painted garage kits and limited convention exclusives that sell out within hours of release. Akihabara remains one of the few places in the world where you can find discontinued electronics components, import hardware, and cutting-edge gadgets under the same roof — a paradise for technophiles and collectors alike.
 
 ---
 

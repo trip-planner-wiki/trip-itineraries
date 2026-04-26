@@ -10,6 +10,8 @@
 
 ## Overview
 
+[![Uzu-Ajisai hydrangea variety (Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flower%2C_Hydrangea_%22Uzu-Ajisai%22%28Variegation%29_-_Flickr_-_nekonomania.jpg)](https://commons.wikimedia.org/wiki/File:Flower,_Hydrangea_%22Uzu-Ajisai%22(Variegation)_-_Flickr_-_nekonomania.jpg)
+
 Fujinomori Shrine (in southern Kyoto) opens its two hydrangea gardens for the entire month of June. The month-long special opening begins June 1. The main ceremony with taiko drums, kemari (ancient court ball game), kagura dance, gagaku court music, and tea ceremony is on June 15 — but the gardens are beautiful throughout the month. The shrine is easily reached via the Kintetsu Kyoto Line to Sumizome Station (5 min walk).
 
 > **Date-specific start:** June 1, 2026 — first day of the special hydrangea garden opening. Visit any day in June.

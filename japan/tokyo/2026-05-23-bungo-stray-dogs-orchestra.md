@@ -10,6 +10,8 @@
 
 ## Overview
 
+[![Bungo Stray Dogs 10th Anniversary Orchestra Live — official event image](https://bungosd.com/news/images/251225_01_01.jpg)](https://bungosd.com/news/251225_01.html)
+
 The first-ever orchestral/band concert celebrating the Bungo Stray Dogs anime's 10th anniversary — "Mayoinu-tachi no Neso" (Song of the Stray Dogs). Composer Taku Iwasaki leads a full band with Lotus Juice, a jazz ensemble, and a string ensemble performing iconic series soundtrack pieces with projected scenes from the anime. Two performances on May 23 (2nd Stage at 14:00 and 3rd Stage at 18:00). An exceptional event for any Bungo Stray Dogs fan.
 
 > **Date-specific:** May 23, 2026 — two performances.

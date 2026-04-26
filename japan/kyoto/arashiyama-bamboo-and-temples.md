@@ -9,7 +9,9 @@
 
 ## Overview
 
-Arashiyama is the scenic western edge of Kyoto — home to the world-famous bamboo grove, ancient temples, a scenic river, and one of Kyoto's most charming shopping streets. This is an iconic Kyoto experience that deserves a full, unhurried day. The area is busiest on weekends mid-day — arrive early for the most atmospheric experience.
+[![Arashiyama Bamboo Forest, Kyoto](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg)
+
+Arashiyama is the scenic western edge of Kyoto — home to the world-famous bamboo grove, ancient temples, a scenic river, and one of Kyoto's most charming shopping streets. This is an iconic Kyoto experience that deserves a full, unhurried day. The area is busiest on weekends mid-day — arrive early for the most atmospheric experience. The bamboo grove corridor, officially called the Sagano Bamboo Forest, stretches through the hills west of Tenryu-ji and is one of Japan's most photographed natural landmarks. Arashiyama's appeal extends well beyond the bamboo — the district encompasses over a dozen temples and shrines, a UNESCO-listed Zen garden, and tranquil river gorge scenery framed by the Arashiyama and Kameyama mountain ranges.
 
 ---
 

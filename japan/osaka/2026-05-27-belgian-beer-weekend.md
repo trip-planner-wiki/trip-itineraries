@@ -10,6 +10,8 @@
 
 ## Overview
 
+[![Belgian Beer Weekend Osaka 2026 — official event image](https://belgianbeerweekend.jp/meta.jpg)](https://belgianbeerweekend.jp)
+
 The Osaka edition of the globally celebrated Belgian Beer Weekend — one of Osaka's most beloved late-May annual events. Around 60–100 Belgian beer varieties, live stage music, authentic Belgian food, and a festive riverside atmosphere at Nakanoshima Park. Free entry with drinks purchased using tokens bought at the venue. The combination of excellent beer, riverside scenery, live music, and a social crowd makes this one of the best outdoor events of the trip.
 
 > **Date-specific:** May 27–31, 2026. Available for 5 days — attend any day or multiple days.

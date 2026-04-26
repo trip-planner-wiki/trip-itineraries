@@ -11,6 +11,8 @@
 
 ## Overview
 
+[![Craft Beer Live 2026 — official event banner](http://craftbeerlive.com/wp/wp-content/uploads/2026/04/CBL2026_TOP2.jpg)](http://craftbeerlive.com/)
+
 Craft Beer Live is the largest craft beer festival in Kansai — approximately 300 types of beer from around 50 Kansai-based breweries, poured directly by the brewers themselves. Accompanied by food stalls and live stage performances. One of Osaka's best outdoor festival experiences. Entry to the venue is free, but beer tokens must be purchased in advance. Food stalls operate with cash sales.
 
 > **Date-specific:** May 23–24, 2026. Both days available — pick one or attend both.

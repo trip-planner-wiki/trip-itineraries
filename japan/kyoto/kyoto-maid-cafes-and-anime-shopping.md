@@ -9,7 +9,9 @@
 
 ## Overview
 
-Kyoto may be best known for temples and traditional culture, but it also has a thriving maid cafe scene centered around the Shijo-Kawaramachi area. This itinerary pairs Kyoto's unique maid cafes with anime shopping at the conveniently located stores near the city's main shopping intersection. A fun contrast to the traditional sightseeing days.
+[![Maid cafe interior, Japan](https://upload.wikimedia.org/wikipedia/commons/7/78/Maid_cafe_4.jpg)](https://commons.wikimedia.org/wiki/File:Maid_cafe_4.jpg)
+
+Kyoto may be best known for temples and traditional culture, but it also has a thriving maid cafe scene centered around the Shijo-Kawaramachi area. This itinerary pairs Kyoto's unique maid cafes with anime shopping at the conveniently located stores near the city's main shopping intersection. A fun contrast to the traditional sightseeing days. Maid cafes originated in Akihabara, Tokyo, but have since spread to major cities across Japan; Kyoto's cafes tend to have a more intimate, neighborhood feel compared to their Tokyo counterparts. The Shijo-Kawaramachi district doubles as Kyoto's main shopping and entertainment hub, placing anime goods stores, manga shops, and eclectic pop-culture boutiques within easy walking distance of each other.
 
 ---
 

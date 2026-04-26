@@ -9,7 +9,9 @@
 
 ## Overview
 
-Hakone is Japan's most beloved onsen destination — a mountainous national park about 1.5 hours from Tokyo, offering dramatic volcanic landscapes, steaming hot spring valleys, stunning views of Mount Fuji, and the full range from public baths to luxury ryokan day-use. This itinerary combines the best of Hakone's natural sights — the volcanic Owakudani valley, Lake Ashi, and the ancient cedar avenue — with a proper, unhurried afternoon soak at a quality onsen facility. An ideal reset day during the Tokyo stay.
+[![Lake Ashi with Mt. Fuji and Hakone Shrine torii gate](https://upload.wikimedia.org/wikipedia/commons/d/d7/Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg)](https://commons.wikimedia.org/wiki/File:Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg)
+
+Hakone is Japan's most beloved onsen destination — a mountainous national park about 1.5 hours from Tokyo, offering dramatic volcanic landscapes, steaming hot spring valleys, stunning views of Mount Fuji, and the full range from public baths to luxury ryokan day-use. This itinerary combines the best of Hakone's natural sights — the volcanic Owakudani valley, Lake Ashi, and the ancient cedar avenue — with a proper, unhurried afternoon soak at a quality onsen facility. An ideal reset day during the Tokyo stay. The Hakone Geopark, recognized by UNESCO, sits within the collapsed caldera of an ancient volcano whose last major eruption reshaped the landscape roughly 3,000 years ago. Clear days reveal Mount Fuji's perfect cone rising above Lake Ashi's far shore — a view considered one of the most iconic in all of Japan. Hot spring waters here are naturally rich in sulfur and minerals, and bathing in them has been central to Japanese wellness culture for over a millennium.
 
 ---
 

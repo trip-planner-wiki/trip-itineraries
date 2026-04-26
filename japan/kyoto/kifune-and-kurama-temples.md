@@ -9,7 +9,9 @@
 
 ## Overview
 
-Northern Kyoto's Kifune and Kurama valleys are among the most atmospheric destinations in the entire country — a world away from the city bustle, accessible in under an hour by train. Kurama has an ancient temple complex and the legendary Kurama Onsen. Kifune Shrine is an ancient water shrine with a mystical mountain atmosphere. Together they make for a spiritual, nature-immersed, and deeply restorative day.
+[![Kifune Shrine stone lantern approach, Kyoto](https://upload.wikimedia.org/wikipedia/commons/f/f5/Sand%C5%8D%2C_Kifune_Shrine%2C_Kyoto_-_Jul_22%2C_2007.jpg)](https://commons.wikimedia.org/wiki/File:Sand%C5%8D,_Kifune_Shrine,_Kyoto_-_Jul_22,_2007.jpg)
+
+Northern Kyoto's Kifune and Kurama valleys are among the most atmospheric destinations in the entire country — a world away from the city bustle, accessible in under an hour by train. Kurama has an ancient temple complex and the legendary Kurama Onsen. Kifune Shrine is an ancient water shrine with a mystical mountain atmosphere. Together they make for a spiritual, nature-immersed, and deeply restorative day. Kifune Shrine, formally known as Kibune-jinja, has been venerated for over 1,600 years as a deity of water and rain; its rows of stone lanterns flanking the moss-covered approach are particularly striking when lit at dusk. Kurama-dera, founded in 770 CE, sits atop a mountain whose old-growth cedar forest creates one of the most immersive sacred environments in the entire Kyoto region.
 
 ---
 

@@ -10,6 +10,8 @@
 
 ## Overview
 
+[![Azuma Odori — Shimbashi geisha dance performance](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/02/azuma25_okonomi_B044-1024x600.jpg)](https://tokyocheapo.com/events/azuma-odori/)
+
 The 101st edition of the Azuma Odori — one of Tokyo's rarest annual events. The geisha of Shimbashi perform traditional dance for only a few days each year at the historic Shimbashi Enbujō Theatre. The two-part program includes a Kabuki-inspired classical dance followed by nagauta music with shamisen. The theater atmosphere is extraordinary: the interior is arranged to resemble a grand traditional restaurant, with champagne, food, sake, tea, and souvenirs sold between acts. An irreplaceable window into Tokyo's traditional arts.
 
 > **Date-specific:** Runs May 22–25, 2026. Multiple performance times per day — check the official schedule.

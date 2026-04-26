@@ -11,6 +11,8 @@
 
 ## Overview
 
+[![Kyuhoji Park Market — official site background](https://image.jimcdn.com/app/cms/image/transf/dimension=2000x1500:format=jpg/path/sff037cb0f0df379f/backgroundarea/i52c1f7f0bf912c63/version/1463494086/image.jpg)](https://kyuhoji-marche.jimdofree.com/)
+
 The monthly Kyuhoji Park Market is held every fourth Sunday in the lovely Kyuhoji Ryokuchi Park in Yao City, southeastern Osaka. A relaxed outdoor farmers market featuring seasonal local agricultural produce, artisan food stalls, handmade and eco-friendly goods, and workshops. Free entry with individual vendor pricing. Perfect for a relaxed Sunday morning away from the busy city center.
 
 > **Date-specific:** This is a monthly market; the May 2026 edition falls on May 24 (fourth Sunday).

@@ -11,6 +11,8 @@
 
 ## Overview
 
+[![Kyoto Pulse Plaza — event venue](https://www.pulseplaza.jp/img/section/billboard1.jpg)](https://www.pulseplaza.jp/)
+
 Western Japan's largest antique fair, held three times a year at Kyoto Pulse Plaza. Over 350 dealers fill two floors with kimono, pottery, woodblock prints (ukiyo-e), Buddhist relics, jewelry, traditional art, furniture, and international antiques. Prices range from ¥500 to millions of yen. A treasure-hunter's paradise for anyone interested in Japanese traditional arts, vintage items, or unique souvenirs. Free entry.
 
 > **Date-specific:** Runs approximately June 1–7, 2026 (confirm exact dates on the official website closer to the time).

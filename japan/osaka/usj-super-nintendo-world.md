@@ -9,7 +9,9 @@
 
 ## Overview
 
-Universal Studios Japan (USJ) is one of the best theme parks in Asia, home to Super Nintendo World — an immersive Mario-themed land that transforms the video game experience into physical reality. With 10 themed zones including Harry Potter, Minions, Jurassic World, and more, USJ fills an entire day easily. **Advance tickets are mandatory** (no gate sales since May 2025). An Express Pass for Super Nintendo World is strongly recommended to avoid hours of queuing.
+[![Super Nintendo World at Universal Studios Japan](https://upload.wikimedia.org/wikipedia/commons/3/33/USJ_Super_Nintendo_World_overview.jpg)](https://commons.wikimedia.org/wiki/File:USJ_Super_Nintendo_World_overview.jpg)
+
+Universal Studios Japan (USJ) is one of the best theme parks in Asia, home to Super Nintendo World — an immersive Mario-themed land that transforms the video game experience into physical reality. With 10 themed zones including Harry Potter, Minions, Jurassic World, and more, USJ fills an entire day easily. **Advance tickets are mandatory** (no gate sales since May 2025). An Express Pass for Super Nintendo World is strongly recommended to avoid hours of queuing. Super Nintendo World debuted in February 2021 and has since expanded with a Donkey Kong Country area, offering additional rides and themed experiences set in a lush jungle environment. The Power-Up Band wristbands — NFC-enabled accessories styled after in-game items — allow visitors to collect virtual coins, challenge Koopas, and track high scores across interactive stations scattered throughout the land, adding a gameplay layer on top of the physical park experience.
 
 > **⚠️ Must Book in Advance:** Gate ticket sales ended May 2025. All tickets must be purchased online before arrival. Super Nintendo World has a separate timed entry system.
 

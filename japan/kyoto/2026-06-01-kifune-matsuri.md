@@ -10,6 +10,8 @@
 
 ## Overview
 
+[![Kifune Shrine — official website image](https://kifunejinja.jp/production/wp-content/uploads/2020/10/p-home_info-img_01.jpg)](http://kifunejinja.jp/)
+
 The annual Kifune Matsuri is one of Kyoto's most atmospheric traditional festivals — held at the ancient Kifune Shrine deep in the northern mountains. The day features morning Shinto rituals, Bugaku court dance at 11:00, an omikoshi (portable shrine) procession at 13:00, and the dramatic Izumo Kagura sacred dance at 15:00 — a theatrical performance of the god Susanoo slaying a giant serpent, complete with elaborate costumes and pyrotechnics. An extraordinary window into living Japanese ritual tradition.
 
 > **Date-specific:** June 1, 2026 — the first day of the Kyoto stay.

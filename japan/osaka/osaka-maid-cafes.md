@@ -9,7 +9,9 @@
 
 ## Overview
 
-Osaka has a surprisingly vibrant maid cafe scene, concentrated around Namba and the Den-Den Town/Nipponbashi area. This itinerary visits multiple maid cafes of different styles — from the internationally recognized maidreamin chain to the quieter, Osaka-exclusive cafes of Namba. A fun social day that pairs well with anime shopping in the area.
+[![Inside a maid cafe in Den-Den Town, Osaka](https://upload.wikimedia.org/wikipedia/commons/7/78/Maid_cafe_4.jpg)](https://commons.wikimedia.org/wiki/File:Maid_cafe_4.jpg)
+
+Osaka has a surprisingly vibrant maid cafe scene, concentrated around Namba and the Den-Den Town/Nipponbashi area. This itinerary visits multiple maid cafes of different styles — from the internationally recognized maidreamin chain to the quieter, Osaka-exclusive cafes of Namba. A fun social day that pairs well with anime shopping in the area. Maid cafes in Osaka tend to be smaller and more intimate than their Tokyo counterparts, with maids who greet guests as "master" or "mistress" returning home to a magical household — a fantasy of domestic warmth and play that defines the genre. The Den-Den Town concentration makes it easy to combine maid cafe visits with browsing at Animate, Mandarake, and the specialty shops of Ota Road in a single afternoon.
 
 ---
 

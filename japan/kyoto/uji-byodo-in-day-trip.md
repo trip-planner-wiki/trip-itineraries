@@ -9,7 +9,9 @@
 
 ## Overview
 
-Uji is a small city just 15 km south of central Kyoto, famous for two things: the magnificent Byodo-in temple complex and Japan's finest matcha (green tea). This makes for a deeply satisfying half or full day trip — visiting one of Japan's most iconic UNESCO World Heritage buildings, then indulging in the region's matcha culture at traditional teahouses along the riverside.
+[![Byodo-in Phoenix Hall, Uji](https://upload.wikimedia.org/wikipedia/commons/5/59/Byodoin_Phoenix_Hall_Uji_2009.jpg)](https://commons.wikimedia.org/wiki/File:Byodoin_Phoenix_Hall_Uji_2009.jpg)
+
+Uji is a small city just 15 km south of central Kyoto, famous for two things: the magnificent Byodo-in temple complex and Japan's finest matcha (green tea). This makes for a deeply satisfying half or full day trip — visiting one of Japan's most iconic UNESCO World Heritage buildings, then indulging in the region's matcha culture at traditional teahouses along the riverside. The Phoenix Hall (Hou-ou-do), built in 1053, was designed to evoke the paradise of Amida Buddha and is so iconic that its image appears on the Japanese 10-yen coin. Uji's matcha cultivation dates back to the 13th century when the monk Myoe brought tea plants from China; today the city produces some of the highest-grade ceremonial matcha in Japan, and its riverside teahouses offer an authentic taste of this centuries-old tradition.
 
 ---
 
