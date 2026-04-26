@@ -27,6 +27,7 @@ this hierarchy without a corresponding entry in their parent `index.md`.
 ## File Naming
 
 ### General day-trip pages
+
 Use a short, lowercase, hyphen-separated description of the trip theme.
 
 ```
@@ -36,6 +37,7 @@ arashiyama-bamboo-and-temples.md
 ```
 
 ### Date-specific event pages
+
 Prefix the filename with the event's start date in `YYYY-MM-DD` format,
 followed by a short description.
 
@@ -81,6 +83,7 @@ mood/pace, and what the visitor can expect.>
 🗺️ [Get transit directions from your accommodation to <First Stop Name>](<Google Maps URL: destination only, travelmode=transit>)
 
 ### <Time of day> — <Stop name> (<HH:MM>)
+
 **📍 <Address or area>**
 
 <Description of the stop: what to do, what to see, what to eat/drink, how
@@ -95,6 +98,7 @@ long to spend, and estimated budget for this stop.>
 ---
 
 ## Tips
+
 - <Practical tip>
 - <Practical tip>
 - <Practical tip>
@@ -144,6 +148,7 @@ a link for the user to find their own route back to their accommodation.>
 ---
 
 ## Tips
+
 - <Practical tip>
 - <Practical tip>
 ```
@@ -185,6 +190,7 @@ These day trips are tied to specific dates:
 ---
 
 ## Notes
+
 - <Any important caveats, booking requirements, or scheduling advice>
 ```
 
@@ -245,15 +251,18 @@ convention.>
 ## Content Rules
 
 ### Language
+
 All content must be written in **English**.
 
 ### Data sourcing
+
 All POI details, event names, dates, prices, addresses, and URLs must be
 sourced from the **trip planning graph** as the primary source. Use web
 research (`browse-web` skill) only when required information is genuinely
 absent from the graph.
 
 ### Trip design
+
 - Every day trip must be completable in **one day** without feeling rushed.
 - Aim for **3–6 stops** per itinerary. Fewer stops with adequate time at each
   is better than a packed schedule.
@@ -263,6 +272,7 @@ absent from the graph.
   advice: transport, booking requirements, best times, cash vs card, etc.
 
 ### Date-specific events
+
 - A page is date-specific when the event is **bound to specific calendar
   dates** and cannot simply be rescheduled by the visitor.
 - Date-specific pages must include a `> **Date-specific:**` blockquote in the
@@ -288,26 +298,34 @@ Image source priority (use the first source that yields a suitable result):
 1. **Official event/venue website** — press images or OGP images from the
    event's own site
 2. **Trip blogs or news articles** — photos from the actual event or location
-3. **Wikimedia Commons** — use `https://upload.wikimedia.org/...` as the image
-   URL and `https://commons.wikimedia.org/wiki/File:...` as the link target
+3. Search on DuckDuckGo or Google Images for the POI name + city
+4. As last fallback **Wikimedia Commons** — use
+   `https://upload.wikimedia.org/...` as the image URL and
+   `https://commons.wikimedia.org/wiki/File:...` as the link target
 
-Only use images that are publicly accessible without login.
+Only use images that are publicly accessible without login. Make sure that you
+don't add images that don't load.
 
 ### Google Maps links
 
 Every itinerary page must include Google Maps transit direction links:
 
-- **Before the first POI:** a link with only the `destination` set (no origin), so the user can enter their own starting point:
+- **Before the first POI:** a link with only the `destination` set (no origin),
+  so the user can enter their own starting point:
   `https://www.google.com/maps/dir/?api=1&destination=<encoded+name+and+address>&travelmode=transit`
-- **Between each pair of consecutive stops:** a link with both `origin` and `destination` set:
+- **Between each pair of consecutive stops:** a link with both `origin` and
+  `destination` set:
   `https://www.google.com/maps/dir/?api=1&origin=<encoded>&destination=<encoded>&travelmode=transit`
-- **After the last POI:** a link with only the `origin` set (no destination), so the user can enter their own accommodation:
+- **After the last POI:** a link with only the `origin` set (no destination), so
+  the user can enter their own accommodation:
   `https://www.google.com/maps/dir/?api=1&origin=<encoded+name+and+address>&travelmode=transit`
 
-Label each link with a 🗺️ emoji and a short human-readable description including the expected transport mode and approximate travel time where known, e.g.:
+Label each link with a 🗺️ emoji and a short human-readable description including
+the expected transport mode and approximate travel time where known, e.g.:
 `🗺️ [Directions to Nakano Broadway (JR Chuo Line, ~20 min)](…)`
 
 ### Uniqueness
+
 No two day-trip pages in the same city should cover the same primary POIs in
 the same order. Overlap between pages is acceptable (e.g. ending different
 trips in Dotonbori) but each page must offer a distinct experience.
