@@ -1,0 +1,44 @@
+# Universal Studios Japan & Super Nintendo World
+
+**City:** Osaka  
+**Best for:** Theme park, gaming, family fun, Nintendo, immersive experiences  
+**Approximate duration:** Full day (9–10 hours)  
+**Estimated cost:** ¥13,000–¥25,000+ (park entry + Express Pass)
+
+---
+
+## Overview
+
+Universal Studios Japan (USJ) is one of the best theme parks in Asia, home to Super Nintendo World — an immersive Mario-themed land that transforms the video game experience into physical reality. With 10 themed zones including Harry Potter, Minions, Jurassic World, and more, USJ fills an entire day easily. **Advance tickets are mandatory** (no gate sales since May 2025). An Express Pass for Super Nintendo World is strongly recommended to avoid hours of queuing.
+
+> **⚠️ Must Book in Advance:** Gate ticket sales ended May 2025. All tickets must be purchased online before arrival. Super Nintendo World has a separate timed entry system.
+
+---
+
+## Itinerary
+
+### Morning — Studio Pass Purchase & Opening (08:30)
+**📍 2-1-33 Sakurajima, Konohawa Ward, Osaka 554-0031**
+
+Arrive at opening time (typically 09:00). USJ is accessible via the JR Yumesaki Line (Universal City Station — direct from Osaka Station, ~15 minutes). Adults ¥8,400–¥9,400, Children ¥5,400–¥6,300, Seniors ¥7,600–¥8,500.
+
+### Morning — Super Nintendo World (09:00)
+Head straight to Super Nintendo World at opening — queues build quickly throughout the day. The immersive Mario land features the Mario Kart: Koopa's Challenge ride, Yoshi's Adventure, interactive Power-Up Band wristbands, and dozens of hands-on activities. Budget 2–3 hours here. A separate timed entry ticket (Area Reservation) is included with Express Pass or available at designated times.
+
+### Lunch — USJ Food Areas (12:00)
+USJ has restaurants themed to each area. Try the Mario-themed Kinopio's Café in Super Nintendo World, or explore other food options. Budget ¥1,500–¥3,000.
+
+### Afternoon — The Wizarding World of Harry Potter & More (14:00)
+Harry Potter's Hogsmeade area is another USJ highlight — Butterbeer, wand experiences, and the Flight of the Hippogriff rollercoaster. After that, explore Jurassic World, Minion Park, or whichever zones interest you most.
+
+### Late Afternoon / Evening — Final Rides & Parade (17:00)
+USJ often has evening parades and shows — check the daily schedule. The park lights up beautifully after dark. Stay for the evening atmosphere if energy allows.
+
+---
+
+## Tips
+- Book Studio Pass + Super Nintendo World Express Pass combo online well in advance (sells out weeks ahead for busy periods)
+- Power-Up Bands (interactive Mario wristbands) are sold in the park and add a lot to the Super Nintendo World experience
+- USJ Universal City Station is directly serviced by JR from Osaka Station (~15 min, ¥180)
+- Lockers are available near the entrance for storing bags during rides
+- Express Pass is expensive (¥4,000–¥10,000+) but eliminates most waiting for popular attractions

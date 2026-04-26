@@ -1,0 +1,53 @@
+# Nishiki Market & Gion: Kyoto's Kitchen & Geisha District
+
+**City:** Kyoto  
+**Best for:** Food, cultural sightseeing, traditional Kyoto atmosphere  
+**Approximate duration:** Full day (7–8 hours)  
+**Estimated cost:** ¥3,000–¥8,000
+
+---
+
+## Overview
+
+Two of Kyoto's most iconic experiences combined in one day: Nishiki Market — the legendary covered food arcade nicknamed "Kyoto's Kitchen" — and the Gion district, Japan's most famous geisha neighborhood. A perfect introduction to Kyoto's food culture and traditional atmosphere, this day is relaxed, delicious, and visually stunning.
+
+---
+
+## Itinerary
+
+### Morning — Nishiki Market (10:00)
+**📍 609 Nishidaimonji-cho, Nakagyo Ward, Kyoto**
+
+A 390-metre covered arcade lined with ~130 shops selling the finest Kyoto food products: fresh seafood, tsukemono (pickles), yuba (tofu skin), Japanese sweets, dashi stock, tea, and kitchen utensils. The market has been a fixture since around 782 AD. Start with a walk through to get the full picture, then backtrack to the stalls that caught your eye. Must-try:
+- **Tofu-mochi** — grilled tofu on a skewer
+- **Kyoto pickles** — every stall has samples
+- **Tamagoyaki** — sweet egg roll on a stick
+- **Fresh yuba** — delicate tofu skin, silky and rich
+
+Budget ¥1,500–¥3,000 for snacking and shopping.
+
+### Lunch — Nishiki Market or Nearby (12:00)
+Several excellent restaurants adjoin the market. Sit-down options near Kawaramachi include soba, kaiseki-style set lunches, and Japanese sweets cafes. Budget ¥1,000–¥2,500.
+
+### Afternoon — BOOKOFF PLUS Kawaramachi OPA (13:30)
+**📍 8F Kawaramachi OPA, Shijo-Kawaramachi intersection, Kyoto**
+
+For manga, anime goods, and trading cards in Kyoto, the best location is BOOKOFF PLUS on the 8th floor of the Kawaramachi OPA shopping center at the Shijo-Kawaramachi intersection. Also stocks games, CDs/DVDs, and fashion.
+
+### Late Afternoon — Gion District Walk (15:00)
+Walk east from Kawaramachi along Shijo-dori to Gion. The preserved machiya (townhouse) streets of Hanamikoji-dori and Shinmonzen-dori offer the most atmospheric Kyoto scenery. Explore freely:
+- **Hanamikoji-dori** — the main Gion street with ochaya (teahouses)
+- **Shinbashi-Shirakawa** — a canal-side street with weeping willows and preserved buildings
+- **Yasaka Shrine** — free entry, beautifully lit at dusk
+
+Evenings in Gion sometimes offer rare sightings of geisha (geiko) and apprentice geisha (maiko) heading to engagements after 17:00.
+
+### Evening — Gion Dinner (18:30)
+Gion and the surrounding Higashiyama area have many excellent restaurants. Budget ¥2,000–¥5,000. The atmospheric backstreets have both casual izakayas and upmarket restaurants.
+
+---
+
+## Tips
+- Nishiki Market is busiest 11:00–14:00; arrive at 10:00 for a calmer experience
+- Photography of geisha in Gion is acceptable from a respectful distance — do not chase or obstruct them
+- Shijo-Kawaramachi intersection is the main shopping hub of Kyoto — Don Quijote, Uniqlo, and other shops are all here

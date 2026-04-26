@@ -1,0 +1,50 @@
+# 2026-06-01: Kifune Matsuri
+
+**City:** Kyoto  
+**Venue:** Kifune Shrine, Sakyo Ward, Northern Kyoto  
+**Date:** June 1, 2026  
+**Entry:** Free  
+**URL:** http://kifunejinja.jp/
+
+---
+
+## Overview
+
+The annual Kifune Matsuri is one of Kyoto's most atmospheric traditional festivals — held at the ancient Kifune Shrine deep in the northern mountains. The day features morning Shinto rituals, Bugaku court dance at 11:00, an omikoshi (portable shrine) procession at 13:00, and the dramatic Izumo Kagura sacred dance at 15:00 — a theatrical performance of the god Susanoo slaying a giant serpent, complete with elaborate costumes and pyrotechnics. An extraordinary window into living Japanese ritual tradition.
+
+> **Date-specific:** June 1, 2026 — the first day of the Kyoto stay.
+
+---
+
+## Itinerary
+
+### Morning — Travel to Kifune (09:00)
+From Demachiyanagi Station, take the Eizan Railway (Kurama Line) to Kibuneguchi Station (~30 minutes, ¥480). From the station, it's a scenic 30-minute walk up the valley to Kifune Shrine, or take a taxi (¥700–¥900).
+
+### Morning — Kibune Valley Walk (09:30)
+The valley road between Kibuneguchi and Kifune Shrine follows a clear mountain stream through old-growth forest. In late May/early June, the fresh green foliage is beautiful. Pass traditional restaurants along the river.
+
+### Bugaku Court Dance (11:00)
+**📍 Kifune Shrine, 180 Kibune-cho, Kurama, Sakyo Ward**
+
+Bugaku is an ancient form of Japanese court dance and music originating from Tang Dynasty China — rarely performed at public festivals. Dressed in colorful Heian-period costumes, dancers perform sacred dances to traditional gagaku music instruments (biwa, sho, hichiriki). The outdoor stage at Kifune Shrine is a beautiful setting for this performance.
+
+### Lunch — Kifune Riverside Restaurants (12:00)
+The narrow road through Kifune has several restaurants built on platforms over the stream — kawadoko dining begins from June 1. Enjoy lunch literally over a flowing mountain stream. Set meals typically ¥3,000–¥6,000. Reservations highly recommended.
+
+### Omikoshi Procession (13:00)
+The portable shrine (omikoshi) procession moves through the shrine grounds and village with local participants in traditional dress. An authentic community festival experience.
+
+### Izumo Kagura Sacred Dance (15:00)
+The dramatic finale of the festival — theatrical sacred dance depicting the god Susanoo's battle against the great serpent Yamata no Orochi. Elaborate costumes, stage effects, and pyrotechnics make this one of the most theatrical Shinto performances in Japan.
+
+### Return to Kyoto (17:00)
+Walk or taxi back to Kibuneguchi Station, then Eizan Railway to Demachiyanagi.
+
+---
+
+## Tips
+- Kawadoko riverside dining on June 1 is the first day of the season — book in advance for lunch
+- The Izumo Kagura performance at 15:00 is the unmissable highlight
+- Dress comfortably for the mountain valley walking — light layers, good walking shoes
+- Kyoto Takigi Nō also begins June 1 at Heian Shrine (see separate page) — you may be able to attend both (different times)
