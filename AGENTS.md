@@ -74,13 +74,19 @@ mood/pace, and what the visitor can expect.>
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to <First Stop Name>](<Google Maps URL: destination only, travelmode=transit>)
+
 ### <Time of day> — <Stop name> (<HH:MM>)
 **📍 <Address or area>**
 
 <Description of the stop: what to do, what to see, what to eat/drink, how
 long to spend, and estimated budget for this stop.>
 
+🗺️ [Directions to <Next Stop Name> (<transport mode, ~N min>)](<Google Maps URL: origin + destination, travelmode=transit>)
+
 ### <Next stop> ...
+
+🗺️ [Get transit directions from <Last Stop Name> to your accommodation](<Google Maps URL: origin only, travelmode=transit>)
 
 ---
 
@@ -118,8 +124,14 @@ the experience is like.>
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to <First Stop Name>](<Google Maps URL: destination only, travelmode=transit>)
+
 <Same stop format as general pages, adjusted for the event structure.
-Include pre-event and post-event suggestions where relevant.>
+Include pre-event and post-event suggestions where relevant.
+Add a 🗺️ transit directions link between each stop, and after the last stop
+a link for the user to find their own route back to their accommodation.>
+
+🗺️ [Get transit directions from <Last Stop Name> to your accommodation](<Google Maps URL: origin only, travelmode=transit>)
 
 ---
 
@@ -271,6 +283,20 @@ Image source priority (use the first source that yields a suitable result):
    URL and `https://commons.wikimedia.org/wiki/File:...` as the link target
 
 Only use images that are publicly accessible without login.
+
+### Google Maps links
+
+Every itinerary page must include Google Maps transit direction links:
+
+- **Before the first POI:** a link with only the `destination` set (no origin), so the user can enter their own starting point:
+  `https://www.google.com/maps/dir/?api=1&destination=<encoded+name+and+address>&travelmode=transit`
+- **Between each pair of consecutive stops:** a link with both `origin` and `destination` set:
+  `https://www.google.com/maps/dir/?api=1&origin=<encoded>&destination=<encoded>&travelmode=transit`
+- **After the last POI:** a link with only the `origin` set (no destination), so the user can enter their own accommodation:
+  `https://www.google.com/maps/dir/?api=1&origin=<encoded+name+and+address>&travelmode=transit`
+
+Label each link with a 🗺️ emoji and a short human-readable description including the expected transport mode and approximate travel time where known, e.g.:
+`🗺️ [Directions to Nakano Broadway (JR Chuo Line, ~20 min)](…)`
 
 ### Uniqueness
 No two day-trip pages in the same city should cover the same primary POIs in
