@@ -17,6 +17,7 @@ These itineraries can be done on any day during the Tokyo stay (May 18–23):
 | [Odaiba: teamLab Digital Art & Tokyo Bay](odaiba-teamlab-digital-art.md) | teamLab Planets + teamLab Borderless, Unicorn Gundam, Rainbow Bridge views |
 | [Ginza & Marunouchi: Fine Dining & Shopping](ginza-fine-dining-and-shopping.md) | G.Itoya stationery, Uniqlo Ginza, omakase sushi at Manten, tonkatsu at Ginza Katsukami |
 | [Hakone Day Trip: Onsen, Volcanoes & Mt. Fuji Views](hakone-onsen-day-trip.md) | Owakudani volcanic valley, Lake Ashi cruise, Hakone Shrine, and an afternoon soak at Yunessun onsen |
+| [Tokyo Day Trip: Gundam, Digital Art & Ancient Temples](gundam-digital-art-ancient-temples.md) | Senso-ji Temple in Asakusa, teamLab Borderless at Azabudai Hills, and the life-size Unicorn Gundam at Odaiba |
 
 ---
 
