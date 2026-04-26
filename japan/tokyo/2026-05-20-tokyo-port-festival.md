@@ -13,6 +13,8 @@
 
 [![Odaiba waterfront — Fuji TV building and Aqua City](https://upload.wikimedia.org/wikipedia/commons/4/43/Fuji_TV_headquarters_and_Aqua_City_Odaiba_-_2006-05-03_edit.jpg)](https://commons.wikimedia.org/wiki/File:Fuji_TV_headquarters_and_Aqua_City_Odaiba_-_2006-05-03_edit.jpg)
 
+[![Life-sized Unicorn Gundam statue, DiverCity Tokyo Plaza, Odaiba](https://upload.wikimedia.org/wikipedia/commons/6/66/Life-Sized_Unicorn_Gundam_Statue.jpg)](https://commons.wikimedia.org/wiki/File:Life-Sized_Unicorn_Gundam_Statue.jpg)
+
 The Tokyo Port Festival (Minato Matsuri) commemorates the opening of the Port of Tokyo to international trade on May 20, 1941. Organizations associated with the port host special events: guided tours and rides on specialized vessels (fireboats, patrol ships, container ships), maritime exhibitions, and waterfront activities. Free admission makes this one of the best value festival days in Tokyo. The waterfront atmosphere and unique vessel access make it a memorable, relaxed day out.
 
 > **Date-specific:** This festival occurs on May 20 every year to mark the anniversary.

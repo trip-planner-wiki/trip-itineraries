@@ -11,6 +11,10 @@
 
 [![Yodobashi Camera Multimedia Umeda, Osaka](https://upload.wikimedia.org/wikipedia/commons/d/d2/Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg)](https://commons.wikimedia.org/wiki/File:Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg)
 
+[![Nintendo Tokyo official store interior](https://upload.wikimedia.org/wikipedia/commons/2/26/Nintendo_Tokyo_%28PXL_20231220_022538554%29.jpg)](https://commons.wikimedia.org/wiki/File:Nintendo_Tokyo_(PXL_20231220_022538554).jpg)
+
+[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg)
+
 Osaka has two major hubs for anime and pop culture shopping: Umeda (the northern commercial center) and Nipponbashi/Den-Den Town (the otaku district). This day trip covers both, with time for popup exhibitions, Animate Gratte character cafes, and the diverse shopping scene around Osaka Station. Multiple popup events are running during the May 24–30 visit window. Yodobashi Camera Multimedia Umeda, directly adjacent to JR Osaka Station, is one of Japan's largest electronics and media retailers, with dedicated floors for games, anime goods, and collectibles that rival specialist stores. The interconnected commercial buildings around Osaka Station — including Grand Front Osaka and Lucua — create a vast covered shopping ecosystem where anime merchandise coexists alongside mainstream retail, making Umeda an accessible starting point before heading south to the deeper otaku territory of Nipponbashi.
 
 ---

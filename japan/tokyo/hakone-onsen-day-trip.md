@@ -11,6 +11,12 @@
 
 [![Lake Ashi with Mt. Fuji and Hakone Shrine torii gate](https://upload.wikimedia.org/wikipedia/commons/d/d7/Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg)](https://commons.wikimedia.org/wiki/File:Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg)
 
+[![Owakudani volcanic valley and ropeway, Hakone](https://upload.wikimedia.org/wikipedia/commons/6/63/A_view_of_Owakudani_and_ropeway%2C_Hakone%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:A_view_of_Owakudani_and_ropeway,_Hakone,_Japan.jpg)
+
+[![Hakone Shrine torii gate on Lake Ashi](https://upload.wikimedia.org/wikipedia/commons/3/34/Hakone_Shrine%27s_torii_%2830577923547%29.jpg)](https://commons.wikimedia.org/wiki/File:Hakone_Shrine's_torii_(30577923547).jpg)
+
+[![Yunessun onsen resort, Hakone](https://upload.wikimedia.org/wikipedia/commons/3/30/Hakone-kowaki-en-yunessun_2015-11-16.JPG)](https://commons.wikimedia.org/wiki/File:Hakone-kowaki-en-yunessun_2015-11-16.JPG)
+
 Hakone is Japan's most beloved onsen destination — a mountainous national park about 1.5 hours from Tokyo, offering dramatic volcanic landscapes, steaming hot spring valleys, stunning views of Mount Fuji, and the full range from public baths to luxury ryokan day-use. This itinerary combines the best of Hakone's natural sights — the volcanic Owakudani valley, Lake Ashi, and the ancient cedar avenue — with a proper, unhurried afternoon soak at a quality onsen facility. An ideal reset day during the Tokyo stay. The Hakone Geopark, recognized by UNESCO, sits within the collapsed caldera of an ancient volcano whose last major eruption reshaped the landscape roughly 3,000 years ago. Clear days reveal Mount Fuji's perfect cone rising above Lake Ashi's far shore — a view considered one of the most iconic in all of Japan. Hot spring waters here are naturally rich in sulfur and minerals, and bathing in them has been central to Japanese wellness culture for over a millennium.
 
 ---

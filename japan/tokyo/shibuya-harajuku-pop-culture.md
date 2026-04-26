@@ -11,6 +11,10 @@
 
 [![Shibuya Scramble Crossing from above, Tokyo](https://upload.wikimedia.org/wikipedia/commons/8/88/Shibuya_Crossing%2C_Aerial.jpg)](https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_Aerial.jpg)
 
+[![Takeshita Street, Harajuku, Tokyo](https://upload.wikimedia.org/wikipedia/commons/9/92/Takeshita_Street.jpg)](https://commons.wikimedia.org/wiki/File:Takeshita_Street.jpg)
+
+[![Nakano Broadway entrance, Tokyo](https://upload.wikimedia.org/wikipedia/commons/3/35/Nakano_broadway_entrance.JPG)](https://commons.wikimedia.org/wiki/File:Nakano_broadway_entrance.JPG)
+
 Shibuya and Harajuku sit side by side and together form the pulsing heart of Tokyo youth culture. This day trip takes you from the iconic Scramble Crossing and Hachikō Statue through Harajuku's Takeshita Street, the peaceful Meiji Shrine forest, then back to Shibuya for evening drinks. It's a leisurely, social day with great photo opportunities, street food, and cafe stops throughout. The Shibuya Scramble is one of the busiest pedestrian intersections on earth — at peak times up to 3,000 people cross simultaneously from all directions, a choreographed human flow that has become one of Tokyo's defining spectacles. Harajuku's Takeshita Street compresses an entire universe of youth fashion, crepe stands, and candy-coloured boutiques into a single 350-metre pedestrian lane that transforms on weekends into a vibrant street fashion runway. The adjacent Meiji Shrine, set within a 70-hectare urban forest of 120,000 trees, offers a profound contrast — one of the most serene Shinto spaces in Japan, just minutes from the commercial chaos of Harajuku.
 
 ---

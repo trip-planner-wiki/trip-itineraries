@@ -11,6 +11,8 @@
 
 [![Ginza at blue hour — illuminated facade of Fujiya building, Chuo-ku, Tokyo](https://upload.wikimedia.org/wikipedia/commons/d/d0/Illuminated_street_corner_at_blue_hour_-_facade_of_the_building_Fujiya_in_Ginza_Chuo-ku_Tokyo_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Illuminated_street_corner_at_blue_hour_-_facade_of_the_building_Fujiya_in_Ginza_Chuo-ku_Tokyo_Japan.jpg)
 
+[![Imperial Palace East Gardens, Tokyo](https://upload.wikimedia.org/wikipedia/commons/5/5a/Imperial_Palace_East_Garden_Japan_1989_air.jpg)](https://commons.wikimedia.org/wiki/File:Imperial_Palace_East_Garden_Japan_1989_air.jpg)
+
 Ginza is Tokyo's most prestigious shopping and dining district — a place where traditional craft meets contemporary luxury. This day combines the iconic G.Itoya stationery store, a premium lunch or dinner, and leisurely exploration of one of the world's finest urban shopping streets. Nearby Marunouchi offers elegant dining options steps from the Imperial Palace. A relaxed, indulgent day. Ginza's main boulevard, Chuo-dori, is home to the flagship stores of virtually every major international luxury brand alongside Japan's own storied retailers — including Mikimoto, which invented the cultured pearl industry here in 1899. On weekends and public holidays, Chuo-dori becomes a pedestrian promenade, transforming into one of the world's most elegant outdoor walking streets. The district's galleries, basement food halls (depachika), and the six-floor artisan stationery experience at G.Itoya make Ginza equally rewarding for those who would rather explore craft and culture than couture.
 
 ---

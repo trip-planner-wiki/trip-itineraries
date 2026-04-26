@@ -9,6 +9,8 @@
 
 ## Overview
 
+[![Kuromon Ichiba Market, Osaka](https://upload.wikimedia.org/wikipedia/commons/f/f4/Kuromon-ichiba_in_201408.JPG)](https://commons.wikimedia.org/wiki/File:Kuromon-ichiba_in_201408.JPG)
+
 [![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg)
 
 Dotonbori is the beating heart of Osaka's food culture and nightlife — a neon-lit canal district where the city's legendary "kuidaore" (eat until you drop) spirit is fully alive. This itinerary takes you through Osaka's most famous street food experiences, leads into the Shinsaibashi shopping arcade, and ends with an evening at one of Japan's most atmospheric izakayas: the legendary Izakaya Toyo. Perfect for a social evening with friends. The district runs along the Dōtonbori canal from Dōtonboribashi bridge to Nipponbashi bridge, its southern bank wall of towering illuminated signs — including the iconic Glico Running Man — making it one of the most photographed urban scenes in Japan. After dark, the neon reflections on the canal water intensify the sensory overload, transforming the area into an unforgettable spectacle of color, crowds, and aromas.
