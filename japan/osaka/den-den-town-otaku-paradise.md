@@ -17,10 +17,14 @@ Den-Den Town is Osaka's answer to Tokyo's Akihabara — the city's premier elect
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to BOOKOFF PLUS Namba Ebisubashi](https://www.google.com/maps/dir/?api=1&destination=BOOKOFF+PLUS+Namba+Ebisubashi,+Namba,+Osaka&travelmode=transit)
+
 ### Morning — BOOKOFF PLUS Namba Ebisubashi (10:00)
 **📍 Near Ebisubashi Bridge, Namba, Osaka**
 
 Start with Osaka's flagship BOOKOFF — two floors of second-hand manga, books, CDs, DVDs, games, trading cards, anime goods, and branded items near the iconic Dotonbori area. An excellent place to find used manga volumes at ¥110 each or rare items at fair market prices.
+
+🗺️ [Directions to Animate Nipponbashi (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=BOOKOFF+PLUS+Namba+Ebisubashi,+Namba,+Osaka&destination=Animate+Nipponbashi,+Nipponbashi,+Namba,+Osaka&travelmode=transit)
 
 ### Mid-Morning — Animate Nipponbashi (11:00)
 **📍 Nipponbashi, Namba area, Osaka**
@@ -30,18 +34,26 @@ Animate's Nipponbashi location is one of Japan's most comprehensive Animate stor
 ### Lunch — Den-Den Town Eats (12:30)
 The area around Nipponbashi and Ota Road has many casual restaurants. Try a conveyor belt sushi (kaiten-zushi) or teishoku set meal restaurant in the area. Budget ¥800–¥1,500.
 
+🗺️ [Directions to Ota Road / Den-Den Town (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Animate+Nipponbashi,+Nipponbashi,+Namba,+Osaka&destination=Ota+Road,+Nipponbashi,+Naniwa-ku,+Osaka&travelmode=transit)
+
 ### Afternoon — Ota Road & Specialty Shops (14:00)
 Ota Road is the heart of Den-Den Town's otaku culture — explore Mandarake, K-Books, and the dozens of specialty shops selling doujinshi, figures, and rare collectibles. Super Potato has a branch here too for retro game hunting. Take your time browsing.
+
+🗺️ [Directions to Nintendo Osaka at Daimaru Umeda (subway Midosuji Line, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Nipponbashi+Station,+Naniwa-ku,+Osaka&destination=Nintendo+Osaka,+Daimaru+Umeda,+3-1-1+Umeda,+Kita-ku,+Osaka&travelmode=transit)
 
 ### Mid-Afternoon — Nintendo Osaka (16:00)
 **📍 13F Daimaru Umeda Store, South Gate Building, 3-1-1 Umeda, Kita-ku, Osaka**
 
 Take the subway to Osaka/Umeda Station (about 10 minutes from Nipponbashi). Nintendo Osaka is on the 13th floor of the Daimaru Umeda department store, opened April 2026. Part of "Characters World" (floors 10–13) which also includes a Pokémon Center and One Piece store. Budget 1–2 hours and bring a spending budget.
 
+🗺️ [Directions to Dotonbori (subway Midosuji Line, ~8 min)](https://www.google.com/maps/dir/?api=1&origin=Umeda+Station,+Kita-ku,+Osaka&destination=Dotonbori,+Namba,+Osaka&travelmode=transit)
+
 ### Evening — Dotonbori Street Food & Nightlife (18:00)
 **📍 Dotonbori, Namba**
 
 End the day in Dotonbori — Osaka's most famous entertainment district. The neon-lit canal area is packed with takoyaki stalls, kushikatsu shops, ramen restaurants, and izakayas. Don Quijote Dotonbori (with its iconic giant Ferris wheel facade) is a fun stop. Budget ¥2,000–¥4,000 for dinner and drinks.
+
+🗺️ [Get transit directions from Dotonbori / Namba to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Dotonbori,+Namba,+Osaka&travelmode=transit)
 
 ---
 

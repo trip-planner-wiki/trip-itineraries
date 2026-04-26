@@ -17,13 +17,19 @@ Arashiyama is the scenic western edge of Kyoto — home to the world-famous bamb
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Arashiyama Bamboo Grove](https://www.google.com/maps/dir/?api=1&destination=Arashiyama+Bamboo+Grove,+Sagatenryuji,+Ukyo+Ward,+Kyoto&travelmode=transit)
+
 ### Early Morning — Arashiyama Bamboo Grove (08:30)
 The bamboo grove is most magical in early morning when the light filters through the towering stalks and crowds are minimal. Walk the main path (about 500m) slowly — the sound of the bamboo in the breeze is unlike anything else. Photography is best in the golden morning light. Free access.
+
+🗺️ [Directions to Tenryu-ji Temple (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Arashiyama+Bamboo+Grove,+Sagatenryuji,+Ukyo+Ward,+Kyoto&destination=Tenryu-ji+Temple,+68+Susukinobabacho,+Sagatenryuji,+Ukyo+Ward,+Kyoto&travelmode=transit)
 
 ### Morning — Tenryu-ji Temple & Garden (09:30)
 **📍 68 Susukinobabacho, Sagatenryuji, Ukyo Ward, Kyoto**
 
 One of Kyoto's finest Zen temple gardens (UNESCO World Heritage Site), Tenryu-ji's garden frames a perfectly composed view of the Arashiyama mountain backdrop. The pond garden is considered a masterpiece of landscape design. Entry ¥500 (garden only) or ¥1,000 (garden + temple building). Allow 45–60 minutes.
+
+🗺️ [Directions to Jojakko-ji & Nison-in Temples (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Tenryu-ji+Temple,+Sagatenryuji,+Ukyo+Ward,+Kyoto&destination=Jojakko-ji,+Saganotonogata,+Ukyo+Ward,+Kyoto&travelmode=transit)
 
 ### Mid-Morning — Jojakko-ji & Nison-in Temples (11:00)
 These quieter hillside temples are a 10-minute walk from the main area and offer beautiful forested gardens with far fewer tourists. Jojakko-ji has a wonderful mossy garden and hillside views. Each is ¥400–¥500 entry.
@@ -31,14 +37,20 @@ These quieter hillside temples are a 10-minute walk from the main area and offer
 ### Lunch — Arashiyama Restaurant Row (12:30)
 The main street through Arashiyama has many traditional restaurants. Try yudofu (simmered tofu) — a Kyoto specialty particularly popular in this area, or a Japanese set meal. Budget ¥1,500–¥2,500.
 
+🗺️ [Directions to Togetsukyo Bridge (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Jojakko-ji,+Saganotonogata,+Ukyo+Ward,+Kyoto&destination=Togetsukyo+Bridge,+Arashiyama,+Ukyo+Ward,+Kyoto&travelmode=transit)
+
 ### Afternoon — Togetsukyo Bridge & Katsura River (14:00)
 Cross the famous Togetsukyo ("Moon Crossing Bridge") and walk along the Katsura River bank. The mountains reflected in the water make for excellent photography. In late May, the riverbanks are green and lush. Cormorant fishing boats (ukai) operate on this river in season.
+
+🗺️ [Directions to Arashiyama Shopping Street (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Togetsukyo+Bridge,+Arashiyama,+Ukyo+Ward,+Kyoto&destination=Sagano+Shopping+Street,+Arashiyama,+Ukyo+Ward,+Kyoto&travelmode=transit)
 
 ### Late Afternoon — Arashiyama Shopping Street (15:00)
 The Sagano/Arashiyama shopping street has excellent Kyoto craft shops, bamboo goods, matcha ice cream, and traditional sweets. Browse for handmade crafts, lucky charms, and food souvenirs.
 
 ### Return to Kyoto (16:30)
 Take the Sagano/San-in Line from Saga-Arashiyama Station back to Kyoto Station (~12 minutes), or the Keifuku Arashiyama Line via Shijo-Omiya (~20 minutes to Kawaramachi area).
+
+🗺️ [Get transit directions from Saga-Arashiyama Station to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Saga-Arashiyama+Station,+Ukyo+Ward,+Kyoto&travelmode=transit)
 
 ---
 

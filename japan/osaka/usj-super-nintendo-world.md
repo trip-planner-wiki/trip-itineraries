@@ -19,6 +19,8 @@ Universal Studios Japan (USJ) is one of the best theme parks in Asia, home to Su
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Universal Studios Japan](https://www.google.com/maps/dir/?api=1&destination=Universal+Studios+Japan,+2-1-33+Sakurajima,+Konohana-ku,+Osaka&travelmode=transit)
+
 ### Morning — Studio Pass Purchase & Opening (08:30)
 **📍 2-1-33 Sakurajima, Konohawa Ward, Osaka 554-0031**
 
@@ -35,6 +37,8 @@ Harry Potter's Hogsmeade area is another USJ highlight — Butterbeer, wand expe
 
 ### Late Afternoon / Evening — Final Rides & Parade (17:00)
 USJ often has evening parades and shows — check the daily schedule. The park lights up beautifully after dark. Stay for the evening atmosphere if energy allows.
+
+🗺️ [Get transit directions from Universal Studios Japan to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Universal+Studios+Japan,+2-1-33+Sakurajima,+Konohana-ku,+Osaka&travelmode=transit)
 
 ---
 

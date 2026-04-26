@@ -21,6 +21,8 @@ Western Japan's largest antique fair, held three times a year at Kyoto Pulse Pla
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Kyoto Pulse Plaza (JR Tanbaguchi Station)](https://www.google.com/maps/dir/?api=1&destination=Kyoto+Pulse+Plaza,+Toba+Dojo-cho,+Fushimi+Ward,+Kyoto&travelmode=transit)
+
 ### Morning — Kyoto Pulse Plaza (10:00)
 **📍 Toba Dojo-cho, Fushimi Ward, Kyoto**
 
@@ -39,6 +41,8 @@ The Pulse Plaza area has cafes and restaurants. Alternatively, pack snacks and e
 
 ### Afternoon Browsing & Purchases (14:00)
 Return to the dealers you earmarked and negotiate. Prices are typically negotiable — especially for multiple purchases from the same dealer. Most dealers speak limited English but are used to communicating across language barriers.
+
+🗺️ [Get transit directions from Kyoto Pulse Plaza to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Kyoto+Pulse+Plaza,+Toba+Dojo-cho,+Fushimi+Ward,+Kyoto&travelmode=transit)
 
 ---
 

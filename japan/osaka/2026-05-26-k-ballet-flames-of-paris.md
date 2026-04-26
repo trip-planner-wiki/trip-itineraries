@@ -20,10 +20,14 @@ A full-length ballet by K-Ballet Tokyo under director Tetsuya Kumakawa — "Flam
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Nakanoshima, Osaka](https://www.google.com/maps/dir/?api=1&destination=Nakanoshima+Park,+Kita-ku,+Osaka&travelmode=transit)
+
 ### Afternoon — Nakanoshima Walk & Pre-Show (15:00)
 **📍 Nakanoshima, Osaka**
 
 Nakanoshima is a narrow island between the Dojima and Tosabori rivers in central Osaka — a cultural and business district with a park, art museums, and classic architecture. Walk along the riverside paths, visit the Nakanoshima Park rose garden (in bloom in late May), and enjoy the elegant atmosphere before the performance.
+
+🗺️ [Directions to Festival Hall (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Nakanoshima+Park,+Kita-ku,+Osaka&destination=Festival+Hall,+2-3-18+Nakanoshima,+Kita-ku,+Osaka&travelmode=transit)
 
 ### Pre-Show Dinner — Nakanoshima Restaurants (17:00)
 The area around Festival Hall has several excellent restaurants. Budget ¥2,000–¥5,000 for a pre-show dinner.
@@ -32,6 +36,8 @@ The area around Festival Hall has several excellent restaurants. Budget ¥2,000�
 **📍 Festival Hall, 2-3-18 Nakanoshima, Kita-ku, Osaka**
 
 "Flames of Paris" is a passionate, physically demanding ballet — dramatic rather than delicate. Expect high-energy lifts, ensemble dances representing revolutionary mobs, and passionate pas de deux. The production quality of K-Ballet Tokyo is world-class.
+
+🗺️ [Get transit directions from Festival Hall to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Festival+Hall,+2-3-18+Nakanoshima,+Kita-ku,+Osaka&travelmode=transit)
 
 ---
 

@@ -17,26 +17,38 @@ Ginza is Tokyo's most prestigious shopping and dining district — a place where
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to G.Itoya Ginza](https://www.google.com/maps/dir/?api=1&destination=G.Itoya+Ginza,+2-7-15+Ginza,+Chuo-ku,+Tokyo&travelmode=transit)
+
 ### Morning — G.Itoya Ginza Main Store (10:30)
 **📍 2-7-15 Ginza, Chuo-ku, Tokyo**
 
 Open since 1904, G.Itoya is Japan's most celebrated stationery store — a 12-floor monument to paper craft, design, and writing tools. Every floor has a different focus: fountain pens, notebooks, art supplies, travel accessories, and more. Floor 9 has a small post office where you can send postcards. Easily spend 1–2 hours here. Perfect for stationery and craft lovers.
+
+🗺️ [Directions to Ginza Katsukami (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=G.Itoya+Ginza,+2-7-15+Ginza,+Chuo-ku,+Tokyo&destination=Ginza+Katsukami,+5-6-10+Ginza,+Chuo-ku,+Tokyo&travelmode=transit)
 
 ### Lunch — Ginza Katsukami (12:30)
 **📍 Ginza Miyako Building 5F, 5-6-10 Ginza, Chuo-ku**
 
 Japan's first course-only tonkatsu restaurant uses premium pork breeds (Kurobuta and others). The theatrical experience includes watching the chef slice and bread the cutlet before deep-frying. Lunch course from ¥5,500 per person. Reservation recommended.
 
+🗺️ [Directions to Ginza Chuo-dori shopping (walk)](https://www.google.com/maps/dir/?api=1&origin=Ginza+Katsukami,+5-6-10+Ginza,+Chuo-ku,+Tokyo&destination=Ginza+Chuo-dori,+Chuo-ku,+Tokyo&travelmode=transit)
+
 ### Afternoon — Ginza Shopping Stroll (14:00)
 Walk Ginza's famous Chuo-dori, lined with flagship stores from both Japanese and international brands. Uniqlo's Ginza Flagship is a highlight — one of their most impressive stores in Japan. On weekends, the street becomes pedestrian-only (hokōsha tengoku). Browse at your own pace, taking in the architecture and window displays.
 
+🗺️ [Directions to Imperial Palace East Gardens (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Ginza,+Chuo-ku,+Tokyo&destination=Imperial+Palace+East+Gardens,+Chiyoda-ku,+Tokyo&travelmode=transit)
+
 ### Mid-Afternoon — Marunouchi / Imperial Palace Gardens (15:30)
 A 10-minute walk from Ginza brings you to Marunouchi, Tokyo's business heart and home to some of the city's best architecture. The Imperial Palace East Gardens (free, open most days) offer a quiet green escape with traditional landscape design just minutes from the city buzz.
+
+🗺️ [Directions to Manten Sushi Marunouchi (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Imperial+Palace+East+Gardens,+Chiyoda-ku,+Tokyo&destination=Manten+Sushi+Marunouchi,+2-6-1+Marunouchi,+Chiyoda-ku,+Tokyo&travelmode=transit)
 
 ### Dinner — Manten Sushi Marunouchi (18:00)
 **📍 B1F, Marunouchi Brick Square, 2-6-1 Marunouchi, Chiyoda-ku**
 
 A highly regarded omakase sushi restaurant at accessible prices (from ~¥6,930/person at lunch, higher at dinner). The chef's selection changes with the season. Reservations are required. This is one of the best value omakase experiences in central Tokyo.
+
+🗺️ [Get transit directions from Marunouchi to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Marunouchi,+Chiyoda-ku,+Tokyo&travelmode=transit)
 
 ---
 

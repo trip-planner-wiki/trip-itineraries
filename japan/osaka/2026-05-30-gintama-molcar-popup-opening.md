@@ -20,17 +20,25 @@ The grand opening of a wonderfully quirky crossover popup store between samurai 
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Nipponbashi / Den-Den Town, Osaka](https://www.google.com/maps/dir/?api=1&destination=Nipponbashi+Station,+Naniwa-ku,+Osaka&travelmode=transit)
+
 ### Morning — Den-Den Town / Nipponbashi Area (10:00)
 The popup is in the Nipponbashi/Namba area. Arrive in the morning to explore Den-Den Town before the grand opening rush at 11:00.
 
 ### Grand Opening — Gintama × Molcar POP UP (11:00)
 Be among the first visitors at the grand opening. Grand openings typically have the best merchandise stock before popular items sell out. The collaboration produces unique items combining Gintama's samurai aesthetic with PUI PUI Molcar's adorable guinea pig designs — a very Osaka-style surreal comedy combination.
 
+🗺️ [Directions to Namba / Dotonbori (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Nipponbashi+Station,+Naniwa-ku,+Osaka&destination=Dotonbori,+Namba,+Osaka&travelmode=transit)
+
 ### Afternoon — Namba / Dotonbori (13:00)
 Spend the afternoon in the Namba/Dotonbori area. If you haven't visited Izakaya Toyo yet (Tue/Wed/Fri/Sat only), May 30 is a Saturday — one of the best times to try to get in.
 
+🗺️ [Directions to Dotonbori for final evening (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Namba,+Osaka&destination=Dotonbori,+Chuo-ku,+Osaka&travelmode=transit)
+
 ### Evening — Final Osaka Evening (18:00)
 A final evening in Osaka before departing for Kyoto the next day. Dotonbori for dinner and a walk along the famous canal to say goodbye to Osaka.
+
+🗺️ [Get transit directions from Dotonbori / Namba to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Dotonbori,+Namba,+Osaka&travelmode=transit)
 
 ---
 

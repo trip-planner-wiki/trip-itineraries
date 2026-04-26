@@ -20,6 +20,8 @@ Fujinomori Shrine (in southern Kyoto) opens its two hydrangea gardens for the en
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Fujinomori Shrine (Sumizome Station, Kintetsu Kyoto Line)](https://www.google.com/maps/dir/?api=1&destination=Fujinomori+Shrine,+609+Fukakusa+Toriimae-cho,+Fushimi+Ward,+Kyoto&travelmode=transit)
+
 ### Morning — Fujinomori Shrine (10:00)
 **📍 609 Fukakusa Toriimae-cho, Fushimi Ward, Kyoto**
 
@@ -31,6 +33,8 @@ The two hydrangea gardens are opened during June specifically for visitors. Earl
 ### Matcha at the Shrine Tea House (11:30)
 Many Kyoto shrines offer matcha and sweets during special seasonal openings. Check if the shrine's tea ceremony area is available for visitors on your date. Budget ¥500–¥800.
 
+🗺️ [Directions to Fushimi Inari Shrine (walk or bus, ~15 min)](https://www.google.com/maps/dir/?api=1&origin=Fujinomori+Shrine,+Fushimi+Ward,+Kyoto&destination=Fushimi+Inari+Shrine,+Fushimi+Ward,+Kyoto&travelmode=transit)
+
 ### Afternoon — Combine with Fushimi Area (13:00)
 Fujinomori Shrine is in the Fushimi district of southern Kyoto — the same area as Fushimi Inari Shrine (famous for thousands of orange torii gates). The two are about 15 minutes apart by foot or bicycle. A combined afternoon covers both.
 
@@ -38,6 +42,8 @@ Fujinomori Shrine is in the Fushimi district of southern Kyoto — the same area
 **📍 68 Fukakusamiyashita-cho, Fushimi Ward, Kyoto**
 
 The lower portion of Fushimi Inari (the torii gates leading up the mountain) is one of Kyoto's most photographed sights. Walk the first 20–30 minutes of the trail for the most dramatic gates and then return — you don't need to hike the entire mountain (which takes 2+ hours round trip).
+
+🗺️ [Get transit directions from Fushimi Inari to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Fushimi+Inari+Shrine,+Fushimi+Ward,+Kyoto&travelmode=transit)
 
 ---
 

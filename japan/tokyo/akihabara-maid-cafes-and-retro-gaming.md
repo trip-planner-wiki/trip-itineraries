@@ -17,10 +17,14 @@ Akihabara — "Electric Town" — is the heart of Tokyo's otaku culture. This da
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Cure Maid Cafe](https://www.google.com/maps/dir/?api=1&destination=Cure+Maid+Cafe,+1-2-7+Sotokanda,+Chiyoda-ku,+Tokyo&travelmode=transit)
+
 ### Morning — Cure Maid Cafe (10:00)
 **📍 Onoden Building 4F, 1-2-7 Sotokanda, Chiyoda-ku**
 
 Begin your day at Japan's very first maid cafe, founded in 2001. Cure Maid Cafe celebrates its 25th anniversary in 2026. Known for a quieter, "healing" atmosphere — perfect for a morning visit. Enjoy authentic tea and sweets served by maids in elegant uniforms. The cafe frequently runs anime/manga collaboration events. Ideal for first-timers and solo visitors. Budget ~¥1,500–¥2,500 for food and a cover charge.
+
+🗺️ [Directions to Super Potato Akihabara (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Cure+Maid+Cafe,+1-2-7+Sotokanda,+Chiyoda-ku,+Tokyo&destination=Super+Potato+Akihabara,+1-11-2+Soto-Kanda,+Chiyoda-ku,+Tokyo&travelmode=transit)
 
 ### Late Morning — Super Potato Akihabara (11:30)
 **📍 Kitabayashi Building 3F–5F, 1-11-2 Soto-Kanda, Chiyoda-ku**
@@ -30,10 +34,14 @@ Walk 5 minutes to the iconic Super Potato — the most famous retro video game s
 ### Lunch — Akihabara Cafes & Street Food (13:00)
 Take a walk along Chuo-dori, the main street of Akihabara. Grab lunch from one of the many quick-eat options — ramen shops, gyudon chains, or convenience stores if you're saving budget for maid cafes. The entire area is packed with options at every price point.
 
+🗺️ [Directions to @home cafe Akihabara (walk, ~2 min)](https://www.google.com/maps/dir/?api=1&origin=Super+Potato+Akihabara,+1-11-2+Soto-Kanda,+Chiyoda-ku,+Tokyo&destination=%40home+cafe+Akihabara,+1-11-4+Sotokanda,+Chiyoda-ku,+Tokyo&travelmode=transit)
+
 ### Afternoon — @home cafe Akihabara (14:30)
 **📍 Mitsuwa Building 3F–7F, 1-11-4 Sotokanda, Chiyoda-ku**
 
 One of Akihabara's most iconic maid cafes with 600,000+ annual visitors and 4 full floors. Known for creative food presentation with latte art drawn by maids, and every guest receives a free Master's Certificate souvenir. Costumes designed by fashion designer Keita Maruyama. Budget ~¥2,000–¥3,500.
+
+🗺️ [Directions to Yellow Submarine Akihabara (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=%40home+cafe+Akihabara,+1-11-4+Sotokanda,+Chiyoda-ku,+Tokyo&destination=Yellow+Submarine+Akihabara,+Tokyo&travelmode=transit)
 
 ### Mid-Afternoon — Yellow Submarine Akihabara (16:00)
 **📍 Akihabara area**
@@ -43,10 +51,14 @@ Browse one of Japan's premier specialty shops for trading cards, board games, RP
 ### Late Afternoon — Free Exploration (17:00)
 Explore Akihabara at your own pace. Visit Animate for new anime merchandise, K-Books for doujinshi and limited goods, or any of the dozens of specialty shops. The area has endless stores for manga, figures, cosplay supplies, and electronics.
 
+🗺️ [Directions to maidreamin Akihabara Main Store (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Yellow+Submarine+Akihabara,+Tokyo&destination=maidreamin+Akihabara+Main+Store,+3-16-17+Sotokanda,+Chiyoda-ku,+Tokyo&travelmode=transit)
+
 ### Evening — maidreamin Akihabara Main Store (18:30)
 **📍 Sumiyoshi Building 6F, 3-16-17 Sotokanda, Chiyoda-ku**
 
 End the day at maidreamin — the most popular maid cafe chain in Japan with a lively, energetic atmosphere. Offers live maid performances, magic spells cast on food ("moe moe kyun!"), and photo opportunities. Transitions into an alcohol bar at night. Budget ~¥2,500–¥4,000 for food, drinks, and photos.
+
+🗺️ [Get transit directions from maidreamin Akihabara to your accommodation](https://www.google.com/maps/dir/?api=1&origin=maidreamin+Akihabara+Main+Store,+3-16-17+Sotokanda,+Chiyoda-ku,+Tokyo&travelmode=transit)
 
 ---
 

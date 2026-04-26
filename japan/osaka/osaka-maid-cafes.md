@@ -17,23 +17,33 @@ Osaka has a surprisingly vibrant maid cafe scene, concentrated around Namba and 
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to maidreamin Namba, Osaka](https://www.google.com/maps/dir/?api=1&destination=maidreamin+Namba,+Osaka&travelmode=transit)
+
 ### Morning — maidreamin Osaka Namba (11:00)
 **📍 Namba, Osaka**
 
 Start with maidreamin's Namba location — one of the most accessible maid cafe experiences in Osaka. The chain is known for its energetic atmosphere, live performances, and magic spells cast on food. A good entry point if this is your first maid cafe experience. Budget ¥2,000–¥3,500 (includes table charge).
+
+🗺️ [Directions to @home cafe Osaka, Namba (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=maidreamin+Namba,+Osaka&destination=%40home+cafe+Osaka,+Namba,+Osaka&travelmode=transit)
 
 ### Mid-Morning / Lunch — @home cafe Osaka (12:30)
 **📍 Namba area, Osaka**
 
 The Osaka branch of Tokyo's iconic @home cafe, one of Akihabara's most famous maid cafes. Known for creative food presentation and a welcoming atmosphere. Budget ¥2,000–¥3,500.
 
+🗺️ [Directions to Den-Den Town / Nipponbashi (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Namba,+Osaka&destination=Nipponbashi,+Naniwa-ku,+Osaka&travelmode=transit)
+
 ### Afternoon — Den-Den Town Browsing (14:00)
 Walk from Namba to Den-Den Town/Nipponbashi for anime shopping between cafe visits. Animate Nipponbashi, Mandarake, and the various specialty shops on Ota Road are all close by.
+
+🗺️ [Directions to maidreamin Nipponbashi Otaroad (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Nipponbashi,+Naniwa-ku,+Osaka&destination=maidreamin+Nipponbashi+Otaroad,+Osaka&travelmode=transit)
 
 ### Mid-Afternoon — maidreamin Osaka Nipponbashi Otaroad (15:30)
 **📍 Nipponbashi Ota Road, Osaka**
 
 The Den-Den Town location of maidreamin — ideal for visiting alongside the otaku shopping area. Slightly different atmosphere from the Namba location; more embedded in the otaku shopping district. Budget ¥2,000–¥3,500.
+
+🗺️ [Directions to Ota Road / unique maid cafes (walk, ~2 min)](https://www.google.com/maps/dir/?api=1&origin=maidreamin+Nipponbashi+Otaroad,+Osaka&destination=Ota+Road,+Nipponbashi,+Naniwa-ku,+Osaka&travelmode=transit)
 
 ### Late Afternoon — Unique Osaka Maid Cafes (17:00)
 Osaka has several one-of-a-kind maid cafes worth exploring:
@@ -45,8 +55,12 @@ Osaka has several one-of-a-kind maid cafes worth exploring:
 
 Browse Ota Road to find whichever concept appeals most, or pick one from the list above.
 
+🗺️ [Directions to Dotonbori for dinner (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Ota+Road,+Nipponbashi,+Naniwa-ku,+Osaka&destination=Dotonbori,+Namba,+Osaka&travelmode=transit)
+
 ### Evening — Dotonbori Dinner (19:00)
 Head back to Namba/Dotonbori for dinner. The street food, izakayas, and restaurants of Dotonbori make for a great end to a themed day. Budget ¥2,000–¥4,000.
+
+🗺️ [Get transit directions from Dotonbori / Namba to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Dotonbori,+Namba,+Osaka&travelmode=transit)
 
 ---
 

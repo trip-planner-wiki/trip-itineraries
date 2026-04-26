@@ -21,6 +21,8 @@ Design Festa is Asia's largest art event — running since 1994, it's a massive 
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Tokyo Big Sight](https://www.google.com/maps/dir/?api=1&destination=Tokyo+Big+Sight,+3-11-1+Ariake,+Koto-ku,+Tokyo&travelmode=transit)
+
 ### Morning — Tokyo Big Sight (10:00)
 **📍 3-11-1 Ariake, Koto-ku, Tokyo**
 
@@ -37,6 +39,8 @@ This is the heart of Design Festa — thousands of individual artists selling th
 
 ### Late Afternoon — Fashion Shows & Music (16:00)
 Design Festa features runway fashion shows with independent designers throughout the day. The Live Stage also hosts band performances and dance acts. Check the schedule posted at the entrance to catch anything specific you want to see.
+
+🗺️ [Get transit directions from Tokyo Big Sight to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Tokyo+Big+Sight,+3-11-1+Ariake,+Koto-ku,+Tokyo&travelmode=transit)
 
 ---
 

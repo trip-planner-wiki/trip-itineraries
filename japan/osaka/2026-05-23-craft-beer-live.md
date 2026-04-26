@@ -21,6 +21,8 @@ Craft Beer Live is the largest craft beer festival in Kansai — approximately 3
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to ATC Piloti Plaza, Nanko](https://www.google.com/maps/dir/?api=1&destination=ATC+Piloti+Plaza,+2-1-10+Nanko-Kita,+Suminoe-ku,+Osaka&travelmode=transit)
+
 ### Getting There (11:30)
 **📍 ATC Piloti Plaza, 2-1-10 Nanko-Kita, Suminoe Ward, Osaka**
 
@@ -37,6 +39,8 @@ The live stage features music performances throughout the day. Check the day's s
 
 ### Late Afternoon — Wind Down (17:00)
 Final beers and food as the festival winds down. The waterfront location has pleasant views of the port area.
+
+🗺️ [Get transit directions from ATC Piloti Plaza to your accommodation](https://www.google.com/maps/dir/?api=1&origin=ATC+Piloti+Plaza,+2-1-10+Nanko-Kita,+Suminoe-ku,+Osaka&travelmode=transit)
 
 ---
 

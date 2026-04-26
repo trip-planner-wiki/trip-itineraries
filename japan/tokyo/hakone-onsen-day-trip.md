@@ -17,6 +17,8 @@ Hakone is Japan's most beloved onsen destination — a mountainous national park
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Shinjuku Station (for Odakyu Romance Car to Hakone)](https://www.google.com/maps/dir/?api=1&destination=Shinjuku+Station,+Tokyo&travelmode=transit)
+
 ### Morning — Hakone-Yumoto & Hakone Tozan Railway (08:30)
 **📍 Hakone-Yumoto Station, Hakone, Kanagawa**
 
@@ -24,20 +26,28 @@ Depart Tokyo early. From Shinjuku, take the Odakyu Romance Car (reserved express
 
 > **Tip:** The Hakone Freepass (¥6,500 from Shinjuku) covers the Odakyu limited express, Hakone Tozan Railway, Ropeway, Lake Ashi cruise, and most buses within Hakone — strongly recommended.
 
+🗺️ [Directions to Owakudani (Hakone Tozan Cable Car + Ropeway from Gora)](https://www.google.com/maps/dir/?api=1&origin=Gora+Station,+Hakone,+Kanagawa&destination=Owakudani,+Hakone,+Kanagawa&travelmode=transit)
+
 ### Mid-Morning — Hakone Ropeway & Owakudani (10:30)
 **📍 Owakudani, Sengokuhara, Hakone**
 
 At Gora, transfer to the Hakone Tozan Cable Car up to Sounzan, then board the Hakone Ropeway. The ropeway rises over Owakudani — the Great Boiling Valley — a raw volcanic landscape of steam vents, sulfurous fumes, and bubbling mud pools. The views of Mount Fuji on a clear day are extraordinary. At the Owakudani station, try **kuro-tamago** — black hard-boiled eggs cooked in the volcanic springs, said to add 7 years to your life (¥500 for 5 eggs). Allow 45–60 minutes here.
+
+🗺️ [Directions to Togendai Port / Lake Ashi (Hakone Ropeway)](https://www.google.com/maps/dir/?api=1&origin=Owakudani,+Hakone,+Kanagawa&destination=Togendai+Port,+Lake+Ashi,+Hakone&travelmode=transit)
 
 ### Late Morning — Lake Ashi Sightseeing Cruise (12:00)
 **📍 Togendai Port → Moto-Hakone Port, Lake Ashi**
 
 Continue on the ropeway down to Togendai on Lake Ashi, then board a replica pirate ship for a 30-minute cruise across the lake to Moto-Hakone. On clear days, Mount Fuji's perfect cone rises above the far shore. The floating torii gate of Hakone Shrine is visible from the water. Budget ~¥1,200 (included in Freepass).
 
+🗺️ [Directions to Moto-Hakone lakeside restaurants (Lake Ashi cruise)](https://www.google.com/maps/dir/?api=1&origin=Togendai+Port,+Lake+Ashi,+Hakone&destination=Moto-Hakone,+Hakone,+Kanagawa&travelmode=transit)
+
 ### Lunch — Moto-Hakone Lakeside (12:45)
 **📍 Moto-Hakone, Lake Ashi**
 
 Several restaurants and cafes sit along the lakefront at Moto-Hakone. Try soba or a set lunch with lake views. Budget ¥1,000–¥2,000.
+
+🗺️ [Directions to Hakone Shrine (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Moto-Hakone,+Hakone,+Kanagawa&destination=Hakone+Shrine,+80-1+Motohakone,+Hakone,+Kanagawa&travelmode=transit)
 
 ### Early Afternoon — Hakone Shrine & Ancient Cedar Avenue (13:30)
 **📍 80-1 Motohakone, Hakone, Kanagawa 250-0522**
@@ -45,6 +55,8 @@ Several restaurants and cafes sit along the lakefront at Moto-Hakone. Try soba o
 Walk 10 minutes from the Moto-Hakone pier to Hakone Shrine — one of Japan's most iconic shrines, over 1,000 years old. The red torii gate appearing to rise from the surface of Lake Ashi is unmistakably beautiful. Free entry. The surrounding ancient cedar forest is cool and atmospheric. Allow 30–45 minutes.
 
 Directly adjacent, stroll a section of the **Ancient Cedar Avenue (Sugi Namiki)** — an Edo-period avenue of towering cedars planted along the old Tokaido road. Free, serene, and ideal for quiet walking.
+
+🗺️ [Directions to Yunessun Onsen (bus from Moto-Hakone to Kowakidani, ~15 min)](https://www.google.com/maps/dir/?api=1&origin=Moto-Hakone,+Hakone,+Kanagawa&destination=Yunessun+Onsen,+1297+Ninotaira,+Hakone,+Kanagawa&travelmode=transit)
 
 ### Afternoon — Yunessun Onsen (15:00)
 **📍 1297 Ninotaira, Hakone, Ashigarashimo District, Kanagawa 250-0631**
@@ -55,6 +67,8 @@ Entry: Mori no Yu only ~¥1,500 / Combined Yunessun + Mori no Yu ~¥2,500. Towel
 
 ### Early Evening — Return to Tokyo (17:00)
 Take the Hakone Tozan bus back to Hakone-Yumoto (30 min), then the Odakyu Romance Car back to Shinjuku (~85 min). Arrive in Tokyo around 19:30.
+
+🗺️ [Get transit directions from Shinjuku Station to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Shinjuku+Station,+Tokyo&travelmode=transit)
 
 ---
 

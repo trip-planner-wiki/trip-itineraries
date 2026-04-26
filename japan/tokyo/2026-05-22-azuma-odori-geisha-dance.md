@@ -20,10 +20,14 @@ The 101st edition of the Azuma Odori — one of Tokyo's rarest annual events. Th
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Tsukiji Outer Market](https://www.google.com/maps/dir/?api=1&destination=Tsukiji+Outer+Market,+Tsukiji,+Chuo-ku,+Tokyo&travelmode=transit)
+
 ### Morning — Tsukiji Outer Market (10:00)
 **📍 Tsukiji, Chuo-ku, Tokyo**
 
 Tsukiji Outer Market (the public market — the inner wholesale market moved to Toyosu) is a 10-minute walk from Shimbashi. Spend the morning browsing fresh seafood, Japanese pickles, street food, and specialty food vendors. Try a fresh tuna sashimi bowl or tamagoyaki (sweet egg omelet) from one of the iconic stalls. Budget ¥1,500–¥3,000 for breakfast/brunch.
+
+🗺️ [Directions to Shimbashi Enbujō Theatre (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Tsukiji+Outer+Market,+Tsukiji,+Chuo-ku,+Tokyo&destination=Shimbashi+Enbujo+Theatre,+Shimbashi,+Minato-ku,+Tokyo&travelmode=transit)
 
 ### Afternoon — Shimbashi & Pre-Show (13:00)
 Shimbashi itself is a traditional salaryman district with excellent old-school restaurants and izakayas. Walk around the area before the show. The Shimbashi Enbujō Theatre is a beautiful traditional performance hall worth arriving early to appreciate.
@@ -33,8 +37,12 @@ Shimbashi itself is a traditional salaryman district with excellent old-school r
 
 The performance runs approximately 2 hours including the interval. The Kabuki-inspired first act is visually spectacular — elaborate costumes, precise movement, and traditional staging. The second act features nagauta (long-song) traditional music with shamisen accompaniment. Food, sake, and tea are available during the interval.
 
+🗺️ [Directions to Shimbashi izakayas (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Shimbashi+Enbujo+Theatre,+Shimbashi,+Minato-ku,+Tokyo&destination=Shimbashi+Station,+Minato-ku,+Tokyo&travelmode=transit)
+
 ### Evening — Shimbashi Izakayas (post-show)
 Shimbashi is famous for its dense concentration of traditional izakayas in the maze of back alleys behind the station. A great place for yakitori, grilled food, and sake after the performance. Budget ¥2,000–¥4,000.
+
+🗺️ [Get transit directions from Shimbashi to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Shimbashi+Station,+Minato-ku,+Tokyo&travelmode=transit)
 
 ---
 

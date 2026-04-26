@@ -17,13 +17,19 @@ Dotonbori is the beating heart of Osaka's food culture and nightlife — a neon-
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Kuromon Ichiba Market](https://www.google.com/maps/dir/?api=1&destination=Kuromon+Ichiba+Market,+Nipponbashi,+Naniwa-ku,+Osaka&travelmode=transit)
+
 ### Late Afternoon — Nishiki Market of the West: Kuromon Market (15:00)
 **📍 Nipponbashi, Naniwa-ku, Osaka**
 
 Start with Kuromon Ichiba Market — Osaka's covered food market nicknamed "Osaka's Kitchen." 170+ stalls selling fresh seafood, skewered crab legs, wagyu beef, sashimi, and Osaka specialties. Many vendors let you eat directly at their counters. Budget ¥1,500–¥3,000 for snacking.
 
+🗺️ [Directions to Dotonbori Canal (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Kuromon+Ichiba+Market,+Nipponbashi,+Naniwa-ku,+Osaka&destination=Dotonbori+Canal,+Namba,+Osaka&travelmode=transit)
+
 ### Early Evening — Dotonbori Canal Walk (17:00)
 Walk along the Dotonbori canal, taking in the famous giant signs: the Glico Running Man, the giant crab of Kani Doraku, and the blowfish lanterns. Cross Ebisubashi bridge for the classic Dotonbori photo. The atmosphere intensifies as night falls.
+
+🗺️ [Directions to Dotonbori street food area (walk, ~2 min)](https://www.google.com/maps/dir/?api=1&origin=Dotonbori+Canal,+Namba,+Osaka&destination=Dotonbori,+Chuo-ku,+Osaka&travelmode=transit)
 
 ### Evening — Street Food Circuit (17:30)
 Dotonbori is the birthplace of takoyaki (octopus balls) and is also famous for:
@@ -31,13 +37,19 @@ Dotonbori is the birthplace of takoyaki (octopus balls) and is also famous for:
 - **Okonomiyaki** — Osaka-style savory pancake at Mizuno (¥1,200–¥2,000)
 - **Kushikatsu** — Deep-fried skewers at Daruma (¥100–¥200 per skewer)
 
+🗺️ [Directions to Shinsaibashi shopping arcade (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Dotonbori,+Chuo-ku,+Osaka&destination=Shinsaibashi-suji+Shopping+Arcade,+Chuo-ku,+Osaka&travelmode=transit)
+
 ### Evening — Shinsaibashi & Don Quijote (19:00)
 Walk through the covered Shinsaibashi-suji shopping arcade (open until 21:00). Don Quijote Dotonbori — with its iconic giant Ferris wheel facade — is the place for cheap snacks, souvenirs, anime goods, cosmetics, and general chaos. Fun to browse even if you don't buy much.
+
+🗺️ [Directions to Izakaya Toyo (subway Chuo Line to Kyobashi, ~15 min)](https://www.google.com/maps/dir/?api=1&origin=Shinsaibashi-suji+Shopping+Arcade,+Chuo-ku,+Osaka&destination=Izakaya+Toyo,+3-2-26+Higashinodamachi,+Miyakojima-ku,+Osaka&travelmode=transit)
 
 ### Late Evening — Izakaya Toyo (20:00)
 **📍 3-2-26 Higashinodamachi, Miyakojima Ward, Osaka**
 
 Made famous by Netflix Street Food Asia, Izakaya Toyo is a standing-only tachinomi izakaya run by the flamboyant Chef Toyo. Fresh seafood at extraordinarily low prices. **Open Tue/Wed/Fri/Sat only.** Often sells out — arrive 30+ minutes before opening. Near Kyobashi Station. Budget ¥2,000–¥4,000.
+
+🗺️ [Get transit directions from Kyobashi to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Kyobashi+Station,+Miyakojima-ku,+Osaka&travelmode=transit)
 
 ---
 

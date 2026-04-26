@@ -21,10 +21,14 @@ Kyoto's annual torchlight Noh theater — one of the city's most atmospheric cul
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Heian Shrine, Kyoto](https://www.google.com/maps/dir/?api=1&destination=Heian+Shrine,+Okazaki+Nishitennocho,+Sakyo+Ward,+Kyoto&travelmode=transit)
+
 ### Afternoon — Heian Shrine Visit (16:00)
 **📍 Okazaki Nishitennocho, Sakyo Ward, Kyoto**
 
 Heian Shrine is one of Kyoto's most impressive — a large, vermilion-painted shrine complex with an expansive courtyard and beautiful strolling garden (entry ¥600). Visit in the afternoon to see the shrine in daylight before the torchlight performances begin. The garden is particularly beautiful in June with iris flowers.
+
+🗺️ [Directions to Okazaki / Nanzenji dinner restaurants (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Heian+Shrine,+Okazaki+Nishitennocho,+Sakyo+Ward,+Kyoto&destination=Okazaki,+Sakyo+Ward,+Kyoto&travelmode=transit)
 
 ### Dinner — Okazaki / Nanzenji Area (17:00)
 The Okazaki cultural district has several excellent restaurants and cafes. Budget ¥1,500–¥3,000 for a pre-show dinner.
@@ -33,6 +37,8 @@ The Okazaki cultural district has several excellent restaurants and cafes. Budge
 **📍 Heian Shrine, outdoor stage**
 
 As darkness falls, the torches are lit and the Noh performers take the stage. Noh theater is Japan's oldest theatrical form — slow, symbolic, and deeply atmospheric. The slow pace can seem unusual at first but becomes mesmerizing as the performances progress. Five plays are performed through the evening. English program summaries help follow the narratives. Bring a light jacket — evenings can be cool.
+
+🗺️ [Get transit directions from Heian Shrine to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Heian+Shrine,+Okazaki+Nishitennocho,+Sakyo+Ward,+Kyoto&travelmode=transit)
 
 ---
 

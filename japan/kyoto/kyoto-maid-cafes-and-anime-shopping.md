@@ -17,15 +17,21 @@ Kyoto may be best known for temples and traditional culture, but it also has a t
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to BOOKOFF PLUS Kawaramachi OPA](https://www.google.com/maps/dir/?api=1&destination=BOOKOFF+PLUS+Kawaramachi+OPA,+Shijo-Kawaramachi,+Kyoto&travelmode=transit)
+
 ### Morning — BOOKOFF PLUS Kawaramachi OPA (10:00)
 **📍 8F Kawaramachi OPA, Shijo-Kawaramachi, Kyoto**
 
 Start with Kyoto's best second-hand anime/manga shop on the 8th floor of Kawaramachi OPA. Great for finding used manga, anime goods, and trading cards. Budget 45–60 minutes.
 
+🗺️ [Directions to Don Quijote Shijo Kawaramachi (walk, ~2 min)](https://www.google.com/maps/dir/?api=1&origin=Kawaramachi+OPA,+Shijo-Kawaramachi,+Kyoto&destination=Don+Quijote+Shijo+Kawaramachi,+Kyoto&travelmode=transit)
+
 ### Mid-Morning — Don Quijote Shijo Kawaramachi (11:00)
 **📍 Shijo-Kawaramachi, Kyoto**
 
 The most central Kyoto location of Don Quijote, near Nishiki Market. Browse for snacks, souvenirs, anime goods, and sundries. Always worth a stop.
+
+🗺️ [Directions to maid cafe (walk, ~5 min within Kawaramachi area)](https://www.google.com/maps/dir/?api=1&origin=Shijo-Kawaramachi,+Kyoto&destination=aiDream+Maid+Cafe,+Kawaramachi,+Kyoto&travelmode=transit)
 
 ### Late Morning — Maid Cafe Visit 1 (11:30)
 Kyoto has multiple maid cafes in the Kawaramachi area. Options include:
@@ -37,6 +43,8 @@ Choose one for a leisurely mid-morning visit. Budget ¥2,000–¥3,500 (includes
 
 ### Lunch (13:00)
 The Shijo-Kawaramachi area has endless lunch options from fast casual to traditional Kyoto cuisine. Budget ¥800–¥2,000.
+
+🗺️ [Directions to second maid cafe (walk within Kawaramachi area)](https://www.google.com/maps/dir/?api=1&origin=Shijo-Kawaramachi,+Kyoto&destination=Shijo-Kawaramachi,+Nakagyo+Ward,+Kyoto&travelmode=transit)
 
 ### Afternoon — Maid Cafe Visit 2 (14:30)
 Visit a second maid cafe with a different concept:
@@ -50,13 +58,19 @@ Visit a second maid cafe with a different concept:
 
 Budget ¥2,000–¥3,500.
 
+🗺️ [Directions to Uniqlo Kyoto Kawaramachi / Mina Kyoto (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Shijo-Kawaramachi,+Kyoto&destination=Uniqlo+Kyoto+Kawaramachi,+Mina+Kyoto,+Kyoto&travelmode=transit)
+
 ### Late Afternoon — Uniqlo Kyoto Kawaramachi (16:30)
 **📍 Mina Kyoto, Kawaramachi Street, Kyoto**
 
 The most notable Kyoto Uniqlo, inside the Mina Kyoto shopping complex on historic Kawaramachi Street. Near Kyoto-Kawaramachi Station. Good for picking up travel basics or the latest UT (Uniqlo T-shirt) anime collaborations.
 
+🗺️ [Directions to Nishiki Market (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Mina+Kyoto,+Kawaramachi,+Kyoto&destination=Nishiki+Market,+Nakagyo+Ward,+Kyoto&travelmode=transit)
+
 ### Evening — Nishiki Market for Dinner Snacks (17:30)
 End the day browsing Nishiki Market for dinner components — yakitori, grilled mochi, fresh pickles, and Kyoto sweets. The market starts winding down around 18:00, so this is a last-chance window.
+
+🗺️ [Get transit directions from Nishiki Market / Kawaramachi to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Nishiki+Market,+Nakagyo+Ward,+Kyoto&travelmode=transit)
 
 ---
 

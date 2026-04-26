@@ -21,6 +21,8 @@ A hands-on seasonal tea leaf picking experience in the grounds of the iconic Exp
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Expo 70 Commemorative Park (Bampaku-Kinen-Koen Station)](https://www.google.com/maps/dir/?api=1&destination=Expo+70+Commemorative+Park,+Suita+City,+Osaka&travelmode=transit)
+
 ### Morning — Travel to Suita (08:30)
 **📍 1-1 Senribanpaku-Koen, Suita City, Osaka**
 
@@ -35,8 +37,12 @@ The Tower of the Sun (Taiyo no To) by artist Taro Okamoto is one of Japan's most
 ### Lunch — Park Area (12:00)
 The park has restaurants and food stands. Budget ¥800–¥1,500. The Japanese Garden section of the park (additional ¥450 entry) has a teahouse serving matcha.
 
+🗺️ [Directions to Japanese Garden within the park (walk)](https://www.google.com/maps/dir/?api=1&origin=Expo+70+Commemorative+Park,+Suita+City,+Osaka&destination=Japanese+Garden,+Expo+70+Commemorative+Park,+Suita+City,+Osaka&travelmode=transit)
+
 ### Afternoon — Japanese Garden (13:00)
 The Expo 70 Japanese Garden is one of the most beautiful traditional gardens in Osaka — designed by landscape artist Makoto Nakamura for the 1970 Exposition. Stroll through the tea garden, stone lanterns, and koi ponds. Budget 1–1.5 hours.
+
+🗺️ [Get transit directions from Bampaku-Kinen-Koen Station to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Bampaku-Kinen-Koen+Station,+Suita+City,+Osaka&travelmode=transit)
 
 ---
 

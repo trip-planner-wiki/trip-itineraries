@@ -17,10 +17,14 @@ A second approach to Akihabara, this time focused on new electronics, anime merc
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Yodobashi Camera Multimedia Akiba](https://www.google.com/maps/dir/?api=1&destination=Yodobashi+Camera+Multimedia+Akiba,+1-1+Kanda-Hanaokacho,+Chiyoda-ku,+Tokyo&travelmode=transit)
+
 ### Morning — Yodobashi Camera Multimedia Akiba (10:00)
 **📍 1-1 Kanda-Hanaokacho, Chiyoda-ku, Tokyo**
 
 One of the largest electronics stores in Japan, spanning multiple buildings. 9 floors of cameras, computers, audio, gaming hardware, appliances, and tech gadgets. A great place to compare prices and find Japanese electronics not available overseas. Budget several hours if you're a tech enthusiast.
+
+🗺️ [Directions to Yellow Submarine Akihabara (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Yodobashi+Camera+Multimedia+Akiba,+1-1+Kanda-Hanaokacho,+Chiyoda-ku,+Tokyo&destination=Yellow+Submarine+Akihabara,+Tokyo&travelmode=transit)
 
 ### Mid-Morning — Yellow Submarine Akihabara (11:30)
 **📍 Akihabara area**
@@ -30,20 +34,28 @@ Japan's premier specialty store for trading cards, miniatures, board games, and 
 ### Lunch — Akihabara Eateries (13:00)
 Plenty of options around the main streets. Try a themed restaurant, or keep it quick with ramen or don-buri so you have more time for shopping. Budget ¥800–¥1,500.
 
+🗺️ [Directions to Nakano Broadway (JR Chuo Line, ~20 min)](https://www.google.com/maps/dir/?api=1&origin=Akihabara+Station,+Tokyo&destination=Nakano+Broadway,+5-52-15+Nakano,+Nakano-ku,+Tokyo&travelmode=transit)
+
 ### Afternoon — Nakano Broadway (14:30)
 **📍 5-52-15 Nakano, Nakano-ku, Tokyo**
 
 Take the JR Chuo Line from Akihabara (or Ochanomizu) to Nakano (about 20 minutes). Nakano Broadway is a more relaxed alternative to Akihabara, beloved by collectors and hardcore anime fans. Home to 12+ Mandarake shops selling used figures, vintage manga, doujinshi, and rare collectibles at competitive prices. The shopping arcade connecting the station to Broadway has many small independent shops.
+
+🗺️ [Directions to BOOKOFF PLUS Shinjuku (JR Chuo Line, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Nakano+Broadway,+5-52-15+Nakano,+Nakano-ku,+Tokyo&destination=BOOKOFF+PLUS+Shinjuku+Nishiguchi,+Shinjuku,+Tokyo&travelmode=transit)
 
 ### Late Afternoon — BOOKOFF PLUS Shinjuku West Exit (17:00)
 **📍 Shinjuku, Tokyo**
 
 Head to Shinjuku's massive BOOKOFF PLUS — one of Japan's best chain second-hand bookstores carrying manga, novels, CDs, DVDs, games, trading cards, anime goods, and electronics. An excellent place to find used manga at ¥110 per volume or rare items at fair prices.
 
+🗺️ [Directions to Don Quijote Shinjuku Kabukicho (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=BOOKOFF+PLUS+Shinjuku+Nishiguchi,+Shinjuku,+Tokyo&destination=Don+Quijote+Shinjuku+Kabukicho,+Tokyo&travelmode=transit)
+
 ### Evening — Don Quijote Shinjuku Kabukicho (18:30)
 **📍 Kabukicho, Shinjuku**
 
 End the day at the iconic Don Quijote in Kabukicho — the famous discount superstore recognizable by its giant Godzilla head on the facade. Multiple floors of snacks, souvenirs, electronics, anime goods, food, drinks, and random finds at competitive prices. Great for picking up unique Japanese snacks and gifts.
+
+🗺️ [Get transit directions from Don Quijote Kabukicho to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Don+Quijote+Shinjuku+Kabukicho,+Tokyo&travelmode=transit)
 
 ---
 

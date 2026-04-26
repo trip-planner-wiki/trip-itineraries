@@ -20,6 +20,8 @@ The Osaka edition of the globally celebrated Belgian Beer Weekend — one of Osa
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Nakanoshima Park, Osaka](https://www.google.com/maps/dir/?api=1&destination=Nakanoshima+Park,+Naka-noshima,+Kita-ku,+Osaka&travelmode=transit)
+
 ### Afternoon — Nakanoshima Park (15:00)
 **📍 Nakanoshima Park, Naka-noshima, Kita-ku, Osaka**
 
@@ -37,6 +39,8 @@ The live stage comes alive in the evening with performances. Belgian food stalls
 
 ### Night — Riverside Atmosphere (20:00)
 The Nakanoshima riverside at night with the illuminated Osaka skyline is one of the city's most romantic settings. Stay as long as you like — the festival runs until late.
+
+🗺️ [Get transit directions from Nakanoshima Park to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Nakanoshima+Park,+Naka-noshima,+Kita-ku,+Osaka&travelmode=transit)
 
 ---
 

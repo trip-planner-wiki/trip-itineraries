@@ -20,10 +20,13 @@ The first-ever 3D live concert for the hugely popular mobile RPG Blue Archive (N
 
 ## Day Plan
 
+> 🗺️ Once the venue is confirmed from the official ticket URL, use [Google Maps transit directions](https://www.google.com/maps/dir/?api=1&travelmode=transit) to route from your accommodation to the venue, and back to your accommodation after the show.
+
 ### Option A: Matinee Show Day
 - **10:30** — Arrive for merchandise (goods booths typically open before the doors)
 - **11:30** — Matinee concert begins (~2 hours)
 - **14:00** — Free afternoon: Akihabara is nearby for anime/game shopping
+  - 🗺️ [Transit directions from venue to Akihabara](https://www.google.com/maps/dir/?api=1&destination=Akihabara+Station,+Chiyoda-ku,+Tokyo&travelmode=transit)
 - **18:30** — Evening out in Akihabara or Shibuya
 
 ### Option B: Evening Show Day
@@ -31,6 +34,7 @@ The first-ever 3D live concert for the hugely popular mobile RPG Blue Archive (N
 - **15:00** — Arrive for merchandise, evening show prep
 - **16:00** — Evening concert begins (~2 hours)
 - **18:30** — Post-concert dinner and drinks
+  - 🗺️ [Get transit directions from the venue to your accommodation](https://www.google.com/maps/dir/?api=1&travelmode=transit)
 
 ---
 

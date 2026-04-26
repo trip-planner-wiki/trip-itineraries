@@ -21,6 +21,8 @@ The monthly Kyuhoji Park Market is held every fourth Sunday in the lovely Kyuhoj
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Kyuhoji Ryokuchi Park, Yao City](https://www.google.com/maps/dir/?api=1&destination=Kyuhoji+Ryokuchi+Park,+Yao+City,+Osaka&travelmode=transit)
+
 ### Morning — Kyuhoji Park Market (10:00)
 **📍 Kyuhoji Ryokuchi Park, Yao City, Osaka**
 
@@ -32,8 +34,12 @@ Kyuhoji Ryokuchi Park is a large urban green park — enjoy a walk through the g
 ### Lunch — Market Food Stalls (12:00)
 The food stalls at the market make for an excellent lunch. Try seasonal dishes prepared fresh on-site. Budget ¥800–¥1,500.
 
+🗺️ [Directions to central Osaka or Expo 70 Park (transit, ~30–40 min)](https://www.google.com/maps/dir/?api=1&origin=Kintetsu+Yao+Station,+Yao+City,+Osaka&destination=Osaka+Station,+Umeda,+Kita-ku,+Osaka&travelmode=transit)
+
 ### Afternoon — Return to Osaka / Expo 70 (13:00)
 Yao City is about 30 minutes from central Osaka. After the market, you can either return to central Osaka for afternoon activities, or combine this with the Expo 70 Commemorative Park Tea Picking Day (also May 24, in Suita City, about 40 min away).
+
+🗺️ [Get transit directions from Kintetsu Yao Station to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Kintetsu+Yao+Station,+Yao+City,+Osaka&travelmode=transit)
 
 ---
 

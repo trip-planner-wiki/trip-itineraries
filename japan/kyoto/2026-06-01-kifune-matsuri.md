@@ -20,11 +20,15 @@ The annual Kifune Matsuri is one of Kyoto's most atmospheric traditional festiva
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Demachiyanagi Station (Eizan Railway to Kibuneguchi)](https://www.google.com/maps/dir/?api=1&destination=Demachiyanagi+Station,+Sakyo+Ward,+Kyoto&travelmode=transit)
+
 ### Morning — Travel to Kifune (09:00)
 From Demachiyanagi Station, take the Eizan Railway (Kurama Line) to Kibuneguchi Station (~30 minutes, ¥480). From the station, it's a scenic 30-minute walk up the valley to Kifune Shrine, or take a taxi (¥700–¥900).
 
 ### Morning — Kibune Valley Walk (09:30)
 The valley road between Kibuneguchi and Kifune Shrine follows a clear mountain stream through old-growth forest. In late May/early June, the fresh green foliage is beautiful. Pass traditional restaurants along the river.
+
+🗺️ [Directions to Kifune Shrine (walk up valley, ~30 min)](https://www.google.com/maps/dir/?api=1&origin=Kibuneguchi+Station,+Sakyo+Ward,+Kyoto&destination=Kifune+Shrine,+180+Kibune-cho,+Kurama,+Sakyo+Ward,+Kyoto&travelmode=transit)
 
 ### Bugaku Court Dance (11:00)
 **📍 Kifune Shrine, 180 Kibune-cho, Kurama, Sakyo Ward**
@@ -42,6 +46,8 @@ The dramatic finale of the festival — theatrical sacred dance depicting the go
 
 ### Return to Kyoto (17:00)
 Walk or taxi back to Kibuneguchi Station, then Eizan Railway to Demachiyanagi.
+
+🗺️ [Get transit directions from Kibuneguchi Station to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Kibuneguchi+Station,+Sakyo+Ward,+Kyoto&travelmode=transit)
 
 ---
 

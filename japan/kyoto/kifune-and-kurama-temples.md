@@ -17,8 +17,12 @@ Northern Kyoto's Kifune and Kurama valleys are among the most atmospheric destin
 
 ## Itinerary
 
+🗺️ [Get transit directions from your accommodation to Demachiyanagi Station (for Eizan Railway)](https://www.google.com/maps/dir/?api=1&destination=Demachiyanagi+Station,+Sakyo+Ward,+Kyoto&travelmode=transit)
+
 ### Morning — Eizan Railway to Kurama (09:00)
 From Demachiyanagi Station (end of Keihan Line), take the charming Eizan Electric Railway (Kurama Line) to Kurama Station (~30 minutes, ¥480). The train runs through forests and is a lovely journey itself.
+
+🗺️ [Directions to Kurama-dera Temple (walk from Kurama Station, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Kurama+Station,+Sakyo+Ward,+Kyoto&destination=Kurama-dera+Temple,+1074+Kuramahonmachi,+Sakyo+Ward,+Kyoto&travelmode=transit)
 
 ### Morning — Kurama-dera Temple (09:45)
 **📍 1074 Kuramahonmachi, Sakyo Ward, Kyoto**
@@ -28,10 +32,14 @@ Kurama-dera is an ancient mountain temple complex reached by a 30-minute hike (o
 ### Lunch — Kurama Riverside Restaurants (12:00)
 The village of Kurama at the base of the mountain has several traditional restaurants serving river fish, tofu cuisine, and set meals. Budget ¥1,500–¥2,500.
 
+🗺️ [Directions to Kurama Onsen (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Kurama-dera+Temple,+1074+Kuramahonmachi,+Sakyo+Ward,+Kyoto&destination=Kurama+Onsen,+520+Kuramahonmachi,+Sakyo+Ward,+Kyoto&travelmode=transit)
+
 ### Mid-Afternoon — Kurama Onsen (13:30)
 **📍 520 Kuramahonmachi, Sakyo Ward, Kyoto**
 
 Kurama Onsen is one of the most well-regarded onsen in the Kyoto area — sodium bicarbonate waters said to be excellent for the skin. The outdoor bath (rotenburo) is surrounded by trees and has a beautiful mountain atmosphere. Entry for outdoor bath only: ¥1,500. Bring a towel or rent one. Allow 1–1.5 hours to relax properly.
+
+🗺️ [Directions to Kifune Shrine (forest trail ~1 hr, or train via Kibuneguchi Station)](https://www.google.com/maps/dir/?api=1&origin=Kurama+Onsen,+520+Kuramahonmachi,+Sakyo+Ward,+Kyoto&destination=Kifune+Shrine,+180+Kibune-cho,+Kurama,+Sakyo+Ward,+Kyoto&travelmode=transit)
 
 ### Late Afternoon — Hike to Kifune (15:30)
 From Kurama Onsen, experienced hikers can take the 2km forest trail over the mountain to Kifune (~1 hour walk). The trail is well-maintained but has some elevation — wear comfortable shoes. Alternatively, return to Kurama Station and take the Eizan Railway one stop to Kibuneguchi (¥150), then walk 30 min up the river valley to Kifune Shrine.
@@ -43,6 +51,8 @@ Kifune Shrine is an ancient mountain water shrine dedicated to the god of water.
 
 ### Return to Kyoto (17:30)
 Walk down to Kibuneguchi Station and take the Eizan Railway back to Demachiyanagi, then connect to central Kyoto.
+
+🗺️ [Get transit directions from Kibuneguchi Station to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Kibuneguchi+Station,+Sakyo+Ward,+Kyoto&travelmode=transit)
 
 ---
 

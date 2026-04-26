@@ -20,8 +20,12 @@ The first-ever orchestral/band concert celebrating the Bungo Stray Dogs anime's 
 
 ## Day Plan
 
+> 🗺️ Check the official site for the exact venue, then use [Google Maps transit directions](https://www.google.com/maps/dir/?api=1&travelmode=transit) to route from your accommodation to the venue and back.
+
 ### Morning — Akihabara / Pre-Show Exploration (10:00)
 Akihabara for anime shopping, or visit Design Festa at Tokyo Big Sight (also May 23) for a morning activity before the concert.
+
+🗺️ [Directions from Akihabara to concert venue (confirm address on official site)](https://www.google.com/maps/dir/?api=1&origin=Akihabara+Station,+Chiyoda-ku,+Tokyo&travelmode=transit)
 
 ### Lunch (12:30)
 Find restaurants near the venue (check the official site for the venue address). Budget ¥1,200–¥2,000.
@@ -31,6 +35,8 @@ The afternoon performance. Taku Iwasaki's compositions are known for their jazz-
 
 ### OR: Evening — 3rd Stage (18:00–20:00)
 The evening performance. If you attend the afternoon show, you could potentially fill the time between shows with a quick dinner or nearby activities.
+
+🗺️ [Get transit directions from the venue to your accommodation](https://www.google.com/maps/dir/?api=1&travelmode=transit)
 
 ---
 
