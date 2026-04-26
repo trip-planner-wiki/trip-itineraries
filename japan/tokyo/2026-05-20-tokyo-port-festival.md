@@ -11,6 +11,8 @@
 
 ## Overview
 
+[![Odaiba beach and Tokyo Bay waterfront — Tokyo Port Festival area](https://upload.wikimedia.org/wikipedia/commons/3/38/Odaiba_beach_at_dusk.jpg)](https://commons.wikimedia.org/wiki/File:Odaiba_beach_at_dusk.jpg)
+
 [![Odaiba waterfront — Fuji TV building and Aqua City](https://upload.wikimedia.org/wikipedia/commons/4/43/Fuji_TV_headquarters_and_Aqua_City_Odaiba_-_2006-05-03_edit.jpg)](https://commons.wikimedia.org/wiki/File:Fuji_TV_headquarters_and_Aqua_City_Odaiba_-_2006-05-03_edit.jpg)
 
 [![Life-sized Unicorn Gundam statue, DiverCity Tokyo Plaza, Odaiba](https://upload.wikimedia.org/wikipedia/commons/6/66/Life-Sized_Unicorn_Gundam_Statue.jpg)](https://commons.wikimedia.org/wiki/File:Life-Sized_Unicorn_Gundam_Statue.jpg)

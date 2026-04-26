@@ -9,6 +9,16 @@
 
 ## Overview
 
+[![maidreamin maid cafe exterior, Osu, Nagoya (same chain as Namba)](https://upload.wikimedia.org/wikipedia/commons/f/f8/Maidreamin-Osu-Ver2.jpg)](https://commons.wikimedia.org/wiki/File:Maidreamin-Osu-Ver2.jpg)
+
+[![Maids distributing flyers in Akihabara, Tokyo](https://upload.wikimedia.org/wikipedia/commons/a/a3/Maids_distributing_flyers_in_Akihabara_Tokyo_20100731_7376.jpg)](https://commons.wikimedia.org/wiki/File:Maids_distributing_flyers_in_Akihabara_Tokyo_20100731_7376.jpg)
+
+[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg)
+
+[![maidreamin maid cafe exterior, Nipponbashi Otaroad (same chain)](https://upload.wikimedia.org/wikipedia/commons/6/66/Maidreamin-Osu-Akamon.jpg)](https://commons.wikimedia.org/wiki/File:Maidreamin-Osu-Akamon.jpg)
+
+[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg)
+
 Osaka has a surprisingly vibrant maid cafe scene, concentrated around Namba and the Den-Den Town/Nipponbashi area. This itinerary visits multiple maid cafes of different styles — from the internationally recognized maidreamin chain to the quieter, Osaka-exclusive cafes of Namba. A fun social day that pairs well with anime shopping in the area. Maid cafes in Osaka tend to be smaller and more intimate than their Tokyo counterparts, with maids who greet guests as "master" or "mistress" returning home to a magical household — a fantasy of domestic warmth and play that defines the genre. The Den-Den Town concentration makes it easy to combine maid cafe visits with browsing at Animate, Mandarake, and the specialty shops of Ota Road in a single afternoon.
 
 ---

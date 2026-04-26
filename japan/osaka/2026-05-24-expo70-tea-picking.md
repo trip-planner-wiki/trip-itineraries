@@ -11,7 +11,11 @@
 
 ## Overview
 
+[![Tea picking illustration, Japan (Uji chatsumi)](https://upload.wikimedia.org/wikipedia/commons/9/9c/Uji_Chatsumi_Zu.jpg)](https://commons.wikimedia.org/wiki/File:Uji_Chatsumi_Zu.jpg)
+
 [![Expo '70 Festival Plaza with Tower of the Sun](https://upload.wikimedia.org/wikipedia/commons/2/2e/Osaka_Expo%2770_Festival_Plaza.jpg)](https://commons.wikimedia.org/wiki/File:Osaka_Expo%2770_Festival_Plaza.jpg)
+
+[![Japanese garden at Expo '70 Commemorative Park, Osaka](https://upload.wikimedia.org/wikipedia/commons/e/ef/131116_Expo_Commemoration_Park_Suita_Osaka_pref_Japan36o.jpg)](https://commons.wikimedia.org/wiki/File:131116_Expo_Commemoration_Park_Suita_Osaka_pref_Japan36o.jpg)
 
 A hands-on seasonal tea leaf picking experience in the grounds of the iconic Expo 70 site in Suita City, Northern Osaka. The Expo 70 Commemorative Park preserves the grounds of the 1970 World Exposition with the famous Tower of the Sun (Taiyo no To) as its centrepiece. Tea picking is a traditional seasonal activity — relaxing, participatory, and a great way to connect with Japanese tea culture. After picking, the grounds of this large park are excellent for a leisurely walk.
 

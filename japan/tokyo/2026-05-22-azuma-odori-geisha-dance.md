@@ -10,7 +10,13 @@
 
 ## Overview
 
+[![Tsukiji Outer Market, Tokyo](https://upload.wikimedia.org/wikipedia/commons/f/fb/Tsukiji_Outer_Market.jpg)](https://commons.wikimedia.org/wiki/File:Tsukiji_Outer_Market.jpg)
+
+[![Shimbashi Enbujō Theatre, Tokyo](https://upload.wikimedia.org/wikipedia/commons/1/1a/Shimbashi_Enbujo_Theatre.JPG)](https://commons.wikimedia.org/wiki/File:Shimbashi_Enbujo_Theatre.JPG)
+
 [![Azuma Odori — Shimbashi geisha dance performance](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/02/azuma25_okonomi_B044-1024x600.jpg)](https://tokyocheapo.com/events/azuma-odori/)
+
+[![Yakitori bar in Shimbashi, Tokyo — post-show izakayas](https://upload.wikimedia.org/wikipedia/commons/6/6c/Yakatori_bar_at_Shimbashi.jpg)](https://commons.wikimedia.org/wiki/File:Yakatori_bar_at_Shimbashi.jpg)
 
 The 101st edition of the Azuma Odori — one of Tokyo's rarest annual events. The geisha of Shimbashi perform traditional dance for only a few days each year at the historic Shimbashi Enbujō Theatre. The two-part program includes a Kabuki-inspired classical dance followed by nagauta music with shamisen. The theater atmosphere is extraordinary: the interior is arranged to resemble a grand traditional restaurant, with champagne, food, sake, tea, and souvenirs sold between acts. An irreplaceable window into Tokyo's traditional arts.
 

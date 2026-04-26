@@ -9,6 +9,18 @@
 
 ## Overview
 
+[![Shijo-Kawaramachi shopping district, Kyoto](https://upload.wikimedia.org/wikipedia/commons/8/84/Shijo_Kawaramachi_Hankyu.JPG)](https://commons.wikimedia.org/wiki/File:Shijo_Kawaramachi_Hankyu.JPG)
+
+[![Don Quijote discount store, Japan](https://upload.wikimedia.org/wikipedia/commons/6/67/Don_Quijote_Shinjuku.JPG)](https://commons.wikimedia.org/wiki/File:Don_Quijote_Shinjuku.JPG)
+
+[![Maids distributing flyers in Akihabara, Tokyo](https://upload.wikimedia.org/wikipedia/commons/a/a3/Maids_distributing_flyers_in_Akihabara_Tokyo_20100731_7376.jpg)](https://commons.wikimedia.org/wiki/File:Maids_distributing_flyers_in_Akihabara_Tokyo_20100731_7376.jpg)
+
+[![maidreamin maid cafe exterior](https://upload.wikimedia.org/wikipedia/commons/f/f8/Maidreamin-Osu-Ver2.jpg)](https://commons.wikimedia.org/wiki/File:Maidreamin-Osu-Ver2.jpg)
+
+[![Uniqlo store, Japan — Kawaramachi Mina Kyoto location](https://upload.wikimedia.org/wikipedia/commons/0/06/Uniqlo_store_Shinjuku_2020-10-15.jpg)](https://commons.wikimedia.org/wiki/File:Uniqlo_store_Shinjuku_2020-10-15.jpg)
+
+[![Nishiki Market covered arcade, Kyoto](https://upload.wikimedia.org/wikipedia/commons/d/d4/Nishiki_ichiba_Kyoto_JPN.jpg)](https://commons.wikimedia.org/wiki/File:Nishiki_ichiba_Kyoto_JPN.jpg)
+
 Kyoto may be best known for temples and traditional culture, but it also has a thriving maid cafe scene centered around the Shijo-Kawaramachi area. This itinerary pairs Kyoto's unique maid cafes with anime shopping at the conveniently located stores near the city's main shopping intersection. A fun contrast to the traditional sightseeing days. Maid cafes originated in Akihabara, Tokyo, but have since spread to major cities across Japan; Kyoto's cafes tend to have a more intimate, neighborhood feel compared to their Tokyo counterparts. The Shijo-Kawaramachi district doubles as Kyoto's main shopping and entertainment hub, placing anime goods stores, manga shops, and eclectic pop-culture boutiques within easy walking distance of each other.
 
 ---
