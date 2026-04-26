@@ -298,10 +298,9 @@ Image source priority (use the first source that yields a suitable result):
 1. **Official event/venue website** — press images or OGP images from the
    event's own site
 2. **Trip blogs or news articles** — photos from the actual event or location
-3. Search on DuckDuckGo or Google Images for the POI name + city
-4. As last fallback **Wikimedia Commons** — use
-   `https://upload.wikimedia.org/...` as the image URL and
-   `https://commons.wikimedia.org/wiki/File:...` as the link target
+3. Search on https://duckduckgo.com/
+
+DO NOT use Wikimedia Commons for images!
 
 Only use images that are publicly accessible without login. Make sure that you
 don't add images that don't load.
