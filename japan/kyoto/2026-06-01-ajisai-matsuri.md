@@ -12,6 +12,8 @@
 
 [![Uzu-Ajisai hydrangea variety (Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flower%2C_Hydrangea_%22Uzu-Ajisai%22%28Variegation%29_-_Flickr_-_nekonomania.jpg)](https://commons.wikimedia.org/wiki/File:Flower,_Hydrangea_%22Uzu-Ajisai%22(Variegation)_-_Flickr_-_nekonomania.jpg)
 
+[![Fujinomori Shrine, Kyoto](https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwnBG6fX9eT-sgzUvQqHsEHofUL9WAN9RvW7Zvv8jL2i1Zkasmy5V52mYOmG3H2Tr3w-RrFsMXsWWqbyHo4w_ePXsd1Z01NWS4cNZtj-DzOjB-2uA0Le3ewbq3btYL4uIAaOFjuw=s2048-v1)](https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwnBG6fX9eT-sgzUvQqHsEHofUL9WAN9RvW7Zvv8jL2i1Zkasmy5V52mYOmG3H2Tr3w-RrFsMXsWWqbyHo4w_ePXsd1Z01NWS4cNZtj-DzOjB-2uA0Le3ewbq3btYL4uIAaOFjuw=s2048-v1 "Fujinomori Shrine, Kyoto")
+
 [![Torii path at Fushimi Inari Taisha Shrine, Kyoto](https://upload.wikimedia.org/wikipedia/commons/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg)
 
 Fujinomori Shrine (in southern Kyoto) opens its two hydrangea gardens for the entire month of June. The month-long special opening begins June 1. The main ceremony with taiko drums, kemari (ancient court ball game), kagura dance, gagaku court music, and tea ceremony is on June 15 — but the gardens are beautiful throughout the month. The shrine is easily reached via the Kintetsu Kyoto Line to Sumizome Station (5 min walk).
