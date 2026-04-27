@@ -11,7 +11,7 @@
 
 [![Super Potato retro game store, Akihabara](https://www.superpotato.com/wp-content/uploads/2021/11/akiba1.jpg)](https://www.superpotato.com/)
 
-[![Maids distributing flyers in Akihabara, Tokyo](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2015/01/sad-maid.jpg)](https://tokyocheapo.com/entertainment/maid-cafes-tokyo/)
+[![Cure Maid Cafe, Tokyo](https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqs0I8GMxbf2nWyiUOZ5SeBO5F_8fKLPgU8nBh6P0A2qgWFTKEBYDPg1ZzBjWaK-VlJ6YLA_QnS9aW4T7HjwaLg-sEdtvkf-cGsfRA0nSmu2K-RoicHhkIGdCsmdpNNPA42D4L=s1024-v1)](https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqs0I8GMxbf2nWyiUOZ5SeBO5F_8fKLPgU8nBh6P0A2qgWFTKEBYDPg1ZzBjWaK-VlJ6YLA_QnS9aW4T7HjwaLg-sEdtvkf-cGsfRA0nSmu2K-RoicHhkIGdCsmdpNNPA42D4L=s1024-v1 "Cure Maid Cafe, Tokyo")
 
 [![Akihabara at night, Tokyo](https://www.gotokyo.org/shared/images/pages/destinations/central-tokyo/akihabara/images/sub_002b_area002_0986_30.webp)](https://www.gotokyo.org/en/destinations/central-tokyo/akihabara/index.html)
 
