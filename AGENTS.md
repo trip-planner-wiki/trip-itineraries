@@ -67,9 +67,9 @@ multiple days.
 
 ## Overview
 
-[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
 
-[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
 
 ... (one image per POI in the itinerary)
 
@@ -120,9 +120,9 @@ long to spend, and estimated budget for this stop.>
 
 ## Overview
 
-[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
 
-[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
 
 ... (one image per POI in the itinerary)
 
@@ -288,7 +288,7 @@ one per line, in the same order as the POIs appear in the itinerary. Images
 are displayed inline and link to their original source using this format:
 
 ```markdown
-[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL>)
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
 ```
 
 **Do not save images locally.** All images must reference remote URLs.
