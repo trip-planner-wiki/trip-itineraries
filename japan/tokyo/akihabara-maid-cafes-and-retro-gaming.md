@@ -9,11 +9,11 @@
 
 ## Overview
 
-[![Super Potato retro game store, Akihabara](https://upload.wikimedia.org/wikipedia/commons/d/da/Super_Potato_in_Akihabara_%284066556528%29.jpg)](https://commons.wikimedia.org/wiki/File:Super_Potato_in_Akihabara_(4066556528).jpg)
+[![Super Potato retro game store, Akihabara](https://www.superpotato.com/wp-content/uploads/2021/11/akiba1.jpg)](https://www.superpotato.com/)
 
-[![Maids distributing flyers in Akihabara, Tokyo](https://upload.wikimedia.org/wikipedia/commons/a/a3/Maids_distributing_flyers_in_Akihabara_Tokyo_20100731_7376.jpg)](https://commons.wikimedia.org/wiki/File:Maids_distributing_flyers_in_Akihabara_Tokyo_20100731_7376.jpg)
+[![Maids distributing flyers in Akihabara, Tokyo](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2015/01/sad-maid.jpg)](https://tokyocheapo.com/entertainment/maid-cafes-tokyo/)
 
-[![Akihabara at night, Tokyo](https://upload.wikimedia.org/wikipedia/commons/8/86/Akihabara_at_night.jpg)](https://commons.wikimedia.org/wiki/File:Akihabara_at_night.jpg)
+[![Akihabara at night, Tokyo](https://www.gotokyo.org/shared/images/pages/destinations/central-tokyo/akihabara/images/sub_002b_area002_0986_30.webp)](https://www.gotokyo.org/en/destinations/central-tokyo/akihabara/index.html)
 
 Akihabara — "Electric Town" — is the heart of Tokyo's otaku culture. This day trip takes you through the best maid cafes in Japan and the legendary retro gaming shops that make Akihabara unique. Start with a maid cafe brunch, explore retro consoles and collectibles, and end with dinner at another maid cafe experience. The pace is relaxed and fun, with no rush between stops. Maid cafes first emerged in Akihabara in the late 1990s, initially as novelty extensions of the district's anime merchandise culture, and have since evolved into a full entertainment industry with dozens of venues each offering distinct themes, performances, and food presentations. Retro gaming in Akihabara spans everything from Famicom cartridges and Game Boy titles to rare Neo Geo and PC-88 software — serious collectors travel here from around the world. The district's multi-floor game centers also preserve classic arcade titles that have long disappeared elsewhere, making Akihabara the world's most complete living archive of Japanese gaming history.
 
