@@ -9,13 +9,13 @@
 
 ## Overview
 
-[![Akihabara's neon-lit street at night](https://upload.wikimedia.org/wikipedia/commons/8/86/Akihabara_at_night.jpg)](https://commons.wikimedia.org/wiki/File:Akihabara_at_night.jpg)
+[![Akihabara's neon-lit street at night](https://upload.wikimedia.org/wikipedia/commons/8/86/Akihabara_at_night.jpg)](https://commons.wikimedia.org/wiki/File:Akihabara_at_night.jpg "Akihabara's neon-lit street at night")
 
-[![Yellow Submarine trading card shop, Akihabara](https://upload.wikimedia.org/wikipedia/commons/d/da/Super_Potato_in_Akihabara_%284066556528%29.jpg)](https://commons.wikimedia.org/wiki/File:Super_Potato_in_Akihabara_(4066556528).jpg)
+[![Yellow Submarine trading card shop, Akihabara](https://upload.wikimedia.org/wikipedia/commons/d/da/Super_Potato_in_Akihabara_%284066556528%29.jpg)](https://commons.wikimedia.org/wiki/File:Super_Potato_in_Akihabara_(4066556528).jpg "Yellow Submarine trading card shop, Akihabara")
 
-[![Nakano Broadway entrance, Tokyo](https://upload.wikimedia.org/wikipedia/commons/3/35/Nakano_broadway_entrance.JPG)](https://commons.wikimedia.org/wiki/File:Nakano_broadway_entrance.JPG)
+[![Nakano Broadway entrance, Tokyo](https://upload.wikimedia.org/wikipedia/commons/3/35/Nakano_broadway_entrance.JPG)](https://commons.wikimedia.org/wiki/File:Nakano_broadway_entrance.JPG "Nakano Broadway entrance, Tokyo")
 
-[![Don Quijote Shinjuku, Tokyo](https://upload.wikimedia.org/wikipedia/commons/6/67/Don_Quijote_Shinjuku.JPG)](https://commons.wikimedia.org/wiki/File:Don_Quijote_Shinjuku.JPG)
+[![Don Quijote Shinjuku, Tokyo](https://upload.wikimedia.org/wikipedia/commons/6/67/Don_Quijote_Shinjuku.JPG)](https://commons.wikimedia.org/wiki/File:Don_Quijote_Shinjuku.JPG "Don Quijote Shinjuku, Tokyo")
 
 A second approach to Akihabara, this time focused on new electronics, anime merchandise, and the full breadth of what the district offers beyond maid cafes. Akihabara deserves multiple visits — this itinerary covers the anime/manga/electronics side in depth. Relaxed pace with plenty of browsing time. The district's towering buildings are stacked floor by floor with specialist retailers: one floor for CPU components, another for camera lenses, another entirely dedicated to a single anime franchise's merchandise. Anime figure culture here ranges from mass-market releases to hand-painted garage kits and limited convention exclusives that sell out within hours of release. Akihabara remains one of the few places in the world where you can find discontinued electronics components, import hardware, and cutting-edge gadgets under the same roof — a paradise for technophiles and collectors alike.
 

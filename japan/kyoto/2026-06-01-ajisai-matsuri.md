@@ -12,11 +12,11 @@
 
 [![Fujinomori Shrine, Kyoto](https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwnBG6fX9eT-sgzUvQqHsEHofUL9WAN9RvW7Zvv8jL2i1Zkasmy5V52mYOmG3H2Tr3w-RrFsMXsWWqbyHo4w_ePXsd1Z01NWS4cNZtj-DzOjB-2uA0Le3ewbq3btYL4uIAaOFjuw=s2048-v1)](https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwnBG6fX9eT-sgzUvQqHsEHofUL9WAN9RvW7Zvv8jL2i1Zkasmy5V52mYOmG3H2Tr3w-RrFsMXsWWqbyHo4w_ePXsd1Z01NWS4cNZtj-DzOjB-2uA0Le3ewbq3btYL4uIAaOFjuw=s2048-v1 "Fujinomori Shrine, Kyoto")
 
-[![Hydrangea Garden)](https://find-your-jpn.com/wp-content/uploads/2018/01/caaccb477c550244dc149d1fdc085f34.jpg)](https://find-your-jpn.com/hydrangeas-mimurotoji-temple/ "Hydrangea Garden")
+[![Hydrangea Garden](https://find-your-jpn.com/wp-content/uploads/2018/01/caaccb477c550244dc149d1fdc085f34.jpg)](https://find-your-jpn.com/hydrangeas-mimurotoji-temple/ "Hydrangea Garden")
 
 [![Matcha at the Shrine Tea House](https://ceremonial-grade-matcha.com/_shared/images/marukyu-koyamaen-uji-tea-room.webp)](https://ceremonial-grade-matcha.com/marukyu-koyamaen/ "Matcha at the Shrine Tea House")
 
-[![Torii path at Fushimi Inari Taisha Shrine, Kyoto](https://upload.wikimedia.org/wikipedia/commons/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg "Torii path at Fushimi Inari Taisha Shrine")
+[![Torii path at Fushimi Inari Taisha Shrine, Kyoto](https://upload.wikimedia.org/wikipedia/commons/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg "Torii path at Fushimi Inari Taisha Shrine, Kyoto")
 
 [![Fushimi Inari Shrine](https://d3bbatwdaufxg9.cloudfront.net/gallery/main/8514/5559/7797/08-20131216_FushimiInari_Mainspot-307.jpg)](https://www.discoverkyoto.com/places-go/fushimi-inari-taisha/ "Fushimi Inari Shrine")
 

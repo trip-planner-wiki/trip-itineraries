@@ -11,13 +11,13 @@
 
 ## Overview
 
-[![Belgian Beer Weekend Osaka 2026 — official event image](https://belgianbeerweekend.jp/meta.jpg)](https://belgianbeerweekend.jp)
+[![Belgian Beer Weekend Osaka 2026 — official event image](https://belgianbeerweekend.jp/meta.jpg)](https://belgianbeerweekend.jp "Belgian Beer Weekend Osaka 2026 — official event image")
 
-[![Nakanoshima Museum of Art Osaka (NAKKA)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Nakanoshima_Museum_of_Art_Osaka.jpg/960px-Nakanoshima_Museum_of_Art_Osaka.jpg)](https://commons.wikimedia.org/wiki/File:Nakanoshima_Museum_of_Art_Osaka.jpg)
+[![Nakanoshima Museum of Art Osaka (NAKKA)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Nakanoshima_Museum_of_Art_Osaka.jpg/960px-Nakanoshima_Museum_of_Art_Osaka.jpg)](https://commons.wikimedia.org/wiki/File:Nakanoshima_Museum_of_Art_Osaka.jpg "Nakanoshima Museum of Art Osaka (NAKKA)")
 
-[![National Museum of Art, Osaka](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/NMAO01s3200.jpg/960px-NMAO01s3200.jpg)](https://commons.wikimedia.org/wiki/File:NMAO01s3200.jpg)
+[![National Museum of Art, Osaka](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/NMAO01s3200.jpg/960px-NMAO01s3200.jpg)](https://commons.wikimedia.org/wiki/File:NMAO01s3200.jpg "National Museum of Art, Osaka")
 
-[![Tenjinbashisuji Shopping Street, Osaka](https://upload.wikimedia.org/wikipedia/commons/5/5d/Tenjinbashisuji_shopping_street_-_panoramio.jpg)](https://commons.wikimedia.org/wiki/File:Tenjinbashisuji_shopping_street_-_panoramio.jpg)
+[![Tenjinbashisuji Shopping Street, Osaka](https://upload.wikimedia.org/wikipedia/commons/5/5d/Tenjinbashisuji_shopping_street_-_panoramio.jpg)](https://commons.wikimedia.org/wiki/File:Tenjinbashisuji_shopping_street_-_panoramio.jpg "Tenjinbashisuji Shopping Street, Osaka")
 
 The Osaka edition of the globally celebrated Belgian Beer Weekend — one of Osaka's most beloved late-May annual events. Around 60–100 Belgian beer varieties are on offer, from crisp Witbiers and complex Trappist ales to rare sour lambics and fruit beers, all accompanied by live stage music, Belgian food stalls, and a festive riverside atmosphere at Nakanoshima Park. Free entry with drinks purchased using tokens at the venue. Nakanoshima Island also hosts two world-class art museums within easy walking distance, making this the perfect day to pair culture with craft beer — explore the museums in the morning before the festival opens, then settle in for an evening of Belgian beer and live music under the Osaka skyline.
 

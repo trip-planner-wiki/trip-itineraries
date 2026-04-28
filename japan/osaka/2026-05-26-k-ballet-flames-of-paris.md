@@ -10,9 +10,9 @@
 
 ## Overview
 
-[![Festival Hall, Nakanoshima, Osaka — venue for K-Ballet](https://upload.wikimedia.org/wikipedia/commons/0/05/Festival_Hall_%28Osaka%29_01.JPG)](https://commons.wikimedia.org/wiki/File:Festival_Hall_(Osaka)_01.JPG)
+[![Festival Hall, Nakanoshima, Osaka — venue for K-Ballet](https://upload.wikimedia.org/wikipedia/commons/0/05/Festival_Hall_%28Osaka%29_01.JPG)](https://commons.wikimedia.org/wiki/File:Festival_Hall_(Osaka)_01.JPG "Festival Hall, Nakanoshima, Osaka — venue for K-Ballet")
 
-[![K-Ballet Tokyo — Flames of Paris official production image](https://www.k-ballet.co.jp/uploads/tokyo/paris_square1%20.webp)](https://www.k-ballet.co.jp)
+[![K-Ballet Tokyo — Flames of Paris official production image](https://www.k-ballet.co.jp/uploads/tokyo/paris_square1%20.webp)](https://www.k-ballet.co.jp "K-Ballet Tokyo — Flames of Paris official production image")
 
 A full-length ballet by K-Ballet Tokyo under director Tetsuya Kumakawa — "Flames of Paris," a dramatic ballet set during the French Revolution. K-Ballet Tokyo is one of Japan's most prestigious ballet companies. The performance is held at Festival Hall, Osaka's premier classical arts venue in the scenic Nakanoshima island district. Children ages 5–high school may attend free (special promotion — confirm on the official site).
 

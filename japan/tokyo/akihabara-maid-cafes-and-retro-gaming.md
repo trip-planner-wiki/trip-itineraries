@@ -9,11 +9,11 @@
 
 ## Overview
 
-[![Super Potato retro game store, Akihabara](https://www.superpotato.com/wp-content/uploads/2021/11/akiba1.jpg)](https://www.superpotato.com/)
+[![Super Potato retro game store, Akihabara](https://www.superpotato.com/wp-content/uploads/2021/11/akiba1.jpg)](https://www.superpotato.com/ "Super Potato retro game store, Akihabara")
 
 [![Cure Maid Cafe, Tokyo](https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqs0I8GMxbf2nWyiUOZ5SeBO5F_8fKLPgU8nBh6P0A2qgWFTKEBYDPg1ZzBjWaK-VlJ6YLA_QnS9aW4T7HjwaLg-sEdtvkf-cGsfRA0nSmu2K-RoicHhkIGdCsmdpNNPA42D4L=s1024-v1)](https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqs0I8GMxbf2nWyiUOZ5SeBO5F_8fKLPgU8nBh6P0A2qgWFTKEBYDPg1ZzBjWaK-VlJ6YLA_QnS9aW4T7HjwaLg-sEdtvkf-cGsfRA0nSmu2K-RoicHhkIGdCsmdpNNPA42D4L=s1024-v1 "Cure Maid Cafe, Tokyo")
 
-[![Akihabara at night, Tokyo](https://www.gotokyo.org/shared/images/pages/destinations/central-tokyo/akihabara/images/sub_002b_area002_0986_30.webp)](https://www.gotokyo.org/en/destinations/central-tokyo/akihabara/index.html)
+[![Akihabara at night, Tokyo](https://www.gotokyo.org/shared/images/pages/destinations/central-tokyo/akihabara/images/sub_002b_area002_0986_30.webp)](https://www.gotokyo.org/en/destinations/central-tokyo/akihabara/index.html "Akihabara at night, Tokyo")
 
 Akihabara — "Electric Town" — is the heart of Tokyo's otaku culture. This day trip takes you through the best maid cafes in Japan and the legendary retro gaming shops that make Akihabara unique. Start with a maid cafe brunch, explore retro consoles and collectibles, and end with dinner at another maid cafe experience. The pace is relaxed and fun, with no rush between stops. Maid cafes first emerged in Akihabara in the late 1990s, initially as novelty extensions of the district's anime merchandise culture, and have since evolved into a full entertainment industry with dozens of venues each offering distinct themes, performances, and food presentations. Retro gaming in Akihabara spans everything from Famicom cartridges and Game Boy titles to rare Neo Geo and PC-88 software — serious collectors travel here from around the world. The district's multi-floor game centers also preserve classic arcade titles that have long disappeared elsewhere, making Akihabara the world's most complete living archive of Japanese gaming history.
 

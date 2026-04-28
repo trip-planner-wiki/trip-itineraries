@@ -11,15 +11,15 @@
 
 ## Overview
 
-[![Manpaku Food Festival — official event image](https://manpaku.jp/assets/img/ogp.jpg)](https://manpaku.jp/)
+[![Manpaku Food Festival — official event image](https://manpaku.jp/assets/img/ogp.jpg)](https://manpaku.jp/ "Manpaku Food Festival — official event image")
 
-[![Showa Kinen Park, Tachikawa](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2018_Showa_Memorial_Park_01.jpg/960px-2018_Showa_Memorial_Park_01.jpg)](https://commons.wikimedia.org/wiki/File:2018_Showa_Memorial_Park_01.jpg)
+[![Showa Kinen Park, Tachikawa](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2018_Showa_Memorial_Park_01.jpg/960px-2018_Showa_Memorial_Park_01.jpg)](https://commons.wikimedia.org/wiki/File:2018_Showa_Memorial_Park_01.jpg "Showa Kinen Park, Tachikawa")
 
-[![Tachikawa Manga Park entrance](https://mangapark.jp/topics/assets_c/2022/03/entrance03-thumb-328xauto-1225.jpg)](https://mangapark.jp/)
+[![Tachikawa Manga Park entrance](https://mangapark.jp/topics/assets_c/2022/03/entrance03-thumb-328xauto-1225.jpg)](https://mangapark.jp/ "Tachikawa Manga Park entrance")
 
-[![Sakamichi Brewing craft beers](https://www.sakamichibrewing.com/wp-content/uploads/2023/09/DSC7062-1024x496.jpg)](https://www.sakamichibrewing.com/)
+[![Sakamichi Brewing craft beers](https://www.sakamichibrewing.com/wp-content/uploads/2023/09/DSC7062-1024x496.jpg)](https://www.sakamichibrewing.com/ "Sakamichi Brewing craft beers")
 
-[![Green Springs, Tachikawa](https://greensprings.jp/en/assets/img/common/ogp.png)](https://greensprings.jp/en/)
+[![Green Springs, Tachikawa](https://greensprings.jp/en/assets/img/common/ogp.png)](https://greensprings.jp/en/ "Green Springs, Tachikawa")
 
 Manpaku is one of Tokyo's largest and most beloved food festivals, transforming the open lawns of Showa Kinen Park into a sprawling outdoor food village. Dozens of Japanese vendors gather to serve everything from ramen and grilled seafood to regional sweets and unique fried foods, all within one of the city's most beautiful parks. May 23 is the festival's final day — a perfect reason to arrive early and enjoy the event at its most vibrant, with vendors keen to sell out their remaining stock. After the festival, the nearby Tachikawa area rewards exploration with a top-rated craft brewpub and a beloved manga reading lounge just minutes from the park.
 

@@ -9,9 +9,9 @@
 
 ## Overview
 
-[![Evening view of Tokyo Bay from Odaiba with Rainbow Bridge and city skyline](https://upload.wikimedia.org/wikipedia/commons/4/48/Evening_Tokyo_Bay_from_Aquacity_Odaiba_2.jpg)](https://commons.wikimedia.org/wiki/File:Evening_Tokyo_Bay_from_Aquacity_Odaiba_2.jpg)
+[![Evening view of Tokyo Bay from Odaiba with Rainbow Bridge and city skyline](https://upload.wikimedia.org/wikipedia/commons/4/48/Evening_Tokyo_Bay_from_Aquacity_Odaiba_2.jpg)](https://commons.wikimedia.org/wiki/File:Evening_Tokyo_Bay_from_Aquacity_Odaiba_2.jpg "Evening view of Tokyo Bay from Odaiba with Rainbow Bridge and city skyline")
 
-[![teamLab Planets Tokyo — official key visual](https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/89JNH3JuCgHZcGbACeD2vU/width=1200,format=jpeg)](https://www.teamlab.art/e/planets/)
+[![teamLab Planets Tokyo — official key visual](https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/89JNH3JuCgHZcGbACeD2vU/width=1200,format=jpeg)](https://www.teamlab.art/e/planets/ "teamLab Planets Tokyo — official key visual")
 
 Odaiba is Tokyo's ultramodern waterfront island in Tokyo Bay — a futuristic entertainment district filled with digital art, unique architecture, and sweeping views of the Rainbow Bridge and Tokyo skyline. This trip pairs two world-renowned teamLab immersive art experiences with a relaxed afternoon on the island. Advance ticket booking is **required** for both teamLab venues. Odaiba was constructed entirely on reclaimed land during Tokyo's 1980s economic boom and was originally planned as a self-contained high-tech city; today it hosts a striking mix of science museums, shopping centres, and experimental architecture including Fuji TV's distinctive steel sphere. teamLab, the Tokyo-based art collective behind the island's signature immersive exhibitions, uses custom software and projection mapping to create environments where visitors become part of living, breathing digital ecosystems. The combination of glowing cityscapes viewed from across the water and the sensory wonder of teamLab's installations makes Odaiba one of the most visually memorable days possible in Tokyo.
 

@@ -19,7 +19,7 @@ Hakone is Japan's most beloved onsen destination — a mountainous national park
 
 ### Morning — Hakone-Yumoto & Hakone Tozan Railway (08:30)
 
-[![Hakone Tozan Railway train on mountain track](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hakonetozan-1002.JPG/960px-Hakonetozan-1002.JPG)](https://commons.wikimedia.org/wiki/File:Hakonetozan-1002.JPG "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hakonetozan-1002.JPG/960px-Hakonetozan-1002.JPG")
+[![Hakone Tozan Railway train on mountain track](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hakonetozan-1002.JPG/960px-Hakonetozan-1002.JPG)](https://commons.wikimedia.org/wiki/File:Hakonetozan-1002.JPG "Hakone Tozan Railway train on mountain track")
 
 **📍 Hakone-Yumoto Station, Hakone, Kanagawa**
 
@@ -31,7 +31,7 @@ Depart Tokyo early. From Shinjuku, take the Odakyu Romance Car (reserved express
 
 ### Mid-Morning — Hakone Ropeway & Owakudani (10:30)
 
-[![Owakudani volcanic valley with steam vents, Hakone](https://upload.wikimedia.org/wikipedia/commons/a/a3/Owakudani_%40_Hakone_%2810621413133%29.jpg)](https://commons.wikimedia.org/wiki/File:Owakudani_%40_Hakone_(10621413133).jpg "https://upload.wikimedia.org/wikipedia/commons/a/a3/Owakudani_%40_Hakone_%2810621413133%29.jpg")
+[![Owakudani volcanic valley with steam vents, Hakone](https://upload.wikimedia.org/wikipedia/commons/a/a3/Owakudani_%40_Hakone_%2810621413133%29.jpg)](https://commons.wikimedia.org/wiki/File:Owakudani_%40_Hakone_(10621413133).jpg "Owakudani volcanic valley with steam vents, Hakone")
 
 **📍 Owakudani, Sengokuhara, Hakone**
 
@@ -41,7 +41,7 @@ At Gora, transfer to the Hakone Tozan Cable Car up to Sounzan, then board the Ha
 
 ### Late Morning — Lake Ashi Sightseeing Cruise (12:00)
 
-[![Lake Ashi with Mt. Fuji and Hakone Shrine torii gate](https://upload.wikimedia.org/wikipedia/commons/d/d7/Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg)](https://commons.wikimedia.org/wiki/File:Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg "https://upload.wikimedia.org/wikipedia/commons/d/d7/Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg")
+[![Lake Ashi with Mt. Fuji and Hakone Shrine torii gate](https://upload.wikimedia.org/wikipedia/commons/d/d7/Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg)](https://commons.wikimedia.org/wiki/File:Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg "Lake Ashi with Mt. Fuji and Hakone Shrine torii gate")
 
 **📍 Togendai Port → Moto-Hakone Port, Lake Ashi**
 
@@ -51,7 +51,7 @@ Continue on the ropeway down to Togendai on Lake Ashi, then board a replica pira
 
 ### Lunch — Moto-Hakone Lakeside (12:45)
 
-[![Lake Ashi shoreline at Moto-Hakone](https://upload.wikimedia.org/wikipedia/commons/4/44/Lake_Ashi_%40_Moto-Hakone_%2810621595703%29.jpg)](https://commons.wikimedia.org/wiki/File:Lake_Ashi_%40_Moto-Hakone_(10621595703).jpg "https://upload.wikimedia.org/wikipedia/commons/4/44/Lake_Ashi_%40_Moto-Hakone_%2810621595703%29.jpg")
+[![Lake Ashi shoreline at Moto-Hakone](https://upload.wikimedia.org/wikipedia/commons/4/44/Lake_Ashi_%40_Moto-Hakone_%2810621595703%29.jpg)](https://commons.wikimedia.org/wiki/File:Lake_Ashi_%40_Moto-Hakone_(10621595703).jpg "Lake Ashi shoreline at Moto-Hakone")
 
 **📍 Moto-Hakone, Lake Ashi**
 
@@ -61,7 +61,7 @@ Several restaurants and cafes sit along the lakefront at Moto-Hakone. Try soba o
 
 ### Early Afternoon — Hakone Shrine & Ancient Cedar Avenue (13:30)
 
-[![Hakone Shrine torii gate on Lake Ashi](https://upload.wikimedia.org/wikipedia/commons/3/34/Hakone_Shrine%27s_torii_%2830577923547%29.jpg)](https://commons.wikimedia.org/wiki/File:Hakone_Shrine's_torii_(30577923547).jpg "https://upload.wikimedia.org/wikipedia/commons/3/34/Hakone_Shrine%27s_torii_%2830577923547%29.jpg")
+[![Hakone Shrine torii gate on Lake Ashi](https://upload.wikimedia.org/wikipedia/commons/3/34/Hakone_Shrine%27s_torii_%2830577923547%29.jpg)](https://commons.wikimedia.org/wiki/File:Hakone_Shrine's_torii_(30577923547).jpg "Hakone Shrine torii gate on Lake Ashi")
 
 **📍 80-1 Motohakone, Hakone, Kanagawa 250-0522**
 
@@ -73,7 +73,7 @@ Directly adjacent, stroll a section of the **Ancient Cedar Avenue (Sugi Namiki)*
 
 ### Afternoon — Yunessun Onsen (15:00)
 
-[![Yunessun onsen resort, Hakone](https://upload.wikimedia.org/wikipedia/commons/3/30/Hakone-kowaki-en-yunessun_2015-11-16.JPG)](https://commons.wikimedia.org/wiki/File:Hakone-kowaki-en-yunessun_2015-11-16.JPG "https://upload.wikimedia.org/wikipedia/commons/3/30/Hakone-kowaki-en-yunessun_2015-11-16.JPG")
+[![Yunessun onsen resort, Hakone](https://upload.wikimedia.org/wikipedia/commons/3/30/Hakone-kowaki-en-yunessun_2015-11-16.JPG)](https://commons.wikimedia.org/wiki/File:Hakone-kowaki-en-yunessun_2015-11-16.JPG "Yunessun onsen resort, Hakone")
 
 **📍 1297 Ninotaira, Hakone, Ashigarashimo District, Kanagawa 250-0631**
 

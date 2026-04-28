@@ -9,11 +9,11 @@
 
 ## Overview
 
-[![Kaminarimon Thunder Gate at Senso-ji Temple, Asakusa, Tokyo](https://www.touristinjapan.com/wp-content/uploads/2018/06/39574872171_e8020cece7_k-1020x600.jpg)](https://www.touristinjapan.com/wp-content/uploads/2018/06/39574872171_e8020cece7_k-1020x600.jpg)
+[![Kaminarimon Thunder Gate at Senso-ji Temple, Asakusa, Tokyo](https://www.touristinjapan.com/wp-content/uploads/2018/06/39574872171_e8020cece7_k-1020x600.jpg)](https://www.touristinjapan.com/wp-content/uploads/2018/06/39574872171_e8020cece7_k-1020x600.jpg "Kaminarimon Thunder Gate at Senso-ji Temple, Asakusa, Tokyo")
 
-[![teamLab Borderless Tokyo immersive digital art experience, Azabudai Hills](https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/Yt5eET5oZzm6FBicauQUSY/width=1200,format=jpeg)](https://www.teamlab.art/e/tokyo/)
+[![teamLab Borderless Tokyo immersive digital art experience, Azabudai Hills](https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/Yt5eET5oZzm6FBicauQUSY/width=1200,format=jpeg)](https://www.teamlab.art/e/tokyo/ "teamLab Borderless Tokyo immersive digital art experience, Azabudai Hills")
 
-[![Life-sized Unicorn Gundam statue at DiverCity Tokyo Plaza, Odaiba](https://upload.wikimedia.org/wikipedia/commons/6/66/Life-Sized_Unicorn_Gundam_Statue.jpg)](https://commons.wikimedia.org/wiki/File:Life-Sized_Unicorn_Gundam_Statue.jpg)
+[![Life-sized Unicorn Gundam statue at DiverCity Tokyo Plaza, Odaiba](https://upload.wikimedia.org/wikipedia/commons/6/66/Life-Sized_Unicorn_Gundam_Statue.jpg)](https://commons.wikimedia.org/wiki/File:Life-Sized_Unicorn_Gundam_Statue.jpg "Life-sized Unicorn Gundam statue at DiverCity Tokyo Plaza, Odaiba")
 
 A jam-packed day trip through Tokyo's most iconic experiences — from a 628 AD Buddhist temple to a life-size mecha statue and mind-bending digital art. This itinerary blends traditional and futuristic Tokyo across three distinct neighborhoods: Asakusa, Azabudai Hills, and Odaiba.
 

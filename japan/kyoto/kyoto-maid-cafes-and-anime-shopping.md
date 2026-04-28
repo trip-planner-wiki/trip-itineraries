@@ -9,17 +9,17 @@
 
 ## Overview
 
-[![Kawaramachi OPA shopping complex, Kyoto — home of BOOKOFF PLUS on the 8th floor](https://www.opa-club.com/_assets/img/kawaramachi/og-image.png)](https://www.opa-club.com/kawaramachi/)
+[![Kawaramachi OPA shopping complex, Kyoto — home of BOOKOFF PLUS on the 8th floor](https://www.opa-club.com/_assets/img/kawaramachi/og-image.png)](https://www.opa-club.com/kawaramachi/ "Kawaramachi OPA shopping complex, Kyoto — home of BOOKOFF PLUS on the 8th floor")
 
-[![Don Quijote Shijo Kawaramachi, Kyoto — central discount store near Nishiki Market](https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/02/a0002695/img/basic/a0002695_main.jpg)](https://livejapan.com/en/in-kyoto/in-pref-kyoto/in-central_kyoto/article-a0002695/)
+[![Don Quijote Shijo Kawaramachi, Kyoto — central discount store near Nishiki Market](https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/02/a0002695/img/basic/a0002695_main.jpg)](https://livejapan.com/en/in-kyoto/in-pref-kyoto/in-central_kyoto/article-a0002695/ "Don Quijote Shijo Kawaramachi, Kyoto — central discount store near Nishiki Market")
 
-[![Maid cafe maids in costume — representative of Kyoto maid cafe culture](https://tokyocandies.com/wp-content/uploads/2025/11/two-of-our-star-maids.jpg)](https://tokyocandies.com/maid-cafes-japan/)
+[![Maid cafe maids in costume — representative of Kyoto maid cafe culture](https://tokyocandies.com/wp-content/uploads/2025/11/two-of-our-star-maids.jpg)](https://tokyocandies.com/maid-cafes-japan/ "Maid cafe maids in costume — representative of Kyoto maid cafe culture")
 
-[![Maidreamin maid cafe — popular chain with locations across Japan including Kyoto](https://maidreamin.com/assets/images/ogimage.jpg)](https://maidreamin.com/)
+[![Maidreamin maid cafe — popular chain with locations across Japan including Kyoto](https://maidreamin.com/assets/images/ogimage.jpg)](https://maidreamin.com/ "Maidreamin maid cafe — popular chain with locations across Japan including Kyoto")
 
-[![Mina Kyoto shopping complex on Kawaramachi Street — home of Uniqlo Kyoto Kawaramachi](https://www.kyoto-kawaramachi.or.jp/wp-content/uploads/mina_.jpg)](https://karasuma.keizai.biz/headline/3168/)
+[![Mina Kyoto shopping complex on Kawaramachi Street — home of Uniqlo Kyoto Kawaramachi](https://www.kyoto-kawaramachi.or.jp/wp-content/uploads/mina_.jpg)](https://karasuma.keizai.biz/headline/3168/ "Mina Kyoto shopping complex on Kawaramachi Street — home of Uniqlo Kyoto Kawaramachi")
 
-[![Nishiki Market covered arcade, Kyoto — Kyoto's Kitchen street food market](https://www.kyoto-nishiki.or.jp/wp-content/themes/kyoto-nishiki/assets/img/ogp.jpg)](https://www.kyoto-nishiki.or.jp/)
+[![Nishiki Market covered arcade, Kyoto — Kyoto's Kitchen street food market](https://www.kyoto-nishiki.or.jp/wp-content/themes/kyoto-nishiki/assets/img/ogp.jpg)](https://www.kyoto-nishiki.or.jp/ "Nishiki Market covered arcade, Kyoto — Kyoto's Kitchen street food market")
 
 Kyoto may be best known for temples and traditional culture, but it also has a thriving maid cafe scene centered around the Shijo-Kawaramachi area. This itinerary pairs Kyoto's unique maid cafes with anime shopping at the conveniently located stores near the city's main shopping intersection. A fun contrast to the traditional sightseeing days. Maid cafes originated in Akihabara, Tokyo, but have since spread to major cities across Japan; Kyoto's cafes tend to have a more intimate, neighborhood feel compared to their Tokyo counterparts. The Shijo-Kawaramachi district doubles as Kyoto's main shopping and entertainment hub, placing anime goods stores, manga shops, and eclectic pop-culture boutiques within easy walking distance of each other.
 

@@ -11,7 +11,7 @@
 
 ## Overview
 
-[![Design Festa Vol. 63 — official event visual](https://storage.googleapis.com/designfesta-wp-production-bucket/2021/09/6a7486fd-63_1920-1080.png)](https://designfesta.com/)
+[![Design Festa Vol. 63 — official event visual](https://storage.googleapis.com/designfesta-wp-production-bucket/2021/09/6a7486fd-63_1920-1080.png)](https://designfesta.com/ "Design Festa Vol. 63 — official event visual")
 
 Design Festa is Asia's largest art event — running since 1994, it's a massive two-day festival at Tokyo Big Sight where ~6,500 creator booths per day display and sell original artwork across every conceivable medium: painting, sculpture, fashion, crafts, photography, music, and live performance. The atmosphere is electric, creative, and welcoming to everyone. Highlights include live painting on massive canvases (8m × 3.5m), a Workshop Area, fashion shows, dance performances, and food trucks. This is one of the most unique experiences you can have in Tokyo.
 

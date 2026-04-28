@@ -9,9 +9,9 @@
 
 ## Overview
 
-[![Nishiki Market covered arcade, Kyoto](https://upload.wikimedia.org/wikipedia/commons/d/d4/Nishiki_ichiba_Kyoto_JPN.jpg)](https://commons.wikimedia.org/wiki/File:Nishiki_ichiba_Kyoto_JPN.jpg)
+[![Nishiki Market covered arcade, Kyoto](https://upload.wikimedia.org/wikipedia/commons/d/d4/Nishiki_ichiba_Kyoto_JPN.jpg)](https://commons.wikimedia.org/wiki/File:Nishiki_ichiba_Kyoto_JPN.jpg "Nishiki Market covered arcade, Kyoto")
 
-[![Kyoto Gion district street scene](https://upload.wikimedia.org/wikipedia/commons/e/ec/Kyoto_Gion_01.jpg)](https://commons.wikimedia.org/wiki/File:Kyoto_Gion_01.jpg)
+[![Kyoto Gion district street scene](https://upload.wikimedia.org/wikipedia/commons/e/ec/Kyoto_Gion_01.jpg)](https://commons.wikimedia.org/wiki/File:Kyoto_Gion_01.jpg "Kyoto Gion district street scene")
 
 Two of Kyoto's most iconic experiences combined in one day: Nishiki Market — the legendary covered food arcade nicknamed "Kyoto's Kitchen" — and the Gion district, Japan's most famous geisha neighborhood. A perfect introduction to Kyoto's food culture and traditional atmosphere, this day is relaxed, delicious, and visually stunning. Nishiki Market has operated as Kyoto's central food market for over four centuries, and the 130-plus stalls reflect the full breadth of regional Kyoto cuisine including hand-made tofu, seasonal pickles, and intricate wagashi sweets. Gion's Hanamikoji-dori is home to some of Japan's most exclusive ochaya (teahouses), where geiko and maiko — Kyoto's professional entertainers — can sometimes be spotted in traditional dress in the early evening.
 

@@ -19,7 +19,7 @@ Ginza is Tokyo's most prestigious shopping and dining district — a place where
 
 ### Morning — G.Itoya Ginza Main Store (10:30)
 
-[![Interior of G.Itoya Ginza stationery store](https://media.timeout.com/images/106076423/750/422/image.jpg)](https://www.timeout.com/tokyo/shopping/g-itoya "https://media.timeout.com/images/106076423/750/422/image.jpg")
+[![Interior of G.Itoya Ginza stationery store](https://media.timeout.com/images/106076423/750/422/image.jpg)](https://www.timeout.com/tokyo/shopping/g-itoya "Interior of G.Itoya Ginza stationery store")
 
 **📍 2-7-15 Ginza, Chuo-ku, Tokyo**
 
@@ -29,7 +29,7 @@ Open since 1904, G.Itoya is Japan's most celebrated stationery store — a 12-fl
 
 ### Lunch — Ginza Katsukami (12:30)
 
-[![Ginza Katsukami premium tonkatsu restaurant, Ginza, Tokyo](https://media.timeout.com/images/105816286/750/422/image.jpg)](https://www.timeout.com/tokyo/restaurants/ginza-katsukami "https://media.timeout.com/images/105816286/750/422/image.jpg")
+[![Ginza Katsukami premium tonkatsu restaurant, Ginza, Tokyo](https://media.timeout.com/images/105816286/750/422/image.jpg)](https://www.timeout.com/tokyo/restaurants/ginza-katsukami "Ginza Katsukami premium tonkatsu restaurant, Ginza, Tokyo")
 
 **📍 Ginza Miyako Building 5F, 5-6-10 Ginza, Chuo-ku**
 
@@ -39,7 +39,7 @@ Japan's first course-only tonkatsu restaurant uses premium pork breeds (Kurobuta
 
 ### Afternoon — Ginza Shopping Stroll (14:00)
 
-[![Chuo-dori pedestrian shopping street in Ginza, Tokyo](https://upload.wikimedia.org/wikipedia/commons/4/49/Chuo-dori_Ginza.jpg)](https://commons.wikimedia.org/wiki/File:Chuo-dori_Ginza.jpg "https://upload.wikimedia.org/wikipedia/commons/4/49/Chuo-dori_Ginza.jpg")
+[![Chuo-dori pedestrian shopping street in Ginza, Tokyo](https://upload.wikimedia.org/wikipedia/commons/4/49/Chuo-dori_Ginza.jpg)](https://commons.wikimedia.org/wiki/File:Chuo-dori_Ginza.jpg "Chuo-dori pedestrian shopping street in Ginza, Tokyo")
 
 **📍 Chuo-dori, Ginza, Chuo-ku, Tokyo**
 
@@ -49,7 +49,7 @@ Walk Ginza's famous Chuo-dori, lined with flagship stores from both Japanese and
 
 ### Mid-Afternoon — Marunouchi / Imperial Palace Gardens (15:30)
 
-[![Ninomaru Garden pond at the Imperial Palace East Gardens, Tokyo](https://upload.wikimedia.org/wikipedia/commons/d/d4/Tokyo_Imperial_Palace_Ninomaru_Garden_Pond_by_Don_Ramey_Logan.jpg)](https://commons.wikimedia.org/wiki/File:Tokyo_Imperial_Palace_Ninomaru_Garden_Pond_by_Don_Ramey_Logan.jpg "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tokyo_Imperial_Palace_Ninomaru_Garden_Pond_by_Don_Ramey_Logan.jpg")
+[![Ninomaru Garden pond at the Imperial Palace East Gardens, Tokyo](https://upload.wikimedia.org/wikipedia/commons/d/d4/Tokyo_Imperial_Palace_Ninomaru_Garden_Pond_by_Don_Ramey_Logan.jpg)](https://commons.wikimedia.org/wiki/File:Tokyo_Imperial_Palace_Ninomaru_Garden_Pond_by_Don_Ramey_Logan.jpg "Ninomaru Garden pond at the Imperial Palace East Gardens, Tokyo")
 
 **📍 Imperial Palace East Gardens, Chiyoda-ku, Tokyo**
 
@@ -59,7 +59,7 @@ A 10-minute walk from Ginza brings you to Marunouchi, Tokyo's business heart and
 
 ### Dinner — Manten Sushi Marunouchi (18:00)
 
-[![Omakase dish at Manten Sushi Marunouchi, Tokyo](https://everybodyhatesatourist.net/wp-content/uploads/2019/11/manten-sushi-marunouchi-omakase-amberjack-scaled.jpg)](https://everybodyhatesatourist.net/eating-omakase-at-manten-sushi-marunouchi-in-tokyo-japan/ "https://everybodyhatesatourist.net/wp-content/uploads/2019/11/manten-sushi-marunouchi-omakase-amberjack-scaled.jpg")
+[![Omakase dish at Manten Sushi Marunouchi, Tokyo](https://everybodyhatesatourist.net/wp-content/uploads/2019/11/manten-sushi-marunouchi-omakase-amberjack-scaled.jpg)](https://everybodyhatesatourist.net/eating-omakase-at-manten-sushi-marunouchi-in-tokyo-japan/ "Omakase dish at Manten Sushi Marunouchi, Tokyo")
 
 **📍 B1F, Marunouchi Brick Square, 2-6-1 Marunouchi, Chiyoda-ku**
 

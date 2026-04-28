@@ -9,13 +9,13 @@
 
 ## Overview
 
-[![Nishiki Tenmangu Shrine at the eastern end of Nishiki Market](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nishiki_Tenmang%C5%AB_sanctuaire.jpg)](https://commons.wikimedia.org/wiki/File:Nishiki_Tenmangū_sanctuaire.jpg)
+[![Nishiki Tenmangu Shrine at the eastern end of Nishiki Market](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nishiki_Tenmang%C5%AB_sanctuaire.jpg)](https://commons.wikimedia.org/wiki/File:Nishiki_Tenmangū_sanctuaire.jpg "Nishiki Tenmangu Shrine at the eastern end of Nishiki Market")
 
-[![Shinkyogoku Shopping Street, Kyoto](https://upload.wikimedia.org/wikipedia/commons/a/a7/Shinkyogoku_by_Flowizm_in_Kyoto.jpg)](https://commons.wikimedia.org/wiki/File:Shinkyogoku_by_Flowizm_in_Kyoto.jpg)
+[![Shinkyogoku Shopping Street, Kyoto](https://upload.wikimedia.org/wikipedia/commons/a/a7/Shinkyogoku_by_Flowizm_in_Kyoto.jpg)](https://commons.wikimedia.org/wiki/File:Shinkyogoku_by_Flowizm_in_Kyoto.jpg "Shinkyogoku Shopping Street, Kyoto")
 
-[![Rokkakudo Temple, Kyoto](https://upload.wikimedia.org/wikipedia/commons/b/bd/Rokkaku-d%C5%8D_temple_in_Kyoto%2C_Japan_-_Stierch_-_A.jpg)](https://commons.wikimedia.org/wiki/File:Rokkaku-dō_temple_in_Kyoto,_Japan_-_Stierch_-_A.jpg)
+[![Rokkakudo Temple, Kyoto](https://upload.wikimedia.org/wikipedia/commons/b/bd/Rokkaku-d%C5%8D_temple_in_Kyoto%2C_Japan_-_Stierch_-_A.jpg)](https://commons.wikimedia.org/wiki/File:Rokkaku-dō_temple_in_Kyoto,_Japan_-_Stierch_-_A.jpg "Rokkakudo Temple, Kyoto")
 
-[![Pontocho Alley at night, Kyoto](https://upload.wikimedia.org/wikipedia/commons/9/99/Pontocho_Alley%2C_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg)](https://commons.wikimedia.org/wiki/File:Pontocho_Alley,_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg)
+[![Pontocho Alley at night, Kyoto](https://upload.wikimedia.org/wikipedia/commons/9/99/Pontocho_Alley%2C_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg)](https://commons.wikimedia.org/wiki/File:Pontocho_Alley,_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg "Pontocho Alley at night, Kyoto")
 
 A deep-dive into Kyoto's unmatched food culture, threading together the city's most beloved culinary destinations in a single, unhurried day. The morning begins at Nishiki Market — a 400-year-old covered food arcade nicknamed "Kyoto's Kitchen" — before a serene detour to the hexagonal Rokkakudo Temple and a browse through the adjacent Shinkyogoku shopping street for souvenirs and street snacks. The day ends in Pontocho Alley, one of Japan's most atmospheric dining streets, where lantern-lit restaurants extend riverside terraces over the Kamo River from June onward. This itinerary prioritizes eating, browsing, and soaking in Kyoto's downtown food atmosphere rather than rushing between landmark temples.
 

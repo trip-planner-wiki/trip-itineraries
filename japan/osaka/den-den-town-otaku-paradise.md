@@ -9,11 +9,11 @@
 
 ## Overview
 
-[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg)
+[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Den-Den Town, Nipponbashi, Osaka")
 
-[![Nintendo Tokyo official store interior](https://upload.wikimedia.org/wikipedia/commons/2/26/Nintendo_Tokyo_%28PXL_20231220_022538554%29.jpg)](https://commons.wikimedia.org/wiki/File:Nintendo_Tokyo_(PXL_20231220_022538554).jpg)
+[![Nintendo Tokyo official store interior](https://upload.wikimedia.org/wikipedia/commons/2/26/Nintendo_Tokyo_%28PXL_20231220_022538554%29.jpg)](https://commons.wikimedia.org/wiki/File:Nintendo_Tokyo_(PXL_20231220_022538554).jpg "Nintendo Tokyo official store interior")
 
-[![Glico Running Man sign, Dotonbori, Osaka](https://upload.wikimedia.org/wikipedia/commons/4/46/The_famous_Glico-man_sign_%286453154613%29.jpg)](https://commons.wikimedia.org/wiki/File:The_famous_Glico-man_sign_(6453154613).jpg)
+[![Glico Running Man sign, Dotonbori, Osaka](https://upload.wikimedia.org/wikipedia/commons/4/46/The_famous_Glico-man_sign_%286453154613%29.jpg)](https://commons.wikimedia.org/wiki/File:The_famous_Glico-man_sign_(6453154613).jpg "Glico Running Man sign, Dotonbori, Osaka")
 
 Den-Den Town is Osaka's answer to Tokyo's Akihabara — the city's premier electronics, retro games, pop culture, anime, and manga shopping neighborhood. Two main streets run through it: Nipponbashisuji (electronics focus) and Ota Road (otaku district, known as "Osaka's Akiba"). Key stores include Super Potato (retro games), Mandarake, K-Books, Yellow Submarine, and multiple Animate and BOOKOFF locations. The area has a more local, less tourist-saturated feel than Akihabara. A full day here barely scratches the surface. Unlike Akihabara's flashier main boulevard, Den-Den Town's Ota Road retains a more intimate neighborhood character, with narrow storefronts stacked high with figures, doujinshi, and rare collectibles drawing a predominantly local otaku crowd. The concentration of specialty shops — from vintage Famicom cartridges to current-season limited-edition goods — makes this one of the best destinations in Japan for serious collectors.
 

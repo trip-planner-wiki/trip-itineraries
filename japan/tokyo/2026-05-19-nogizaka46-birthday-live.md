@@ -11,7 +11,7 @@
 
 ## Overview
 
-[![Tokyo Dome exterior](https://upload.wikimedia.org/wikipedia/commons/d/db/Tokyo_Dome_201904a.jpg)](https://commons.wikimedia.org/wiki/File:Tokyo_Dome_201904a.jpg)
+[![Tokyo Dome exterior](https://upload.wikimedia.org/wikipedia/commons/d/db/Tokyo_Dome_201904a.jpg)](https://commons.wikimedia.org/wiki/File:Tokyo_Dome_201904a.jpg "Tokyo Dome exterior")
 
 The first night of Nogizaka46's three-day 14th Year Birthday Live concert series at Tokyo Dome. Japan's top idol group celebrates their anniversary with the full 34-member lineup. Day 1 and Day 2 are standard anniversary shows; Day 3 (May 21) is the graduation concert of longtime member Umezawa Minami. This is one of the biggest idol events of the year — an unmissable experience for fans.
 
