@@ -42,8 +42,6 @@ The afternoon performance. Taku Iwasaki's compositions are known for their jazz-
 
 ### OR: Evening — 3rd Stage (18:00–20:00)
 
-[![Bungo Stray Dogs 10th Anniversary Orchestra Live — official event image](https://bungosd.com/news/images/251225_01_01.jpg)](https://bungosd.com/news/251225_01.html "Bungo Stray Dogs 10th Anniversary Orchestra Live — official event image")
-
 The evening performance. If you attend the afternoon show, you could potentially fill the time between shows with a quick dinner or nearby activities.
 
 🗺️ [Get transit directions from the venue to your accommodation](https://www.google.com/maps/dir/?api=1&travelmode=transit)

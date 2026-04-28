@@ -29,8 +29,6 @@ One of the largest electronics stores in Japan, spanning multiple buildings. 9 f
 
 ### Mid-Morning — Yellow Submarine Akihabara (11:30)
 
-[![Akihabara at night, Tokyo — Yellow Submarine trading card shop area](https://upload.wikimedia.org/wikipedia/commons/8/86/Akihabara_at_night.jpg)](https://commons.wikimedia.org/wiki/File:Akihabara_at_night.jpg "Akihabara at night, Tokyo")
-
 **📍 Akihabara area**
 
 Japan's premier specialty store for trading cards, miniatures, board games, and RPG supplies. A must-visit for card game players — find rare Pokémon, Magic: the Gathering, and Japanese exclusive cards. Multiple floors of gaming goods.
@@ -64,8 +62,6 @@ Head to Shinjuku's massive BOOKOFF PLUS — one of Japan's best chain second-han
 🗺️ [Directions to Don Quijote Shinjuku Kabukicho (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=BOOKOFF+PLUS+Shinjuku+Nishiguchi,+Shinjuku,+Tokyo&destination=Don+Quijote+Shinjuku+Kabukicho,+Tokyo&travelmode=transit)
 
 ### Evening — Don Quijote Shinjuku Kabukicho (18:30)
-
-[![Don Quijote Shinjuku, Tokyo](https://upload.wikimedia.org/wikipedia/commons/6/67/Don_Quijote_Shinjuku.JPG)](https://commons.wikimedia.org/wiki/File:Don_Quijote_Shinjuku.JPG "Don Quijote Shinjuku, Tokyo")
 
 **📍 Kabukicho, Shinjuku**
 

@@ -51,15 +51,11 @@ The main street through Arashiyama has many traditional restaurants. Try yudofu 
 
 ### Afternoon — Togetsukyo Bridge & Katsura River (14:00)
 
-[![Togetsukyo Bridge over the Katsura River, Arashiyama, Kyoto](https://upload.wikimedia.org/wikipedia/commons/a/a0/Togetsukyo_Bridge%2C_Arashiyama%2C_Kyoto_-_panoramio.jpg)](https://commons.wikimedia.org/wiki/File:Togetsukyo_Bridge,_Arashiyama,_Kyoto_-_panoramio.jpg "Togetsukyo Bridge over the Katsura River, Arashiyama, Kyoto")
-
 Cross the famous Togetsukyo ("Moon Crossing Bridge") and walk along the Katsura River bank. The mountains reflected in the water make for excellent photography. In late May, the riverbanks are green and lush. Cormorant fishing boats (ukai) operate on this river in season.
 
 🗺️ [Directions to Arashiyama Shopping Street (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Togetsukyo+Bridge,+Arashiyama,+Ukyo+Ward,+Kyoto&destination=Sagano+Shopping+Street,+Arashiyama,+Ukyo+Ward,+Kyoto&travelmode=transit)
 
 ### Late Afternoon — Arashiyama Shopping Street (15:00)
-
-[![Arashiyama Bamboo Forest, Kyoto](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg "Arashiyama area, Kyoto")
 
 The Sagano/Arashiyama shopping street has excellent Kyoto craft shops, bamboo goods, matcha ice cream, and traditional sweets. Browse for handmade crafts, lucky charms, and food souvenirs.
 

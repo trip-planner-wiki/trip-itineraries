@@ -22,8 +22,6 @@ The annual Kifune Matsuri is one of Kyoto's most atmospheric traditional festiva
 
 ### Morning — Travel to Kifune (09:00)
 
-[![Kifune Shrine stone lantern approach, Kyoto](https://yentravelsjapan.com/wp-content/uploads/2024/07/Compress_20240720_010807_7788-1024x683.jpg)](https://yentravelsjapan.com/kifune-shrine/ "Kifune Shrine approach, Kyoto")
-
 From Demachiyanagi Station, take the Eizan Railway (Kurama Line) to Kibuneguchi Station (~30 minutes, ¥480). From the station, it's a scenic 30-minute walk up the valley to Kifune Shrine, or take a taxi (¥700–¥900).
 
 ### Morning — Kibune Valley Walk (09:30)
@@ -50,8 +48,6 @@ The narrow road through Kifune has several restaurants built on platforms over t
 
 ### Omikoshi Procession (13:00)
 
-[![Kifune Shrine, Kyoto](https://yentravelsjapan.com/wp-content/uploads/2024/07/Compress_20240720_010809_9021-1024x683.jpg)](https://yentravelsjapan.com/kifune-shrine/ "Kifune Shrine omikoshi procession, Kyoto")
-
 The portable shrine (omikoshi) procession moves through the shrine grounds and village with local participants in traditional dress. An authentic community festival experience.
 
 ### Izumo Kagura Sacred Dance (15:00)
@@ -61,8 +57,6 @@ The portable shrine (omikoshi) procession moves through the shrine grounds and v
 The dramatic finale of the festival — theatrical sacred dance depicting the god Susanoo's battle against the great serpent Yamata no Orochi. Elaborate costumes, stage effects, and pyrotechnics make this one of the most theatrical Shinto performances in Japan.
 
 ### Return to Kyoto (17:00)
-
-[![Eizan Railway — Kurama Line to Demachiyanagi](https://upload.wikimedia.org/wikipedia/commons/f/f5/Sand%C5%8D%2C_Kifune_Shrine%2C_Kyoto_-_Jul_22%2C_2007.jpg)](https://commons.wikimedia.org/wiki/File:Sandō,_Kifune_Shrine,_Kyoto_-_Jul_22,_2007.jpg "Kifune Shrine, Kyoto")
 
 Walk or taxi back to Kibuneguchi Station, then Eizan Railway to Demachiyanagi.
 

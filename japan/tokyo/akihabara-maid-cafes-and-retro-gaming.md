@@ -45,8 +45,6 @@ Take a walk along Chuo-dori, the main street of Akihabara. Grab lunch from one o
 
 ### Afternoon — @home cafe Akihabara (14:30)
 
-[![Cure Maid Cafe, Tokyo — representative of Akihabara maid cafe culture](https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqs0I8GMxbf2nWyiUOZ5SeBO5F_8fKLPgU8nBh6P0A2qgWFTKEBYDPg1ZzBjWaK-VlJ6YLA_QnS9aW4T7HjwaLg-sEdtvkf-cGsfRA0nSmu2K-RoicHhkIGdCsmdpNNPA42D4L=s1024-v1)](https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqs0I8GMxbf2nWyiUOZ5SeBO5F_8fKLPgU8nBh6P0A2qgWFTKEBYDPg1ZzBjWaK-VlJ6YLA_QnS9aW4T7HjwaLg-sEdtvkf-cGsfRA0nSmu2K-RoicHhkIGdCsmdpNNPA42D4L=s1024-v1 "Akihabara maid cafe")
-
 **📍 Mitsuwa Building 3F–7F, 1-11-4 Sotokanda, Chiyoda-ku**
 
 One of Akihabara's most iconic maid cafes with 600,000+ annual visitors and 4 full floors. Known for creative food presentation with latte art drawn by maids, and every guest receives a free Master's Certificate souvenir. Costumes designed by fashion designer Keita Maruyama. Budget ~¥2,000–¥3,500.
@@ -54,8 +52,6 @@ One of Akihabara's most iconic maid cafes with 600,000+ annual visitors and 4 fu
 🗺️ [Directions to Yellow Submarine Akihabara (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=%40home+cafe+Akihabara,+1-11-4+Sotokanda,+Chiyoda-ku,+Tokyo&destination=Yellow+Submarine+Akihabara,+Tokyo&travelmode=transit)
 
 ### Mid-Afternoon — Yellow Submarine Akihabara (16:00)
-
-[![Akihabara at night, Tokyo](https://www.gotokyo.org/shared/images/pages/destinations/central-tokyo/akihabara/images/sub_002b_area002_0986_30.webp)](https://www.gotokyo.org/en/destinations/central-tokyo/akihabara/index.html "Akihabara at night, Tokyo")
 
 **📍 Akihabara area**
 

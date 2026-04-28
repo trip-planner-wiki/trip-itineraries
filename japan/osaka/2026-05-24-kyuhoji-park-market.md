@@ -31,13 +31,9 @@ Arrive when the market opens to get the freshest produce and the best selection 
 
 ### Mid-Morning — Park Stroll (11:00)
 
-[![Kyuhoji Park Market — park grounds](https://image.jimcdn.com/app/cms/image/transf/dimension=2000x1500:format=jpg/path/sff037cb0f0df379f/backgroundarea/i52c1f7f0bf912c63/version/1463494086/image.jpg)](https://kyuhoji-marche.jimdofree.com/ "Kyuhoji Ryokuchi Park, Yao City")
-
 Kyuhoji Ryokuchi Park is a large urban green park — enjoy a walk through the grounds after browsing the market. A peaceful respite from urban Osaka.
 
 ### Lunch — Market Food Stalls (12:00)
-
-[![Kyuhoji Park Market — food stalls](https://image.jimcdn.com/app/cms/image/transf/dimension=2000x1500:format=jpg/path/sff037cb0f0df379f/backgroundarea/i52c1f7f0bf912c63/version/1463494086/image.jpg)](https://kyuhoji-marche.jimdofree.com/ "Kyuhoji Park Market food stalls")
 
 The food stalls at the market make for an excellent lunch. Try seasonal dishes prepared fresh on-site. Budget ¥800–¥1,500.
 

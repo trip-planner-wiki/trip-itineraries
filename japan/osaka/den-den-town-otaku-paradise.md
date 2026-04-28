@@ -29,23 +29,17 @@ Start with Osaka's flagship BOOKOFF — two floors of second-hand manga, books, 
 
 ### Mid-Morning — Animate Nipponbashi (11:00)
 
-[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Animate Nipponbashi, Den-Den Town, Osaka")
-
 **📍 Nipponbashi, Namba area, Osaka**
 
 Animate's Nipponbashi location is one of Japan's most comprehensive Animate stores, stocking current-season anime goods, light novels, manga, and character merchandise. Check for any limited-edition goods tied to currently airing anime.
 
 ### Lunch — Den-Den Town Eats (12:30)
 
-[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Den-Den Town area restaurants, Osaka")
-
 The area around Nipponbashi and Ota Road has many casual restaurants. Try a conveyor belt sushi (kaiten-zushi) or teishoku set meal restaurant in the area. Budget ¥800–¥1,500.
 
 🗺️ [Directions to Ota Road / Den-Den Town (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Animate+Nipponbashi,+Nipponbashi,+Namba,+Osaka&destination=Ota+Road,+Nipponbashi,+Naniwa-ku,+Osaka&travelmode=transit)
 
 ### Afternoon — Ota Road & Specialty Shops (14:00)
-
-[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Ota Road, Den-Den Town, Osaka — Mandarake, K-Books, specialty shops")
 
 Ota Road is the heart of Den-Den Town's otaku culture — explore Mandarake, K-Books, and the dozens of specialty shops selling doujinshi, figures, and rare collectibles. Super Potato has a branch here too for retro game hunting. Take your time browsing.
 

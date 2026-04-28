@@ -33,8 +33,6 @@ Budget ¥1,500–¥3,000 for snacking and shopping.
 
 ### Lunch — Nishiki Market or Nearby (12:00)
 
-[![Nishiki Market covered arcade, Kyoto](https://upload.wikimedia.org/wikipedia/commons/d/d4/Nishiki_ichiba_Kyoto_JPN.jpg)](https://commons.wikimedia.org/wiki/File:Nishiki_ichiba_Kyoto_JPN.jpg "Nishiki Market area lunch, Kyoto")
-
 Several excellent restaurants adjoin the market. Sit-down options near Kawaramachi include soba, kaiseki-style set lunches, and Japanese sweets cafes. Budget ¥1,000–¥2,500.
 
 🗺️ [Directions to BOOKOFF PLUS Kawaramachi OPA (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Nishiki+Market,+Nakagyo+Ward,+Kyoto&destination=BOOKOFF+PLUS+Kawaramachi+OPA,+Shijo-Kawaramachi,+Kyoto&travelmode=transit)
@@ -51,8 +49,6 @@ For manga, anime goods, and trading cards in Kyoto, the best location is BOOKOFF
 
 ### Late Afternoon — Gion District Walk (15:00)
 
-[![Kyoto Gion district street scene](https://upload.wikimedia.org/wikipedia/commons/e/ec/Kyoto_Gion_01.jpg)](https://commons.wikimedia.org/wiki/File:Kyoto_Gion_01.jpg "Kyoto Gion district street scene")
-
 Walk east from Kawaramachi along Shijo-dori to Gion. The preserved machiya (townhouse) streets of Hanamikoji-dori and Shinmonzen-dori offer the most atmospheric Kyoto scenery. Explore freely:
 - **Hanamikoji-dori** — the main Gion street with ochaya (teahouses)
 - **Shinbashi-Shirakawa** — a canal-side street with weeping willows and preserved buildings
@@ -63,8 +59,6 @@ Evenings in Gion sometimes offer rare sightings of geisha (geiko) and apprentice
 🗺️ [Directions to Gion dinner restaurants (walk)](https://www.google.com/maps/dir/?api=1&origin=Hanamikoji-dori,+Gion,+Higashiyama+Ward,+Kyoto&destination=Gion,+Higashiyama+Ward,+Kyoto&travelmode=transit)
 
 ### Evening — Gion Dinner (18:30)
-
-[![Kyoto Gion district street scene](https://upload.wikimedia.org/wikipedia/commons/e/ec/Kyoto_Gion_01.jpg)](https://commons.wikimedia.org/wiki/File:Kyoto_Gion_01.jpg "Kyoto Gion evening dinner area")
 
 Gion and the surrounding Higashiyama area have many excellent restaurants. Budget ¥2,000–¥5,000. The atmospheric backstreets have both casual izakayas and upmarket restaurants.
 

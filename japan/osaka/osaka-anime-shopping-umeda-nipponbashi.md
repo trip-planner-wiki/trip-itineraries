@@ -29,8 +29,6 @@ Start at Osaka Station's expansive commercial complex. Yodobashi Camera Multimed
 
 ### Mid-Morning — Animate Umeda & Gratte Character Cafe (11:00)
 
-[![Yodobashi Camera Multimedia Umeda, Osaka](https://upload.wikimedia.org/wikipedia/commons/d/d2/Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg)](https://commons.wikimedia.org/wiki/File:Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg "Animate Umeda and Animate Gratte character cafe, Osaka")
-
 **📍 Umeda, Osaka**
 
 Animate Umeda stocks current-season anime goods across multiple floors. Within the same building, check if **Animate Gratte Umeda** has active character cafe collaborations. During late May, active collaborations include:
@@ -41,8 +39,6 @@ Animate Umeda stocks current-season anime goods across multiple floors. Within t
 Walk-in welcome, no reservation required. Budget ¥800–¥1,500 per drink.
 
 ### Lunch — Grand Front Osaka or Lucua Osaka (13:00)
-
-[![Yodobashi Camera Multimedia Umeda, Osaka](https://upload.wikimedia.org/wikipedia/commons/d/d2/Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg)](https://commons.wikimedia.org/wiki/File:Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg "Grand Front Osaka and Lucua — restaurant floors, Osaka Station area")
 
 Both massive shopping complexes connected to Osaka Station have excellent restaurant floors. Budget ¥1,000–¥2,500. Lucua Osaka's upper floors have particular variety.
 
@@ -60,15 +56,11 @@ The full-scale Jujutsu Kaisen POPUP exhibition themed on the Death Painting Womb
 
 ### Mid-Afternoon — Travel to Nipponbashi/Den-Den Town (16:00)
 
-[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Den-Den Town, Nipponbashi, Osaka — Animate Nipponbashi, Princess Connect popup")
-
 Take the Midosuji Line from Umeda to Namba (8 minutes), then walk to Nipponbashi. The area around Ota Road hosts multiple ongoing popup events including:
 - **Princess Connect Re:Dive 8th Anniversary Only Shop** at Animate Nipponbashi (through June 7)
 - **Animate Gratte Nipponbashi** with same collaborations as Umeda
 
 ### Late Afternoon — Den-Den Town Browsing (16:30)
-
-[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Den-Den Town browsing — BOOKOFF, Mandarake, Ota Road specialty shops, Osaka")
 
 Browse BOOKOFF PLUS Namba Ebisubashi, Mandarake, and the specialty shops along Ota Road.
 

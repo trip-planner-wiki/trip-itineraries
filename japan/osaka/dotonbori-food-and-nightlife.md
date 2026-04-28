@@ -48,15 +48,11 @@ Dotonbori is the birthplace of takoyaki (octopus balls) and is also famous for:
 
 ### Evening — Shinsaibashi & Don Quijote (19:00)
 
-[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg "Shinsaibashi shopping arcade and Don Quijote, Dotonbori, Osaka")
-
 Walk through the covered Shinsaibashi-suji shopping arcade (open until 21:00). Don Quijote Dotonbori — with its iconic giant Ferris wheel facade — is the place for cheap snacks, souvenirs, anime goods, cosmetics, and general chaos. Fun to browse even if you don't buy much.
 
 🗺️ [Directions to Izakaya Toyo (subway Chuo Line to Kyobashi, ~15 min)](https://www.google.com/maps/dir/?api=1&origin=Shinsaibashi-suji+Shopping+Arcade,+Chuo-ku,+Osaka&destination=Izakaya+Toyo,+3-2-26+Higashinodamachi,+Miyakojima-ku,+Osaka&travelmode=transit)
 
 ### Late Evening — Izakaya Toyo (20:00)
-
-[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg "Izakaya Toyo, Kyobashi, Osaka — standing tachinomi izakaya")
 
 **📍 3-2-26 Higashinodamachi, Miyakojima Ward, Osaka**
 

@@ -39,15 +39,11 @@ Head up to the rooftop terrace of Tokyu Plaza for a coffee with views across the
 
 ### Late Morning — Takeshita Street, Harajuku (11:00)
 
-[![Takeshita Street, Harajuku, Tokyo](https://upload.wikimedia.org/wikipedia/commons/9/92/Takeshita_Street.jpg)](https://commons.wikimedia.org/wiki/File:Takeshita_Street.jpg "Takeshita Street, Harajuku, Tokyo")
-
 Harajuku's famous pedestrian street is packed with quirky boutiques, crepe shops, and street fashion. It's one of the best places in Japan to people-watch and find unique, eccentric clothing. Try a Rainbow Crepe — a Harajuku classic. Free to browse, crepes ~¥600–¥900.
 
 🗺️ [Directions to Omotesando lunch area (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Takeshita+Street,+Harajuku,+Tokyo&destination=Omotesando,+Harajuku,+Tokyo&travelmode=transit)
 
 ### Lunch — Harajuku / Omotesando (12:30)
-
-[![Takeshita Street, Harajuku, Tokyo — Omotesando dining area nearby](https://upload.wikimedia.org/wikipedia/commons/9/92/Takeshita_Street.jpg)](https://commons.wikimedia.org/wiki/File:Takeshita_Street.jpg "Harajuku / Omotesando area, Tokyo")
 
 Omotesando is Harajuku's more upscale boulevard lined with flagship stores. Many excellent lunch options from casual ramen to upmarket set lunches. Budget ¥1,200–¥2,500.
 
@@ -65,15 +61,11 @@ Take the Chuo Line one stop from Harajuku (or a few from Shinjuku) to Nakano. Na
 
 ### Late Afternoon — Return to Shibuya / Shinjuku (16:30)
 
-[![Shibuya Scramble Crossing from above, Tokyo](https://upload.wikimedia.org/wikipedia/commons/8/88/Shibuya_Crossing%2C_Aerial.jpg)](https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_Aerial.jpg "Shibuya, Tokyo")
-
 Head back and explore Shibuya's department stores or Shinjuku's shopping district at your own pace. Don Quijote Shinjuku Kabukicho (the iconic bulk discount store with a giant Godzilla head on the facade) is a fun stop for snacks, souvenirs, and random finds.
 
 🗺️ [Directions to Shibuya bar/restaurant area (walk)](https://www.google.com/maps/dir/?api=1&origin=Shibuya+Station,+Shibuya-ku,+Tokyo&destination=Udagawacho,+Shibuya-ku,+Tokyo&travelmode=transit)
 
 ### Evening — Shibuya Drinks & Dinner (18:30)
-
-[![Shibuya Scramble Crossing from above, Tokyo — nightlife district](https://upload.wikimedia.org/wikipedia/commons/8/88/Shibuya_Crossing%2C_Aerial.jpg)](https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_Aerial.jpg "Shibuya nightlife, Tokyo")
 
 Shibuya has one of the best bar and restaurant scenes in Tokyo. Explore the backstreets of Udagawacho (Shibuya's "bar alley") for izakayas, craft beer bars, and cocktail lounges. Budget ¥3,000–¥6,000 for dinner and drinks.
 

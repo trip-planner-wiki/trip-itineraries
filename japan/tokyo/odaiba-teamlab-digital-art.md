@@ -59,8 +59,6 @@ Back on Odaiba, take a stroll along Odaiba Marine Park beach for views of Rainbo
 
 ### Evening — Rainbow Bridge Views at Dusk (18:30)
 
-[![Evening view of Tokyo Bay from Odaiba with Rainbow Bridge](https://upload.wikimedia.org/wikipedia/commons/4/48/Evening_Tokyo_Bay_from_Aquacity_Odaiba_2.jpg)](https://commons.wikimedia.org/wiki/File:Evening_Tokyo_Bay_from_Aquacity_Odaiba_2.jpg "Evening view of Tokyo Bay from Odaiba with Rainbow Bridge at dusk")
-
 As night falls, the Rainbow Bridge and Tokyo skyline light up beautifully. This is one of the most iconic views in Tokyo. Many restaurants and cafes in the Decks Tokyo Beach mall have bay-facing windows. A perfect, low-key way to end the day.
 
 🗺️ [Get transit directions from Odaiba to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Decks+Tokyo+Beach,+Odaiba,+Tokyo&travelmode=transit)

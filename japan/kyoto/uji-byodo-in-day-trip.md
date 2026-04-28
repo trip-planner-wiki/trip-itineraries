@@ -19,8 +19,6 @@ Uji is a small city just 15 km south of central Kyoto, famous for two things: th
 
 ### Morning — Travel to Uji (09:30)
 
-[![Uji River, Kyoto Prefecture](https://upload.wikimedia.org/wikipedia/commons/e/ec/Uji_river%2C_Kyoto.jpg)](https://commons.wikimedia.org/wiki/File:Uji_river,_Kyoto.jpg "Uji River, Kyoto Prefecture")
-
 **📍 Uji City, Kyoto Prefecture**
 
 From Kyoto Station, take the JR Nara Line directly to Uji Station (~17 minutes, ¥240). Alternatively, Kintetsu Kintetsu-Uji Station is a short walk from the main sights.
@@ -49,8 +47,6 @@ Originally a Fujiwara clan villa (built 998), converted into a Buddhist temple i
 
 ### Lunch — Uji Riverside (13:00)
 
-[![Uji River, Kyoto Prefecture — riverside dining](https://upload.wikimedia.org/wikipedia/commons/e/ec/Uji_river%2C_Kyoto.jpg)](https://commons.wikimedia.org/wiki/File:Uji_river,_Kyoto.jpg "Uji riverside restaurants, Kyoto")
-
 Several excellent restaurants and teahouses serve lunch along the riverside. Try a set meal featuring Uji tea-flavored noodles (cha-soba) or a kaiseki-style lunch. Budget ¥1,000–¥2,500.
 
 🗺️ [Directions to Ujigami Shrine (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Byodo-in,+116+Renge,+Uji+City,+Kyoto+Prefecture&destination=Ujigami+Shrine,+Uji+City,+Kyoto+Prefecture&travelmode=transit)
@@ -62,8 +58,6 @@ Several excellent restaurants and teahouses serve lunch along the riverside. Try
 Explore Ujigami Shrine — the oldest surviving shrine building in Japan (late Heian period, ~10th–11th century), also a UNESCO World Heritage Site and free to enter. Walk the pleasant riverside paths back to the station.
 
 ### Return to Kyoto (16:00)
-
-[![Uji River, Kyoto Prefecture](https://upload.wikimedia.org/wikipedia/commons/e/ec/Uji_river%2C_Kyoto.jpg)](https://commons.wikimedia.org/wiki/File:Uji_river,_Kyoto.jpg "Uji River, Kyoto Prefecture — return journey")
 
 Return JR Nara Line from Uji to Kyoto Station (~17 minutes).
 

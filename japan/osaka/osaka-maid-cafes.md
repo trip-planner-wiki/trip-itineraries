@@ -57,8 +57,6 @@ The Den-Den Town location of maidreamin — ideal for visiting alongside the ota
 
 ### Late Afternoon — Unique Osaka Maid Cafes (17:00)
 
-[![Den-Den Town, Nipponbashi, Osaka](https://osaka-info.jp/spot/images/7790ea2af40e205df1a4f40354136d6f8bb5e6f4.jpg)](https://osaka-info.jp/en/spot/nippombashi-denden-town/ "Unique Osaka maid cafes — Ota Road, Nipponbashi, Den-Den Town")
-
 Osaka has several one-of-a-kind maid cafes worth exploring:
 - **Cafe Doll** — Elegant doll-themed concept
 - **I'Kiss** — Popular Nipponbashi independent cafe

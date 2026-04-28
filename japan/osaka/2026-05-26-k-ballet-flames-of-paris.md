@@ -32,8 +32,6 @@ Nakanoshima is a narrow island between the Dojima and Tosabori rivers in central
 
 ### Pre-Show Dinner — Nakanoshima Restaurants (17:00)
 
-[![Festival Hall, Nakanoshima, Osaka](https://upload.wikimedia.org/wikipedia/commons/0/05/Festival_Hall_%28Osaka%29_01.JPG)](https://commons.wikimedia.org/wiki/File:Festival_Hall_(Osaka)_01.JPG "Nakanoshima restaurants area, Osaka")
-
 The area around Festival Hall has several excellent restaurants. Budget ¥2,000–¥5,000 for a pre-show dinner.
 
 ### Performance — K-Ballet Flames of Paris (Evening)

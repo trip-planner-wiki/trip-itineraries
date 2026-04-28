@@ -29,13 +29,9 @@ Arrive at opening time (typically 09:00). USJ is accessible via the JR Yumesaki 
 
 ### Morning — Super Nintendo World (09:00)
 
-[![Super Nintendo World at Universal Studios Japan](https://upload.wikimedia.org/wikipedia/commons/3/33/USJ_Super_Nintendo_World_overview.jpg)](https://commons.wikimedia.org/wiki/File:USJ_Super_Nintendo_World_overview.jpg "Super Nintendo World — Mario Kart ride, Yoshi's Adventure, Donkey Kong Country")
-
 Head straight to Super Nintendo World at opening — queues build quickly throughout the day. The immersive Mario land features the Mario Kart: Koopa's Challenge ride, Yoshi's Adventure, interactive Power-Up Band wristbands, and dozens of hands-on activities. Budget 2–3 hours here. A separate timed entry ticket (Area Reservation) is included with Express Pass or available at designated times.
 
 ### Lunch — USJ Food Areas (12:00)
-
-[![Super Nintendo World at Universal Studios Japan](https://upload.wikimedia.org/wikipedia/commons/3/33/USJ_Super_Nintendo_World_overview.jpg)](https://commons.wikimedia.org/wiki/File:USJ_Super_Nintendo_World_overview.jpg "Kinopio's Café, Super Nintendo World, USJ")
 
 USJ has restaurants themed to each area. Try the Mario-themed Kinopio's Café in Super Nintendo World, or explore other food options. Budget ¥1,500–¥3,000.
 
@@ -46,8 +42,6 @@ USJ has restaurants themed to each area. Try the Mario-themed Kinopio's Café in
 Harry Potter's Hogsmeade area is another USJ highlight — Butterbeer, wand experiences, and the Flight of the Hippogriff rollercoaster. After that, explore Jurassic World, Minion Park, or whichever zones interest you most.
 
 ### Late Afternoon / Evening — Final Rides & Parade (17:00)
-
-[![The Wizarding World of Harry Potter at Universal Studios Japan](https://upload.wikimedia.org/wikipedia/commons/7/70/The_Wizarding_World_of_Harry_Potter_USJ.JPG)](https://commons.wikimedia.org/wiki/File:The_Wizarding_World_of_Harry_Potter_USJ.JPG "Universal Studios Japan — evening parade and lights")
 
 USJ often has evening parades and shows — check the daily schedule. The park lights up beautifully after dark. Stay for the evening atmosphere if energy allows.
 

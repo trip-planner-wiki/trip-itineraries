@@ -31,8 +31,6 @@ Accessible via JR Tanbaguchi Station (1 stop from Kyoto Station on JR San-in Lin
 
 ### Browsing Strategy (10:00–12:00)
 
-[![Kyoto Pulse Plaza — antique fair venue](https://www.pulseplaza.jp/img/section/billboard1.jpg)](https://www.pulseplaza.jp/ "Kyoto Antique Fair at Kyoto Pulse Plaza")
-
 Do a full walk-through first to get a sense of the layout and spot the dealers most interesting to you. Common items worth examining:
 - **Ukiyo-e woodblock prints** — originals from ¥3,000 to ¥100,000+ depending on artist/condition
 - **Vintage kimono** — beautiful and functional, ¥3,000–¥30,000+
@@ -42,13 +40,9 @@ Do a full walk-through first to get a sense of the layout and spot the dealers m
 
 ### Lunch — Nearby Restaurants (12:30)
 
-[![Kyoto Pulse Plaza area](https://www.pulseplaza.jp/img/section/billboard1.jpg)](https://www.pulseplaza.jp/ "Kyoto Pulse Plaza area — lunch")
-
 The Pulse Plaza area has cafes and restaurants. Alternatively, pack snacks and eat at the venue.
 
 ### Afternoon Browsing & Purchases (14:00)
-
-[![Kyoto Pulse Plaza — antique fair dealers](https://www.pulseplaza.jp/img/section/billboard1.jpg)](https://www.pulseplaza.jp/ "Kyoto Antique Fair — afternoon browsing")
 
 Return to the dealers you earmarked and negotiate. Prices are typically negotiable — especially for multiple purchases from the same dealer. Most dealers speak limited English but are used to communicating across language barriers.
 

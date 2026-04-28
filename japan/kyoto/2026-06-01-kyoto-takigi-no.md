@@ -33,13 +33,9 @@ Heian Shrine is one of Kyoto's most impressive — a large, vermilion-painted sh
 
 ### Dinner — Okazaki / Nanzenji Area (17:00)
 
-[![Heian Shrine garden in Kyoto — Okazaki cultural district](https://upload.wikimedia.org/wikipedia/commons/8/86/Courtyard_of_Heian_Jingu_%282616076789%29.jpg)](https://commons.wikimedia.org/wiki/File:Courtyard_of_Heian_Jingu_(2616076789).jpg "Okazaki / Nanzenji area, Kyoto")
-
 The Okazaki cultural district has several excellent restaurants and cafes. Budget ¥1,500–¥3,000 for a pre-show dinner.
 
 ### Kyoto Takigi Nō (18:00)
-
-[![Heian Shrine courtyard lit by torchlight for Takigi Nō](https://upload.wikimedia.org/wikipedia/commons/8/86/Courtyard_of_Heian_Jingu_%282616076789%29.jpg)](https://commons.wikimedia.org/wiki/File:Courtyard_of_Heian_Jingu_(2616076789).jpg "Heian Shrine — Kyoto Takigi Nō torchlight performance")
 
 **📍 Heian Shrine, outdoor stage**
 

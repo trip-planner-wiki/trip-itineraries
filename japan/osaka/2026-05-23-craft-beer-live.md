@@ -31,25 +31,17 @@ Take the New Tram (Osaka Nanko Port Town Line) from Cosmosquare Station to Trade
 
 ### Arrive — Festival Opening (12:00)
 
-[![Craft Beer Live 2026 — official event banner](http://craftbeerlive.com/wp/wp-content/uploads/2026/04/CBL2026_TOP2.jpg)](http://craftbeerlive.com/ "Craft Beer Live 2026 — festival opening")
-
 Purchase your beer tokens at the entrance (advance purchase recommended — check the official site). The festival opens at noon with all brewery booths available immediately.
 
 ### Early Afternoon — Brewery Hopping (12:00–15:00)
-
-[![Craft Beer Live 2026 — official event banner](http://craftbeerlive.com/wp/wp-content/uploads/2026/04/CBL2026_TOP2.jpg)](http://craftbeerlive.com/ "Craft Beer Live 2026 — brewery hopping")
 
 With 50+ breweries and 300+ beer varieties, the key strategy is to taste widely rather than drink heavily. Small pour sizes (100–200ml) are available at many booths. Chat with the brewers — many speak some English and are enthusiastic about sharing their craft. Food stalls provide excellent pairing options.
 
 ### Mid-Afternoon — Live Stage (14:00)
 
-[![Craft Beer Live 2026 — official event banner](http://craftbeerlive.com/wp/wp-content/uploads/2026/04/CBL2026_TOP2.jpg)](http://craftbeerlive.com/ "Craft Beer Live 2026 — live stage")
-
 The live stage features music performances throughout the day. Check the day's schedule at the entrance. The outdoor plaza atmosphere with music, food, and good beer is one of Osaka's best social experiences.
 
 ### Late Afternoon — Wind Down (17:00)
-
-[![Craft Beer Live 2026 — official event banner](http://craftbeerlive.com/wp/wp-content/uploads/2026/04/CBL2026_TOP2.jpg)](http://craftbeerlive.com/ "Craft Beer Live 2026 — wind down, waterfront Nanko")
 
 Final beers and food as the festival winds down. The waterfront location has pleasant views of the port area.
 

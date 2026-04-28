@@ -44,8 +44,6 @@ Spend the afternoon in the Namba/Dotonbori area. If you haven't visited Izakaya 
 
 ### Evening — Final Osaka Evening (18:00)
 
-[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg "Dotonbori canal at night, Osaka — final evening")
-
 A final evening in Osaka before departing for Kyoto the next day. Dotonbori for dinner and a walk along the famous canal to say goodbye to Osaka.
 
 🗺️ [Get transit directions from Dotonbori / Namba to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Dotonbori,+Namba,+Osaka&travelmode=transit)
