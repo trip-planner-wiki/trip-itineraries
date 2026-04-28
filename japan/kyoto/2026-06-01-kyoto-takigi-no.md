@@ -33,9 +33,13 @@ Heian Shrine is one of Kyoto's most impressive — a large, vermilion-painted sh
 
 ### Dinner — Okazaki / Nanzenji Area (17:00)
 
+[![Sanmon gate, Nanzenji Temple, Kyoto — near the Okazaki dining area](https://upload.wikimedia.org/wikipedia/commons/1/11/Sanmon_gate%2C_Nanzenji_Temple%2C_Kyoto%2C_20240820_1205_5050.jpg)](https://commons.wikimedia.org/wiki/File:Sanmon_gate,_Nanzenji_Temple,_Kyoto,_20240820_1205_5050.jpg "Sanmon gate, Nanzenji Temple, Kyoto")
+
 The Okazaki cultural district has several excellent restaurants and cafes. Budget ¥1,500–¥3,000 for a pre-show dinner.
 
 ### Kyoto Takigi Nō (18:00)
+
+[![Kyoto Kanze Noh and Kyogen theatre stage — Noh performance setting](https://upload.wikimedia.org/wikipedia/commons/f/f7/Stage_of_the_Kyoto-Kanze_Noh_and_Kyogen_theatre_%2848885678827%29.jpg)](https://commons.wikimedia.org/wiki/File:Stage_of_the_Kyoto-Kanze_Noh_and_Kyogen_theatre_(48885678827).jpg "Kyoto Kanze Noh and Kyogen theatre stage")
 
 **📍 Heian Shrine, outdoor stage**
 

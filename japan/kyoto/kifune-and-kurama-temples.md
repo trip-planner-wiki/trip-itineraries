@@ -41,6 +41,8 @@ The village of Kurama at the base of the mountain has several traditional restau
 
 ### Mid-Afternoon — Kurama Onsen (13:30)
 
+[![Kurama Onsen outdoor bath, northern Kyoto](https://upload.wikimedia.org/wikipedia/commons/6/64/%E3%81%8F%E3%82%89%E3%81%BE%E6%B8%A9%E6%B3%89_-_panoramio_%281%29.jpg)](https://commons.wikimedia.org/wiki/File:%E3%81%8F%E3%82%89%E3%81%BE%E6%B8%A9%E6%B3%89_-_panoramio_(1).jpg "Kurama Onsen outdoor bath, northern Kyoto")
+
 **📍 520 Kuramahonmachi, Sakyo Ward, Kyoto**
 
 Kurama Onsen is one of the most well-regarded onsen in the Kyoto area — sodium bicarbonate waters said to be excellent for the skin. The outdoor bath (rotenburo) is surrounded by trees and has a beautiful mountain atmosphere. Entry for outdoor bath only: ¥1,500. Bring a towel or rent one. Allow 1–1.5 hours to relax properly.
@@ -54,6 +56,8 @@ Kurama Onsen is one of the most well-regarded onsen in the Kyoto area — sodium
 From Kurama Onsen, experienced hikers can take the 2km forest trail over the mountain to Kifune (~1 hour walk). The trail is well-maintained but has some elevation — wear comfortable shoes. Alternatively, return to Kurama Station and take the Eizan Railway one stop to Kibuneguchi (¥150), then walk 30 min up the river valley to Kifune Shrine.
 
 ### Evening — Kifune Shrine (16:30)
+
+[![Kifune Shrine, Kibune, northern Kyoto](https://upload.wikimedia.org/wikipedia/commons/d/d1/Kifune_Jinja_Shrine_20150914.JPG)](https://commons.wikimedia.org/wiki/File:Kifune_Jinja_Shrine_20150914.JPG "Kifune Shrine, Kibune, northern Kyoto")
 
 **📍 180 Kibune-cho, Kurama, Sakyo Ward, Kyoto**
 

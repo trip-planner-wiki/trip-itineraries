@@ -39,6 +39,8 @@ Head up to the rooftop terrace of Tokyu Plaza for a coffee with views across the
 
 ### Late Morning — Takeshita Street, Harajuku (11:00)
 
+[![Takeshita Street entrance, Harajuku, Tokyo — youth fashion and crepes](https://upload.wikimedia.org/wikipedia/commons/8/81/Takeshita_Street_entrance_on_Meiji_Avenue_side.jpg)](https://commons.wikimedia.org/wiki/File:Takeshita_Street_entrance_on_Meiji_Avenue_side.jpg "Takeshita Street entrance, Harajuku, Tokyo")
+
 Harajuku's famous pedestrian street is packed with quirky boutiques, crepe shops, and street fashion. It's one of the best places in Japan to people-watch and find unique, eccentric clothing. Try a Rainbow Crepe — a Harajuku classic. Free to browse, crepes ~¥600–¥900.
 
 🗺️ [Directions to Omotesando lunch area (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Takeshita+Street,+Harajuku,+Tokyo&destination=Omotesando,+Harajuku,+Tokyo&travelmode=transit)
@@ -66,6 +68,8 @@ Head back and explore Shibuya's department stores or Shinjuku's shopping distric
 🗺️ [Directions to Shibuya bar/restaurant area (walk)](https://www.google.com/maps/dir/?api=1&origin=Shibuya+Station,+Shibuya-ku,+Tokyo&destination=Udagawacho,+Shibuya-ku,+Tokyo&travelmode=transit)
 
 ### Evening — Shibuya Drinks & Dinner (18:30)
+
+[![Izakaya in Shibuya, Tokyo — backstreet bars and evening drinks](https://upload.wikimedia.org/wikipedia/commons/b/be/Izakaya_in_Sendagaya%2C_Shibuya%2C_Tokyo%2C_Japan%2C_2024_May.jpg)](https://commons.wikimedia.org/wiki/File:Izakaya_in_Sendagaya,_Shibuya,_Tokyo,_Japan,_2024_May.jpg "Izakaya in Shibuya area, Tokyo")
 
 Shibuya has one of the best bar and restaurant scenes in Tokyo. Explore the backstreets of Udagawacho (Shibuya's "bar alley") for izakayas, craft beer bars, and cocktail lounges. Budget ¥3,000–¥6,000 for dinner and drinks.
 

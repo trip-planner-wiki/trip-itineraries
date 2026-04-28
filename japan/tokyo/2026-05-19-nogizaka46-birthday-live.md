@@ -33,6 +33,8 @@ Tokyo Dome City (the amusement park surrounding Tokyo Dome) opens 2+ hours befor
 
 ### Concert — Nogizaka46 14th Year Birthday Live Day 1 (18:30)
 
+[![Tokyo Dome interior — concert stage and audience](https://upload.wikimedia.org/wikipedia/commons/5/52/Tokyo_Dome_inside.jpg)](https://commons.wikimedia.org/wiki/File:Tokyo_Dome_inside.jpg "Tokyo Dome interior — concert venue")
+
 Tokyo Dome holds ~55,000 people. The anniversary concert features the full lineup performing a setlist spanning their 14-year career. Expect multiple costume changes, elaborate stage design, and the emotional energy of an anniversary show.
 
 🗺️ [Directions to post-concert bars near Suidobashi (walk)](https://www.google.com/maps/dir/?api=1&origin=Tokyo+Dome,+1-3-61+Koraku,+Bunkyo-ku,+Tokyo&destination=Suidobashi+Station,+Bunkyo-ku,+Tokyo&travelmode=transit)

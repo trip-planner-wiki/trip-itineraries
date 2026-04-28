@@ -37,6 +37,8 @@ Budget ¥1,500–¥3,000 for snacking and food shopping.
 
 ### Late Morning — Nishiki Tenmangu Shrine (11:30)
 
+[![Nishiki Tenmangu Shrine exterior, Kyoto — compact shrine at the east end of Nishiki Market](https://upload.wikimedia.org/wikipedia/commons/f/f9/Nishiki_Tenmang%C5%AB_ext%C3%A9rieur.jpg)](https://commons.wikimedia.org/wiki/File:Nishiki_Tenmang%C5%AB_ext%C3%A9rieur.jpg "Nishiki Tenmangu Shrine exterior, Kyoto")
+
 **📍 537 Nakano-cho, Shinkyogoku Dori, Nakagyo-ku, Kyoto 604-8044**
 
 Step off the market into this charming compact shrine tucked at its eastern end. Dedicated to Sugawara no Michizane — patron of learning and scholarship — Nishiki Tenmangu is famous for its unique torii gate embedded directly into the surrounding multi-story buildings on either side, a quirk of urban Kyoto growth. A serene few minutes of quiet amid the busy market street. Free entry; open daily 8:00–20:30.

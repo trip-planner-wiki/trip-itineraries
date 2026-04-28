@@ -49,6 +49,8 @@ For manga, anime goods, and trading cards in Kyoto, the best location is BOOKOFF
 
 ### Late Afternoon — Gion District Walk (15:00)
 
+[![Hanamikoji-dori, Gion district, Kyoto — traditional machiya townhouses](https://upload.wikimedia.org/wikipedia/commons/c/ca/Kyoto_Gion_04.jpg)](https://commons.wikimedia.org/wiki/File:Kyoto_Gion_04.jpg "Hanamikoji-dori, Gion district, Kyoto")
+
 Walk east from Kawaramachi along Shijo-dori to Gion. The preserved machiya (townhouse) streets of Hanamikoji-dori and Shinmonzen-dori offer the most atmospheric Kyoto scenery. Explore freely:
 - **Hanamikoji-dori** — the main Gion street with ochaya (teahouses)
 - **Shinbashi-Shirakawa** — a canal-side street with weeping willows and preserved buildings
@@ -59,6 +61,8 @@ Evenings in Gion sometimes offer rare sightings of geisha (geiko) and apprentice
 🗺️ [Directions to Gion dinner restaurants (walk)](https://www.google.com/maps/dir/?api=1&origin=Hanamikoji-dori,+Gion,+Higashiyama+Ward,+Kyoto&destination=Gion,+Higashiyama+Ward,+Kyoto&travelmode=transit)
 
 ### Evening — Gion Dinner (18:30)
+
+[![Evening atmosphere in Gion, Kyoto — lantern-lit restaurants and backstreets](https://upload.wikimedia.org/wikipedia/commons/b/b0/Kyoto_Gion_09.jpg)](https://commons.wikimedia.org/wiki/File:Kyoto_Gion_09.jpg "Evening in Gion, Kyoto")
 
 Gion and the surrounding Higashiyama area have many excellent restaurants. Budget ¥2,000–¥5,000. The atmospheric backstreets have both casual izakayas and upmarket restaurants.
 

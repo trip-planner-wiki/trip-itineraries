@@ -68,7 +68,7 @@ Knowledgeable staff at many booths can guide your choices. Belgian food stalls s
 
 ### Evening — Riverside Live Music (18:00)
 
-[![Belgian Beer Weekend Osaka 2026 — riverside festival at Nakanoshima](https://belgianbeerweekend.jp/meta.jpg)](https://belgianbeerweekend.jp "Belgian Beer Weekend Osaka 2026 — evening riverside live music")
+[![Dojima River and Nakanoshima at night, Osaka — riverside festival setting](https://upload.wikimedia.org/wikipedia/commons/2/2f/Dojima_River_Nakanoshima_Osaka_Japan02-r.jpg)](https://commons.wikimedia.org/wiki/File:Dojima_River_Nakanoshima_Osaka_Japan02-r.jpg "Nakanoshima riverside at night, Osaka")
 
 The live stage comes alive in the evening. The Nakanoshima riverside at night — illuminated Osaka skyline reflected in the Okawa River — is one of the city's most romantic settings. Stay as late as the event runs.
 

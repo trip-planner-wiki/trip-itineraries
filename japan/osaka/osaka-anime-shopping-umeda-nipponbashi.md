@@ -29,6 +29,8 @@ Start at Osaka Station's expansive commercial complex. Yodobashi Camera Multimed
 
 ### Mid-Morning — Animate Umeda & Gratte Character Cafe (11:00)
 
+[![Animate Umeda store, Osaka — anime goods and character cafe collaborations](https://upload.wikimedia.org/wikipedia/commons/b/ba/Animate_Umeda.jpg)](https://commons.wikimedia.org/wiki/File:Animate_Umeda.jpg "Animate Umeda, Osaka")
+
 **📍 Umeda, Osaka**
 
 Animate Umeda stocks current-season anime goods across multiple floors. Within the same building, check if **Animate Gratte Umeda** has active character cafe collaborations. During late May, active collaborations include:
@@ -39,6 +41,8 @@ Animate Umeda stocks current-season anime goods across multiple floors. Within t
 Walk-in welcome, no reservation required. Budget ¥800–¥1,500 per drink.
 
 ### Lunch — Grand Front Osaka or Lucua Osaka (13:00)
+
+[![Grand Front Osaka — shopping complex north of Osaka Station](https://upload.wikimedia.org/wikipedia/commons/0/0f/Grand_Front_Osaka_-_Shopping_complex_north_of_Osaka_Station.jpg)](https://commons.wikimedia.org/wiki/File:Grand_Front_Osaka_-_Shopping_complex_north_of_Osaka_Station.jpg "Grand Front Osaka shopping complex, Umeda")
 
 Both massive shopping complexes connected to Osaka Station have excellent restaurant floors. Budget ¥1,000–¥2,500. Lucua Osaka's upper floors have particular variety.
 
@@ -61,6 +65,8 @@ Take the Midosuji Line from Umeda to Namba (8 minutes), then walk to Nipponbashi
 - **Animate Gratte Nipponbashi** with same collaborations as Umeda
 
 ### Late Afternoon — Den-Den Town Browsing (16:30)
+
+[![Animate Nipponbashi store, Osaka — Den-Den Town anime browsing](https://upload.wikimedia.org/wikipedia/commons/0/04/Animate_Osaka_Nippombashi.jpg)](https://commons.wikimedia.org/wiki/File:Animate_Osaka_Nippombashi.jpg "Den-Den Town / Animate Nipponbashi, Osaka")
 
 Browse BOOKOFF PLUS Namba Ebisubashi, Mandarake, and the specialty shops along Ota Road.
 

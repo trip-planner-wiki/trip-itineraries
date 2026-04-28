@@ -45,6 +45,8 @@ Take a walk along Chuo-dori, the main street of Akihabara. Grab lunch from one o
 
 ### Afternoon — @home cafe Akihabara (14:30)
 
+[![@home cafe exterior, Akihabara, Tokyo — iconic maid cafe chain](https://upload.wikimedia.org/wikipedia/commons/8/8f/Outside_of_%40home_cafe_20111128.jpg)](https://commons.wikimedia.org/wiki/File:Outside_of_%40home_cafe_20111128.jpg "@home cafe exterior, Akihabara, Tokyo")
+
 **📍 Mitsuwa Building 3F–7F, 1-11-4 Sotokanda, Chiyoda-ku**
 
 One of Akihabara's most iconic maid cafes with 600,000+ annual visitors and 4 full floors. Known for creative food presentation with latte art drawn by maids, and every guest receives a free Master's Certificate souvenir. Costumes designed by fashion designer Keita Maruyama. Budget ~¥2,000–¥3,500.
@@ -52,6 +54,8 @@ One of Akihabara's most iconic maid cafes with 600,000+ annual visitors and 4 fu
 🗺️ [Directions to Yellow Submarine Akihabara (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=%40home+cafe+Akihabara,+1-11-4+Sotokanda,+Chiyoda-ku,+Tokyo&destination=Yellow+Submarine+Akihabara,+Tokyo&travelmode=transit)
 
 ### Mid-Afternoon — Yellow Submarine Akihabara (16:00)
+
+[![Yellow Submarine Akihabara Main Shop — trading cards, board games, RPG supplies](https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/00/a0000023/img/basic/a0000023_main.jpg)](https://livejapan.com/en/in-tokyo/in-pref-tokyo/in-akihabara/spot-a0000023/ "Yellow Submarine Akihabara Main Shop — trading cards, board games, RPG supplies")
 
 **📍 Akihabara area**
 

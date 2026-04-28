@@ -29,6 +29,8 @@ Start with Osaka's flagship BOOKOFF — two floors of second-hand manga, books, 
 
 ### Mid-Morning — Animate Nipponbashi (11:00)
 
+[![Animate Nipponbashi store, Osaka — current-season anime goods](https://upload.wikimedia.org/wikipedia/commons/0/04/Animate_Osaka_Nippombashi.jpg)](https://commons.wikimedia.org/wiki/File:Animate_Osaka_Nippombashi.jpg "Animate Nipponbashi, Osaka")
+
 **📍 Nipponbashi, Namba area, Osaka**
 
 Animate's Nipponbashi location is one of Japan's most comprehensive Animate stores, stocking current-season anime goods, light novels, manga, and character merchandise. Check for any limited-edition goods tied to currently airing anime.
@@ -40,6 +42,8 @@ The area around Nipponbashi and Ota Road has many casual restaurants. Try a conv
 🗺️ [Directions to Ota Road / Den-Den Town (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Animate+Nipponbashi,+Nipponbashi,+Namba,+Osaka&destination=Ota+Road,+Nipponbashi,+Naniwa-ku,+Osaka&travelmode=transit)
 
 ### Afternoon — Ota Road & Specialty Shops (14:00)
+
+[![Anime and otaku merchandise shopping in Akihabara-style district](https://upload.wikimedia.org/wikipedia/commons/f/fe/Sailor_fuku_in_Akihabara.jpg)](https://commons.wikimedia.org/wiki/File:Sailor_fuku_in_Akihabara.jpg "Otaku merchandise shopping — Den-Den Town Ota Road")
 
 Ota Road is the heart of Den-Den Town's otaku culture — explore Mandarake, K-Books, and the dozens of specialty shops selling doujinshi, figures, and rare collectibles. Super Potato has a branch here too for retro game hunting. Take your time browsing.
 

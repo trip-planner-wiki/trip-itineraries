@@ -29,6 +29,8 @@ One of the largest electronics stores in Japan, spanning multiple buildings. 9 f
 
 ### Mid-Morning — Yellow Submarine Akihabara (11:30)
 
+[![Yellow Submarine Akihabara Main Shop — trading cards, board games, RPG supplies](https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/00/a0000023/img/basic/a0000023_main.jpg)](https://livejapan.com/en/in-tokyo/in-pref-tokyo/in-akihabara/spot-a0000023/ "Yellow Submarine Akihabara Main Shop — trading cards, board games, RPG supplies")
+
 **📍 Akihabara area**
 
 Japan's premier specialty store for trading cards, miniatures, board games, and RPG supplies. A must-visit for card game players — find rare Pokémon, Magic: the Gathering, and Japanese exclusive cards. Multiple floors of gaming goods.
@@ -62,6 +64,8 @@ Head to Shinjuku's massive BOOKOFF PLUS — one of Japan's best chain second-han
 🗺️ [Directions to Don Quijote Shinjuku Kabukicho (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=BOOKOFF+PLUS+Shinjuku+Nishiguchi,+Shinjuku,+Tokyo&destination=Don+Quijote+Shinjuku+Kabukicho,+Tokyo&travelmode=transit)
 
 ### Evening — Don Quijote Shinjuku Kabukicho (18:30)
+
+[![Kabukicho neon signs at night, Shinjuku, Tokyo — home of Don Quijote](https://upload.wikimedia.org/wikipedia/commons/9/92/Kabukicho_red_gate_and_colorful_neon_street_signs_at_night%2C_Shinjuku%2C_Tokyo%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Kabukicho_red_gate_and_colorful_neon_street_signs_at_night,_Shinjuku,_Tokyo,_Japan.jpg "Kabukicho neon signs at night, Shinjuku, Tokyo")
 
 **📍 Kabukicho, Shinjuku**
 
