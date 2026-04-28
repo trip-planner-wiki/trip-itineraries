@@ -67,12 +67,6 @@ multiple days.
 
 ## Overview
 
-[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
-
-[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
-
-... (one image per POI in the itinerary)
-
 <2–4 sentence description of the trip. What makes it special, the overall
 mood/pace, and what the visitor can expect.>
 
@@ -83,6 +77,8 @@ mood/pace, and what the visitor can expect.>
 🗺️ [Get transit directions from your accommodation to <First Stop Name>](<Google Maps URL: destination only, travelmode=transit>)
 
 ### <Time of day> — <Stop name> (<HH:MM>)
+
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
 
 **📍 <Address or area>**
 
@@ -120,12 +116,6 @@ long to spend, and estimated budget for this stop.>
 
 ## Overview
 
-[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
-
-[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
-
-... (one image per POI in the itinerary)
-
 <2–4 sentence description of the event. What it is, why it matters, and what
 the experience is like.>
 
@@ -137,6 +127,12 @@ the experience is like.>
 ## Itinerary
 
 🗺️ [Get transit directions from your accommodation to <First Stop Name>](<Google Maps URL: destination only, travelmode=transit>)
+
+### <Time of day> — <Stop name> (<HH:MM>)
+
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
+
+**📍 <Address or area>**
 
 <Same stop format as general pages, adjusted for the event structure.
 Include pre-event and post-event suggestions where relevant.
@@ -282,10 +278,10 @@ absent from the graph.
 
 ### Images
 
-Every page must include one image per POI in the **Overview section**, placed
-immediately after the `## Overview` heading. Images are listed consecutively,
-one per line, in the same order as the POIs appear in the itinerary. Images
-are displayed inline and link to their original source using this format:
+Every stop must include exactly one image. Place it immediately after the
+`### <Time of day> — <Stop name> (<HH:MM>)` heading and before the
+`**📍 <Address or area>**` line. Images are displayed inline and link to
+their original source using this format:
 
 ```markdown
 [![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
@@ -298,9 +294,10 @@ Image source priority (use the first source that yields a suitable result):
 1. **Official event/venue website** — press images or OGP images from the
    event's own site
 2. **Trip blogs or news articles** — photos from the actual event or location
-3. Search on https://duckduckgo.com/
-
-DO NOT use Wikimedia Commons for images!
+3. Search on https://duckduckgo.com/ — try up to 3 different queries before
+   giving up
+4. **Wikimedia Commons** — only as a last resort, after at least 3 failed
+   DuckDuckGo attempts
 
 Only use images that are publicly accessible without login. Make sure that you
 don't add images that don't load.
