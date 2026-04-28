@@ -10,7 +10,13 @@
 
 ## Overview
 
-[![Kifune Shrine — official website image](https://kifunejinja.jp/production/wp-content/uploads/2020/10/p-home_info-img_01.jpg)](http://kifunejinja.jp/)
+[![Kifune Stairs](https://yentravelsjapan.com/wp-content/uploads/2024/07/Compress_20240720_010807_7788-1024x683.jpg)](https://yentravelsjapan.com/kifune-shrine/ "Kifune Stairs")
+
+[![Kifune Shrine](https://yentravelsjapan.com/wp-content/uploads/2024/07/Compress_20240720_010809_9021-1024x683.jpg)](https://yentravelsjapan.com/kifune-shrine/ "Kifune Shrine")
+
+[![Imperial Court Dance](https://gethiroshima.com/wp-content/uploads/2025/01/Bugaku-G7-Summit.webp)](https://gethiroshima.com/features/bugaku-ancient-imperial-court-dances-of-japan/ "Imperial Court Dance")
+
+[![Izumo Kagura Sacred Dance](https://d3bbatwdaufxg9.cloudfront.net/gallery/main/2714/5757/5086/11-20140601_Kifune_Kifunematsuri-1231.jpg)](https://www.discoverkyoto.com/event-calendar/june/kifune-matsuri-kifune-shrine/ "Izumo Kagura Sacred Dance")
 
 The annual Kifune Matsuri is one of Kyoto's most atmospheric traditional festivals — held at the ancient Kifune Shrine deep in the northern mountains. The day features morning Shinto rituals, Bugaku court dance at 11:00, an omikoshi (portable shrine) procession at 13:00, and the dramatic Izumo Kagura sacred dance at 15:00 — a theatrical performance of the god Susanoo slaying a giant serpent, complete with elaborate costumes and pyrotechnics. An extraordinary window into living Japanese ritual tradition.
 
