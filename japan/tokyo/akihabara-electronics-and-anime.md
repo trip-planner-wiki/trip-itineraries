@@ -19,7 +19,7 @@ A second approach to Akihabara, this time focused on new electronics, anime merc
 
 ### Morning — Yodobashi Camera Multimedia Akiba (10:00)
 
-[![Akihabara's neon-lit street at night](https://upload.wikimedia.org/wikipedia/commons/8/86/Akihabara_at_night.jpg)](https://commons.wikimedia.org/wiki/File:Akihabara_at_night.jpg "Akihabara, Tokyo")
+[![Yodobashi Camera Multimedia Akiba, Akihabara, Tokyo](https://upload.wikimedia.org/wikipedia/commons/c/ca/Yodobashi_Camera_Akihabara_20130408.jpg)](https://commons.wikimedia.org/wiki/File:Yodobashi_Camera_Akihabara_20130408.jpg "Yodobashi Camera Multimedia Akiba, Akihabara, Tokyo")
 
 **📍 1-1 Kanda-Hanaokacho, Chiyoda-ku, Tokyo**
 
@@ -37,8 +37,6 @@ Japan's premier specialty store for trading cards, miniatures, board games, and 
 
 ### Lunch — Akihabara Eateries (13:00)
 
-[![Super Potato retro game store, Akihabara](https://upload.wikimedia.org/wikipedia/commons/d/da/Super_Potato_in_Akihabara_%284066556528%29.jpg)](https://commons.wikimedia.org/wiki/File:Super_Potato_in_Akihabara_(4066556528).jpg "Akihabara area, Tokyo")
-
 Plenty of options around the main streets. Try a themed restaurant, or keep it quick with ramen or don-buri so you have more time for shopping. Budget ¥800–¥1,500.
 
 🗺️ [Directions to Nakano Broadway (JR Chuo Line, ~20 min)](https://www.google.com/maps/dir/?api=1&origin=Akihabara+Station,+Tokyo&destination=Nakano+Broadway,+5-52-15+Nakano,+Nakano-ku,+Tokyo&travelmode=transit)
@@ -55,7 +53,7 @@ Take the JR Chuo Line from Akihabara (or Ochanomizu) to Nakano (about 20 minutes
 
 ### Late Afternoon — BOOKOFF PLUS Shinjuku West Exit (17:00)
 
-[![Don Quijote Shinjuku, Tokyo — Shinjuku area](https://upload.wikimedia.org/wikipedia/commons/6/67/Don_Quijote_Shinjuku.JPG)](https://commons.wikimedia.org/wiki/File:Don_Quijote_Shinjuku.JPG "Shinjuku area, Tokyo")
+[![BOOKOFF second-hand store, Shinjuku, Tokyo](https://upload.wikimedia.org/wikipedia/commons/c/c5/Man_wearing_a_Sherlock_hat_in_front_of_a_Book_Off_in_Shinjuku_%28142319193%29.jpg)](https://commons.wikimedia.org/wiki/File:Man_wearing_a_Sherlock_hat_in_front_of_a_Book_Off_in_Shinjuku_(142319193).jpg "BOOKOFF second-hand store, Shinjuku, Tokyo")
 
 **📍 Shinjuku, Tokyo**
 

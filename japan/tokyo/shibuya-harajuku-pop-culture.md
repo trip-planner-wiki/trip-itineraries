@@ -29,7 +29,7 @@ Start at the famous Hachikō Statue — the loyal Akita dog who waited for his o
 
 ### Mid-Morning — Starbucks Tokyu Plaza Omotesando (10:30)
 
-[![Takeshita Street, Harajuku, Tokyo](https://upload.wikimedia.org/wikipedia/commons/9/92/Takeshita_Street.jpg)](https://commons.wikimedia.org/wiki/File:Takeshita_Street.jpg "Harajuku area, Tokyo")
+[![Tokyu Plaza Omotesando Harajuku, Tokyo — rooftop terrace and kaleidoscope entrance](https://upload.wikimedia.org/wikipedia/commons/1/10/Tokyu_Plaza_Omotesando_Harajuku.jpg)](https://commons.wikimedia.org/wiki/File:Tokyu_Plaza_Omotesando_Harajuku.jpg "Tokyu Plaza Omotesando Harajuku, Tokyo")
 
 **📍 Tokyu Plaza Omotesando/Harajuku Rooftop**
 

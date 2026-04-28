@@ -43,15 +43,11 @@ The area around Nipponbashi and Ota Road has many casual restaurants. Try a conv
 
 ### Afternoon — Ota Road & Specialty Shops (14:00)
 
-[![Anime and otaku merchandise shopping in Akihabara-style district](https://upload.wikimedia.org/wikipedia/commons/f/fe/Sailor_fuku_in_Akihabara.jpg)](https://commons.wikimedia.org/wiki/File:Sailor_fuku_in_Akihabara.jpg "Otaku merchandise shopping — Den-Den Town Ota Road")
-
 Ota Road is the heart of Den-Den Town's otaku culture — explore Mandarake, K-Books, and the dozens of specialty shops selling doujinshi, figures, and rare collectibles. Super Potato has a branch here too for retro game hunting. Take your time browsing.
 
 🗺️ [Directions to Nintendo Osaka at Daimaru Umeda (subway Midosuji Line, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Nipponbashi+Station,+Naniwa-ku,+Osaka&destination=Nintendo+Osaka,+Daimaru+Umeda,+3-1-1+Umeda,+Kita-ku,+Osaka&travelmode=transit)
 
 ### Mid-Afternoon — Nintendo Osaka (16:00)
-
-[![Nintendo Tokyo official store interior](https://upload.wikimedia.org/wikipedia/commons/2/26/Nintendo_Tokyo_%28PXL_20231220_022538554%29.jpg)](https://commons.wikimedia.org/wiki/File:Nintendo_Tokyo_(PXL_20231220_022538554).jpg "Nintendo Osaka at Daimaru Umeda, Osaka")
 
 **📍 13F Daimaru Umeda Store, South Gate Building, 3-1-1 Umeda, Kita-ku, Osaka**
 

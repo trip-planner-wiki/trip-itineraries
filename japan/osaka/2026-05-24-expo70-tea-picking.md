@@ -43,8 +43,6 @@ The Tower of the Sun (Taiyo no To) by artist Taro Okamoto is one of Japan's most
 
 ### Lunch — Park Area (12:00)
 
-[![Expo 70 Commemorative Park, Suita City, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/90/Expo70_Park_%28Suite_Osaka%29_hdsr_S5_03.jpg)](https://commons.wikimedia.org/wiki/File:Expo70_Park_(Suite_Osaka)_hdsr_S5_03.jpg "Expo 70 Commemorative Park — lunch area, Suita City, Osaka")
-
 The park has restaurants and food stands. Budget ¥800–¥1,500. The Japanese Garden section of the park (additional ¥450 entry) has a teahouse serving matcha.
 
 🗺️ [Directions to Japanese Garden within the park (walk)](https://www.google.com/maps/dir/?api=1&origin=Expo+70+Commemorative+Park,+Suita+City,+Osaka&destination=Japanese+Garden,+Expo+70+Commemorative+Park,+Suita+City,+Osaka&travelmode=transit)

@@ -30,8 +30,6 @@ Akihabara for anime shopping, or visit Design Festa at Tokyo Big Sight (also May
 
 ### Lunch (12:30)
 
-[![Akihabara street food and restaurants](https://upload.wikimedia.org/wikipedia/commons/d/da/Super_Potato_in_Akihabara_%284066556528%29.jpg)](https://commons.wikimedia.org/wiki/File:Super_Potato_in_Akihabara_(4066556528).jpg "Akihabara area, Tokyo")
-
 Find restaurants near the venue (check the official site for the venue address). Budget ¥1,200–¥2,000.
 
 ### Concert — 2nd Stage (14:00–16:00)
