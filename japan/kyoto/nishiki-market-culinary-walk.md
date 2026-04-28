@@ -9,14 +9,6 @@
 
 ## Overview
 
-[![Nishiki Tenmangu Shrine at the eastern end of Nishiki Market](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nishiki_Tenmang%C5%AB_sanctuaire.jpg)](https://commons.wikimedia.org/wiki/File:Nishiki_Tenmangū_sanctuaire.jpg "Nishiki Tenmangu Shrine at the eastern end of Nishiki Market")
-
-[![Shinkyogoku Shopping Street, Kyoto](https://upload.wikimedia.org/wikipedia/commons/a/a7/Shinkyogoku_by_Flowizm_in_Kyoto.jpg)](https://commons.wikimedia.org/wiki/File:Shinkyogoku_by_Flowizm_in_Kyoto.jpg "Shinkyogoku Shopping Street, Kyoto")
-
-[![Rokkakudo Temple, Kyoto](https://upload.wikimedia.org/wikipedia/commons/b/bd/Rokkaku-d%C5%8D_temple_in_Kyoto%2C_Japan_-_Stierch_-_A.jpg)](https://commons.wikimedia.org/wiki/File:Rokkaku-dō_temple_in_Kyoto,_Japan_-_Stierch_-_A.jpg "Rokkakudo Temple, Kyoto")
-
-[![Pontocho Alley at night, Kyoto](https://upload.wikimedia.org/wikipedia/commons/9/99/Pontocho_Alley%2C_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg)](https://commons.wikimedia.org/wiki/File:Pontocho_Alley,_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg "Pontocho Alley at night, Kyoto")
-
 A deep-dive into Kyoto's unmatched food culture, threading together the city's most beloved culinary destinations in a single, unhurried day. The morning begins at Nishiki Market — a 400-year-old covered food arcade nicknamed "Kyoto's Kitchen" — before a serene detour to the hexagonal Rokkakudo Temple and a browse through the adjacent Shinkyogoku shopping street for souvenirs and street snacks. The day ends in Pontocho Alley, one of Japan's most atmospheric dining streets, where lantern-lit restaurants extend riverside terraces over the Kamo River from June onward. This itinerary prioritizes eating, browsing, and soaking in Kyoto's downtown food atmosphere rather than rushing between landmark temples.
 
 ---
@@ -26,6 +18,8 @@ A deep-dive into Kyoto's unmatched food culture, threading together the city's m
 🗺️ [Get transit directions from your accommodation to Nishiki Market](https://www.google.com/maps/dir/?api=1&destination=Nishiki+Market,+Nakagyo+Ward,+Kyoto&travelmode=transit)
 
 ### Morning — Nishiki Market (10:00)
+
+[![Nishiki Tenmangu Shrine at the eastern end of Nishiki Market](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nishiki_Tenmang%C5%AB_sanctuaire.jpg)](https://commons.wikimedia.org/wiki/File:Nishiki_Tenmangū_sanctuaire.jpg "Nishiki Market, Kyoto")
 
 **📍 609 Nishidaimonji-cho, Nakagyo Ward, Kyoto**
 
@@ -43,6 +37,8 @@ Budget ¥1,500–¥3,000 for snacking and food shopping.
 
 ### Late Morning — Nishiki Tenmangu Shrine (11:30)
 
+[![Nishiki Tenmangu Shrine at the eastern end of Nishiki Market](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nishiki_Tenmang%C5%AB_sanctuaire.jpg)](https://commons.wikimedia.org/wiki/File:Nishiki_Tenmangū_sanctuaire.jpg "Nishiki Tenmangu Shrine, Kyoto")
+
 **📍 537 Nakano-cho, Shinkyogoku Dori, Nakagyo-ku, Kyoto 604-8044**
 
 Step off the market into this charming compact shrine tucked at its eastern end. Dedicated to Sugawara no Michizane — patron of learning and scholarship — Nishiki Tenmangu is famous for its unique torii gate embedded directly into the surrounding multi-story buildings on either side, a quirk of urban Kyoto growth. A serene few minutes of quiet amid the busy market street. Free entry; open daily 8:00–20:30.
@@ -50,6 +46,8 @@ Step off the market into this charming compact shrine tucked at its eastern end.
 🗺️ [Directions to Rokkakudo Temple (walk, ~12 min)](https://www.google.com/maps/dir/?api=1&origin=Nishiki+Tenmangu+Shrine,+Nakagyo-ku,+Kyoto&destination=Rokkakudo+Temple,+Nakagyo-ku,+Kyoto&travelmode=transit)
 
 ### Midday — Rokkakudo Temple (12:00)
+
+[![Rokkakudo Temple, Kyoto](https://upload.wikimedia.org/wikipedia/commons/b/bd/Rokkaku-d%C5%8D_temple_in_Kyoto%2C_Japan_-_Stierch_-_A.jpg)](https://commons.wikimedia.org/wiki/File:Rokkaku-dō_temple_in_Kyoto,_Japan_-_Stierch_-_A.jpg "Rokkakudo Temple, Kyoto")
 
 **📍 248 Donomaecho, Nakagyo-ku, Kyoto 604-8134**
 
@@ -59,6 +57,8 @@ One of Kyoto's most historically significant temples, believed to have been foun
 
 ### Afternoon — Shinkyogoku Shopping Street (13:00)
 
+[![Shinkyogoku Shopping Street, Kyoto](https://upload.wikimedia.org/wikipedia/commons/a/a7/Shinkyogoku_by_Flowizm_in_Kyoto.jpg)](https://commons.wikimedia.org/wiki/File:Shinkyogoku_by_Flowizm_in_Kyoto.jpg "Shinkyogoku Shopping Street, Kyoto")
+
 **📍 Shinkyogoku Dori, Nakagyo-ku, Kyoto 604-8042**
 
 Running parallel to Nishiki Market just one block north, Shinkyogoku is a bustling covered shopping street packed with Kyoto souvenir shops, casual eateries, anime goods stores, arcades, and traditional craft shops. This is the place to pick up omiyage (souvenirs): yatsuhashi sweets, matcha confections, pottery, and fan goods. Several shrines are embedded along the street (Nishiki Tenmangu being the most notable). Browse freely; grab a late lunch at one of the casual restaurants. Budget ¥500–¥2,000 for shopping and lunch snacks.
@@ -66,6 +66,8 @@ Running parallel to Nishiki Market just one block north, Shinkyogoku is a bustli
 🗺️ [Directions to Pontocho Alley (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Shinkyogoku+Shopping+Street,+Nakagyo-ku,+Kyoto&destination=Pontocho+Alley,+Nakagyo-ku,+Kyoto&travelmode=transit)
 
 ### Evening — Pontocho Alley (17:30)
+
+[![Pontocho Alley at night, Kyoto](https://upload.wikimedia.org/wikipedia/commons/9/99/Pontocho_Alley%2C_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg)](https://commons.wikimedia.org/wiki/File:Pontocho_Alley,_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg "Pontocho Alley at night, Kyoto")
 
 **📍 Pontocho, Nakagyo-ku, Kyoto 604-0934**
 

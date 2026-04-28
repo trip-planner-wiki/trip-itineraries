@@ -10,14 +10,6 @@
 
 ## Overview
 
-[![Tsukiji Outer Market, Tokyo](https://upload.wikimedia.org/wikipedia/commons/f/fb/Tsukiji_Outer_Market.jpg)](https://commons.wikimedia.org/wiki/File:Tsukiji_Outer_Market.jpg "Tsukiji Outer Market, Tokyo")
-
-[![Shimbashi Enbujō Theatre, Tokyo](https://upload.wikimedia.org/wikipedia/commons/1/1a/Shimbashi_Enbujo_Theatre.JPG)](https://commons.wikimedia.org/wiki/File:Shimbashi_Enbujo_Theatre.JPG "Shimbashi Enbujō Theatre, Tokyo")
-
-[![Azuma Odori — Shimbashi geisha dance performance](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/02/azuma25_okonomi_B044-1024x600.jpg)](https://tokyocheapo.com/events/azuma-odori/ "Azuma Odori — Shimbashi geisha dance performance")
-
-[![Yakitori bar in Shimbashi, Tokyo — post-show izakayas](https://upload.wikimedia.org/wikipedia/commons/6/6c/Yakatori_bar_at_Shimbashi.jpg)](https://commons.wikimedia.org/wiki/File:Yakatori_bar_at_Shimbashi.jpg "Yakitori bar in Shimbashi, Tokyo — post-show izakayas")
-
 The 101st edition of the Azuma Odori — one of Tokyo's rarest annual events. The geisha of Shimbashi perform traditional dance for only a few days each year at the historic Shimbashi Enbujō Theatre. The two-part program includes a Kabuki-inspired classical dance followed by nagauta music with shamisen. The theater atmosphere is extraordinary: the interior is arranged to resemble a grand traditional restaurant, with champagne, food, sake, tea, and souvenirs sold between acts. An irreplaceable window into Tokyo's traditional arts.
 
 > **Date-specific:** Runs May 22–25, 2026. Multiple performance times per day — check the official schedule.
@@ -29,6 +21,9 @@ The 101st edition of the Azuma Odori — one of Tokyo's rarest annual events. Th
 🗺️ [Get transit directions from your accommodation to Tsukiji Outer Market](https://www.google.com/maps/dir/?api=1&destination=Tsukiji+Outer+Market,+Tsukiji,+Chuo-ku,+Tokyo&travelmode=transit)
 
 ### Morning — Tsukiji Outer Market (10:00)
+
+[![Tsukiji Outer Market, Tokyo](https://upload.wikimedia.org/wikipedia/commons/f/fb/Tsukiji_Outer_Market.jpg)](https://commons.wikimedia.org/wiki/File:Tsukiji_Outer_Market.jpg "Tsukiji Outer Market, Tokyo")
+
 **📍 Tsukiji, Chuo-ku, Tokyo**
 
 Tsukiji Outer Market (the public market — the inner wholesale market moved to Toyosu) is a 10-minute walk from Shimbashi. Spend the morning browsing fresh seafood, Japanese pickles, street food, and specialty food vendors. Try a fresh tuna sashimi bowl or tamagoyaki (sweet egg omelet) from one of the iconic stalls. Budget ¥1,500–¥3,000 for breakfast/brunch.
@@ -36,9 +31,15 @@ Tsukiji Outer Market (the public market — the inner wholesale market moved to 
 🗺️ [Directions to Shimbashi Enbujō Theatre (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Tsukiji+Outer+Market,+Tsukiji,+Chuo-ku,+Tokyo&destination=Shimbashi+Enbujo+Theatre,+Shimbashi,+Minato-ku,+Tokyo&travelmode=transit)
 
 ### Afternoon — Shimbashi & Pre-Show (13:00)
+
+[![Shimbashi Enbujō Theatre, Tokyo](https://upload.wikimedia.org/wikipedia/commons/1/1a/Shimbashi_Enbujo_Theatre.JPG)](https://commons.wikimedia.org/wiki/File:Shimbashi_Enbujo_Theatre.JPG "Shimbashi Enbujō Theatre, Tokyo")
+
 Shimbashi itself is a traditional salaryman district with excellent old-school restaurants and izakayas. Walk around the area before the show. The Shimbashi Enbujō Theatre is a beautiful traditional performance hall worth arriving early to appreciate.
 
 ### Performance — Azuma Odori (Afternoon/Evening show)
+
+[![Azuma Odori — Shimbashi geisha dance performance](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/02/azuma25_okonomi_B044-1024x600.jpg)](https://tokyocheapo.com/events/azuma-odori/ "Azuma Odori — Shimbashi geisha dance performance")
+
 **📍 Shimbashi Enbujō Theatre**
 
 The performance runs approximately 2 hours including the interval. The Kabuki-inspired first act is visually spectacular — elaborate costumes, precise movement, and traditional staging. The second act features nagauta (long-song) traditional music with shamisen accompaniment. Food, sake, and tea are available during the interval.
@@ -46,6 +47,9 @@ The performance runs approximately 2 hours including the interval. The Kabuki-in
 🗺️ [Directions to Shimbashi izakayas (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Shimbashi+Enbujo+Theatre,+Shimbashi,+Minato-ku,+Tokyo&destination=Shimbashi+Station,+Minato-ku,+Tokyo&travelmode=transit)
 
 ### Evening — Shimbashi Izakayas (post-show)
+
+[![Yakitori bar in Shimbashi, Tokyo](https://upload.wikimedia.org/wikipedia/commons/6/6c/Yakatori_bar_at_Shimbashi.jpg)](https://commons.wikimedia.org/wiki/File:Yakatori_bar_at_Shimbashi.jpg "Yakitori bar in Shimbashi, Tokyo")
+
 Shimbashi is famous for its dense concentration of traditional izakayas in the maze of back alleys behind the station. A great place for yakitori, grilled food, and sake after the performance. Budget ¥2,000–¥4,000.
 
 🗺️ [Get transit directions from Shimbashi to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Shimbashi+Station,+Minato-ku,+Tokyo&travelmode=transit)

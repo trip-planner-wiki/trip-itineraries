@@ -82,6 +82,9 @@ Take the bus from Moto-Hakone to Kowakidani (~15 min). Yunessun is Hakone's famo
 Entry: Mori no Yu only ~¥1,500 / Combined Yunessun + Mori no Yu ~¥2,500. Towel rental available.
 
 ### Early Evening — Return to Tokyo (17:00)
+
+[![Hakone Ropeway, Kanagawa, Japan](https://upload.wikimedia.org/wikipedia/commons/3/35/Hakone_Ropeway_-_Hakone%2C_Kanagawa%2C_Japan_-_DSC07952.jpg)](https://commons.wikimedia.org/wiki/File:Hakone_Ropeway_-_Hakone,_Kanagawa,_Japan_-_DSC07952.jpg "Hakone — return journey to Tokyo via Odakyu Romance Car")
+
 Take the Hakone Tozan bus back to Hakone-Yumoto (30 min), then the Odakyu Romance Car back to Shinjuku (~85 min). Arrive in Tokyo around 19:30.
 
 🗺️ [Get transit directions from Shinjuku Station to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Shinjuku+Station,+Tokyo&travelmode=transit)

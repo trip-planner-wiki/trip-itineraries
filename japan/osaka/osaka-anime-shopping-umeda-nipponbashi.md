@@ -9,12 +9,6 @@
 
 ## Overview
 
-[![Yodobashi Camera Multimedia Umeda, Osaka](https://upload.wikimedia.org/wikipedia/commons/d/d2/Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg)](https://commons.wikimedia.org/wiki/File:Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg "Yodobashi Camera Multimedia Umeda, Osaka")
-
-[![Nintendo Tokyo official store interior](https://upload.wikimedia.org/wikipedia/commons/2/26/Nintendo_Tokyo_%28PXL_20231220_022538554%29.jpg)](https://commons.wikimedia.org/wiki/File:Nintendo_Tokyo_(PXL_20231220_022538554).jpg "Nintendo Tokyo official store interior")
-
-[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Den-Den Town, Nipponbashi, Osaka")
-
 Osaka has two major hubs for anime and pop culture shopping: Umeda (the northern commercial center) and Nipponbashi/Den-Den Town (the otaku district). This day trip covers both, with time for popup exhibitions, Animate Gratte character cafes, and the diverse shopping scene around Osaka Station. Multiple popup events are running during the May 24–30 visit window. Yodobashi Camera Multimedia Umeda, directly adjacent to JR Osaka Station, is one of Japan's largest electronics and media retailers, with dedicated floors for games, anime goods, and collectibles that rival specialist stores. The interconnected commercial buildings around Osaka Station — including Grand Front Osaka and Lucua — create a vast covered shopping ecosystem where anime merchandise coexists alongside mainstream retail, making Umeda an accessible starting point before heading south to the deeper otaku territory of Nipponbashi.
 
 ---
@@ -24,6 +18,9 @@ Osaka has two major hubs for anime and pop culture shopping: Umeda (the northern
 🗺️ [Get transit directions from your accommodation to Umeda / Osaka Station](https://www.google.com/maps/dir/?api=1&destination=Osaka+Station,+Umeda,+Kita-ku,+Osaka&travelmode=transit)
 
 ### Morning — Umeda / Osaka Station Area (10:00)
+
+[![Yodobashi Camera Multimedia Umeda, Osaka](https://upload.wikimedia.org/wikipedia/commons/d/d2/Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg)](https://commons.wikimedia.org/wiki/File:Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg "Yodobashi Camera Multimedia Umeda, Osaka")
+
 **📍 Umeda, Kita-ku, Osaka**
 
 Start at Osaka Station's expansive commercial complex. Yodobashi Camera Multimedia Umeda (directly adjacent to JR Osaka Station) has multiple floors of electronics, gaming, and anime goods plus a full restaurant floor. The Grand Front Osaka shopping complex is next door with Itoya stationery on the 6th floor.
@@ -31,6 +28,9 @@ Start at Osaka Station's expansive commercial complex. Yodobashi Camera Multimed
 🗺️ [Directions to Animate Umeda (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Osaka+Station,+Umeda,+Kita-ku,+Osaka&destination=Animate+Umeda,+Umeda,+Osaka&travelmode=transit)
 
 ### Mid-Morning — Animate Umeda & Gratte Character Cafe (11:00)
+
+[![Yodobashi Camera Multimedia Umeda, Osaka](https://upload.wikimedia.org/wikipedia/commons/d/d2/Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg)](https://commons.wikimedia.org/wiki/File:Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg "Animate Umeda and Animate Gratte character cafe, Osaka")
+
 **📍 Umeda, Osaka**
 
 Animate Umeda stocks current-season anime goods across multiple floors. Within the same building, check if **Animate Gratte Umeda** has active character cafe collaborations. During late May, active collaborations include:
@@ -41,11 +41,17 @@ Animate Umeda stocks current-season anime goods across multiple floors. Within t
 Walk-in welcome, no reservation required. Budget ¥800–¥1,500 per drink.
 
 ### Lunch — Grand Front Osaka or Lucua Osaka (13:00)
+
+[![Yodobashi Camera Multimedia Umeda, Osaka](https://upload.wikimedia.org/wikipedia/commons/d/d2/Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg)](https://commons.wikimedia.org/wiki/File:Yodobashi_Camera_multimedia_umeda_-_panoramio.jpg "Grand Front Osaka and Lucua — restaurant floors, Osaka Station area")
+
 Both massive shopping complexes connected to Osaka Station have excellent restaurant floors. Budget ¥1,000–¥2,500. Lucua Osaka's upper floors have particular variety.
 
 🗺️ [Directions to Jujutsu Kaisen POPUP in Umeda / Animate area (walk)](https://www.google.com/maps/dir/?api=1&origin=Osaka+Station,+Umeda,+Kita-ku,+Osaka&destination=Animate+Umeda,+Umeda,+Osaka&travelmode=transit)
 
 ### Afternoon — Jujutsu Kaisen POPUP Exhibition — Umeda (14:30)
+
+[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Jujutsu Kaisen POPUP Exhibition, Umeda, Osaka — Death Painting Womb arc")
+
 **Active through June 14, 2026. Free entry.**
 
 The full-scale Jujutsu Kaisen POPUP exhibition themed on the Death Painting Womb arc runs until June 14. Free entry with merchandise sold separately. Check the specific location within Umeda/Animate area on the event website.
@@ -53,16 +59,25 @@ The full-scale Jujutsu Kaisen POPUP exhibition themed on the Death Painting Womb
 🗺️ [Directions to Nipponbashi / Den-Den Town (subway Midosuji Line, ~8 min)](https://www.google.com/maps/dir/?api=1&origin=Umeda+Station,+Kita-ku,+Osaka&destination=Nipponbashi+Station,+Naniwa-ku,+Osaka&travelmode=transit)
 
 ### Mid-Afternoon — Travel to Nipponbashi/Den-Den Town (16:00)
+
+[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Den-Den Town, Nipponbashi, Osaka — Animate Nipponbashi, Princess Connect popup")
+
 Take the Midosuji Line from Umeda to Namba (8 minutes), then walk to Nipponbashi. The area around Ota Road hosts multiple ongoing popup events including:
 - **Princess Connect Re:Dive 8th Anniversary Only Shop** at Animate Nipponbashi (through June 7)
 - **Animate Gratte Nipponbashi** with same collaborations as Umeda
 
 ### Late Afternoon — Den-Den Town Browsing (16:30)
+
+[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Den-Den Town browsing — BOOKOFF, Mandarake, Ota Road specialty shops, Osaka")
+
 Browse BOOKOFF PLUS Namba Ebisubashi, Mandarake, and the specialty shops along Ota Road.
 
 🗺️ [Directions to Namba dinner area (walk, ~10 min)](https://www.google.com/maps/dir/?api=1&origin=Nipponbashi+Station,+Naniwa-ku,+Osaka&destination=Namba,+Osaka&travelmode=transit)
 
 ### Evening — Namba Dinner (19:00)
+
+[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg "Namba dinner area, Osaka")
+
 End the day in Namba with dinner at one of Osaka's many excellent restaurants. Budget ¥1,500–¥3,500.
 
 🗺️ [Get transit directions from Namba to your accommodation](https://www.google.com/maps/dir/?api=1&origin=Namba+Station,+Osaka&travelmode=transit)

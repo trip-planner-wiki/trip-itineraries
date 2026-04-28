@@ -9,12 +9,6 @@
 
 ## Overview
 
-[![Kaminarimon Thunder Gate at Senso-ji Temple, Asakusa, Tokyo](https://www.touristinjapan.com/wp-content/uploads/2018/06/39574872171_e8020cece7_k-1020x600.jpg)](https://www.touristinjapan.com/wp-content/uploads/2018/06/39574872171_e8020cece7_k-1020x600.jpg "Kaminarimon Thunder Gate at Senso-ji Temple, Asakusa, Tokyo")
-
-[![teamLab Borderless Tokyo immersive digital art experience, Azabudai Hills](https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/Yt5eET5oZzm6FBicauQUSY/width=1200,format=jpeg)](https://www.teamlab.art/e/tokyo/ "teamLab Borderless Tokyo immersive digital art experience, Azabudai Hills")
-
-[![Life-sized Unicorn Gundam statue at DiverCity Tokyo Plaza, Odaiba](https://upload.wikimedia.org/wikipedia/commons/6/66/Life-Sized_Unicorn_Gundam_Statue.jpg)](https://commons.wikimedia.org/wiki/File:Life-Sized_Unicorn_Gundam_Statue.jpg "Life-sized Unicorn Gundam statue at DiverCity Tokyo Plaza, Odaiba")
-
 A jam-packed day trip through Tokyo's most iconic experiences — from a 628 AD Buddhist temple to a life-size mecha statue and mind-bending digital art. This itinerary blends traditional and futuristic Tokyo across three distinct neighborhoods: Asakusa, Azabudai Hills, and Odaiba.
 
 > **⚠️ Booking required:** teamLab Borderless tickets sell out, especially on weekends. Book online well in advance.
@@ -26,6 +20,9 @@ A jam-packed day trip through Tokyo's most iconic experiences — from a 628 AD 
 🗺️ [Get transit directions from your accommodation to Senso-ji Temple, Asakusa](https://www.google.com/maps/dir/?api=1&destination=Senso-ji+Temple,+2-3-1+Asakusa,+Taito-ku,+Tokyo&travelmode=transit)
 
 ### Morning — Senso-ji Temple, Asakusa (07:00)
+
+[![Senso-ji Temple, Asakusa, Tokyo](https://upload.wikimedia.org/wikipedia/commons/d/d1/Senso-ji_Temple_%40_Asakusa_%2814019477806%29.jpg)](https://commons.wikimedia.org/wiki/File:Senso-ji_Temple_@_Asakusa_(14019477806).jpg "Senso-ji Temple, Asakusa, Tokyo")
+
 **📍 2-3-1 Asakusa, Taito-ku, Tokyo 111-0032**  
 **Admission:** Free  
 **Website:** https://www.senso-ji.jp/english/
@@ -40,6 +37,9 @@ Tokyo's oldest and most visited temple, founded in 628 AD. Start early to beat t
 > Take the **Tokyo Metro Ginza Line** from Asakusa Station, transfer to the **Hibiya Line** at Ueno, and alight at **Kamiyacho Station** (8-min walk to teamLab). Alternatively, taxi (~25 min, ¥3,000–¥4,000).
 
 ### Late Morning — teamLab Borderless Tokyo, Azabudai Hills (10:00)
+
+[![teamLab Borderless, Azabudai Hills, Tokyo](https://upload.wikimedia.org/wikipedia/commons/0/07/TeamLab_Borderless_Azabudai_Hills.jpg)](https://commons.wikimedia.org/wiki/File:TeamLab_Borderless_Azabudai_Hills.jpg "teamLab Borderless, Azabudai Hills, Tokyo")
+
 **📍 Azabudai Hills Garden Plaza B, B1F, 5-9 Toranomon, Minato-ku, Tokyo**  
 **Admission:** ¥3,200–¥3,800/adult (dynamic pricing; buy online in advance)  
 **Website:** https://www.teamlab.art/e/tokyo/
@@ -53,6 +53,9 @@ An immersive "borderless" digital art museum where artworks freely move between 
 🗺️ [Directions to teamLab Borderless area for lunch (walk within Azabudai Hills)](https://www.google.com/maps/dir/?api=1&origin=teamLab+Borderless,+Azabudai+Hills,+Minato-ku,+Tokyo&destination=Azabudai+Hills,+Minato-ku,+Tokyo&travelmode=walking)
 
 ### Lunch — Azabudai Hills / Roppongi (13:00)
+
+[![Azabudai Hills, Tokyo — luxury dining and retail complex](https://upload.wikimedia.org/wikipedia/commons/0/07/Azabudai_Hills_Mori_JP_Tower_20231205.jpg)](https://commons.wikimedia.org/wiki/File:Azabudai_Hills_Mori_JP_Tower_20231205.jpg "Azabudai Hills, Tokyo")
+
 **📍 Azabudai Hills, Minato-ku, or nearby Roppongi**
 
 World-class dining options are available on-site at Azabudai Hills. For more variety, head to nearby **Roppongi** (5-min walk). Allow 1 hour.
@@ -63,6 +66,9 @@ World-class dining options are available on-site at Azabudai Hills. For more var
 > 💡 **Scenic alternative:** Take the **Tokyo Water Bus** from Asakusa Pier to Odaiba (~50 min) for a leisurely route on the water.
 
 ### Afternoon — Unicorn Gundam Statue & DiverCity Tokyo Plaza, Odaiba (15:00)
+
+[![Life-sized Unicorn Gundam statue, DiverCity Tokyo Plaza, Odaiba](https://upload.wikimedia.org/wikipedia/commons/6/66/Life-Sized_Unicorn_Gundam_Statue.jpg)](https://commons.wikimedia.org/wiki/File:Life-Sized_Unicorn_Gundam_Statue.jpg "Life-sized Unicorn Gundam statue, DiverCity Tokyo Plaza, Odaiba")
+
 **📍 DiverCity Tokyo Plaza, 1-1-10 Aomi, Koto-ku, Tokyo 135-0064**  
 **Admission:** Free (statue & plaza)  
 **Website:** https://mitsui-shopping-park.com/divercity-tokyo/

@@ -10,8 +10,6 @@
 
 ## Overview
 
-[![Blue Archive 5th Anniversary 3D Live — official key visual](https://webusstatic.yo-star.com/bluearchive-jp/5th-anniversary-3dlive-ba/main/web/OGP.png)](https://5thanniv-3dlive.bluearchive.jp/ "Blue Archive 5th Anniversary 3D Live — official key visual")
-
 The first-ever 3D live concert for the hugely popular mobile RPG Blue Archive (Nexon/Yostar), celebrating its 5th anniversary. Blue Archive characters are presented in full 3D with live music performance — a landmark event for the franchise's dedicated fanbase. Two performances on May 23 (Matinee and Evening), so you can attend whichever fits your schedule, or potentially both.
 
 > **Date-specific:** May 23, 2026. Two shows available.
@@ -19,6 +17,8 @@ The first-ever 3D live concert for the hugely popular mobile RPG Blue Archive (N
 ---
 
 ## Day Plan
+
+[![Blue Archive 5th Anniversary 3D Live — official key visual](https://webusstatic.yo-star.com/bluearchive-jp/5th-anniversary-3dlive-ba/main/web/OGP.png)](https://5thanniv-3dlive.bluearchive.jp/ "Blue Archive 5th Anniversary 3D Live — official key visual")
 
 > 🗺️ Once the venue is confirmed from the official ticket URL, use [Google Maps transit directions](https://www.google.com/maps/dir/?api=1&travelmode=transit) to route from your accommodation to the venue, and back to your accommodation after the show.
 

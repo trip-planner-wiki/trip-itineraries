@@ -11,16 +11,6 @@
 
 ## Overview
 
-[![Manpaku Food Festival — official event image](https://manpaku.jp/assets/img/ogp.jpg)](https://manpaku.jp/ "Manpaku Food Festival — official event image")
-
-[![Showa Kinen Park, Tachikawa](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2018_Showa_Memorial_Park_01.jpg/960px-2018_Showa_Memorial_Park_01.jpg)](https://commons.wikimedia.org/wiki/File:2018_Showa_Memorial_Park_01.jpg "Showa Kinen Park, Tachikawa")
-
-[![Tachikawa Manga Park entrance](https://mangapark.jp/topics/assets_c/2022/03/entrance03-thumb-328xauto-1225.jpg)](https://mangapark.jp/ "Tachikawa Manga Park entrance")
-
-[![Sakamichi Brewing craft beers](https://www.sakamichibrewing.com/wp-content/uploads/2023/09/DSC7062-1024x496.jpg)](https://www.sakamichibrewing.com/ "Sakamichi Brewing craft beers")
-
-[![Green Springs, Tachikawa](https://greensprings.jp/en/assets/img/common/ogp.png)](https://greensprings.jp/en/ "Green Springs, Tachikawa")
-
 Manpaku is one of Tokyo's largest and most beloved food festivals, transforming the open lawns of Showa Kinen Park into a sprawling outdoor food village. Dozens of Japanese vendors gather to serve everything from ramen and grilled seafood to regional sweets and unique fried foods, all within one of the city's most beautiful parks. May 23 is the festival's final day — a perfect reason to arrive early and enjoy the event at its most vibrant, with vendors keen to sell out their remaining stock. After the festival, the nearby Tachikawa area rewards exploration with a top-rated craft brewpub and a beloved manga reading lounge just minutes from the park.
 
 > **Date-specific:** May 23, 2026 is the final day of the Manpaku festival — arrive early for the best selection.
@@ -32,6 +22,8 @@ Manpaku is one of Tokyo's largest and most beloved food festivals, transforming 
 🗺️ [Get transit directions from your accommodation to Showa Kinen Park](https://www.google.com/maps/dir/?api=1&destination=Showa+Kinen+Park,+Midori-cho,+Tachikawa,+Tokyo&travelmode=transit)
 
 ### Morning — Showa Kinen Park & Manpaku Festival (10:00)
+
+[![Manpaku Food Festival — official event image](https://manpaku.jp/assets/img/ogp.jpg)](https://manpaku.jp/ "Manpaku Food Festival at Showa Kinen Park, Tachikawa")
 
 **📍 3173 Midori-cho, Tachikawa, Tokyo 190-0014**
 
@@ -48,6 +40,8 @@ After eating, take a walk through the park's flower gardens and cycling paths. T
 
 ### Early Afternoon — Tachikawa Manga Park (13:00)
 
+[![Tachikawa Manga Park entrance](https://mangapark.jp/topics/assets_c/2022/03/entrance03-thumb-328xauto-1225.jpg)](https://mangapark.jp/ "Tachikawa Manga Park entrance")
+
 **📍 2-36 Nishiki-cho, Tachikawa, Tokyo 190-0022**
 
 A relaxed manga reading lounge with over 200,000 manga volumes and comfortable reading areas. Pay the ¥400 entry fee and settle in with a stack of classics or browse for new discoveries. Gaming areas are also available for retro gaming fans. Budget ¥400 entry; unlimited reading time.
@@ -56,6 +50,8 @@ A relaxed manga reading lounge with over 200,000 manga volumes and comfortable r
 
 ### Afternoon — Sakamichi Brewing (15:00)
 
+[![Sakamichi Brewing craft beers](https://www.sakamichibrewing.com/wp-content/uploads/2023/09/DSC7062-1024x496.jpg)](https://www.sakamichibrewing.com/ "Sakamichi Brewing, Tachikawa, Tokyo")
+
 **📍 2-3-7 Nishiki-cho, Tachikawa, Tokyo 190-0022**
 
 Tachikawa's top-rated craft brewpub, serving rotating taps of house-brewed beers in a welcoming taproom. A perfect complement to the morning's food festival — try a session IPA or a refreshing wheat beer. The food menu is excellent for a late lunch snack. Budget ¥1,500–¥2,500 for 2–3 beers with food.
@@ -63,6 +59,8 @@ Tachikawa's top-rated craft brewpub, serving rotating taps of house-brewed beers
 🗺️ [Directions to Green Springs (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Sakamichi+Brewing,+Nishiki-cho,+Tachikawa,+Tokyo&destination=Green+Springs,+Midori-cho,+Tachikawa,+Tokyo&travelmode=transit)
 
 ### Evening — Green Springs (17:30)
+
+[![Green Springs, Tachikawa](https://greensprings.jp/en/assets/img/common/ogp.png)](https://greensprings.jp/en/ "Green Springs, Tachikawa, Tokyo")
 
 **📍 2-1 Midori-cho, Tachikawa, Tokyo 190-0014**
 
