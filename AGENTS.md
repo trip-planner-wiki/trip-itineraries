@@ -78,7 +78,7 @@ mood/pace, and what the visitor can expect.>
 
 ### <Time of day> — <Stop name> (<HH:MM>)
 
-[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<Alt text>")
 
 **📍 <Address or area>**
 
@@ -130,7 +130,7 @@ the experience is like.>
 
 ### <Time of day> — <Stop name> (<HH:MM>)
 
-[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<Alt text>")
 
 **📍 <Address or area>**
 
@@ -284,7 +284,7 @@ Every stop must include exactly one image. Place it immediately after the
 their original source using this format:
 
 ```markdown
-[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<DIRECT_IMAGE_URL>")
+[![<Alt text>](<DIRECT_IMAGE_URL>)](<SOURCE_PAGE_URL> "<Alt text>")
 ```
 
 **Do not save images locally.** All images must reference remote URLs.
