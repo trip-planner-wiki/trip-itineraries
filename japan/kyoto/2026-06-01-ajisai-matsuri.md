@@ -64,3 +64,4 @@ The lower portion of Fushimi Inari (the torii gates leading up the mountain) is 
 - June 1 is also the Kifune Matsuri and Kyoto Takigi Nō — plan which events to prioritize for this very full day
 - The Fushimi Inari approach is busiest 10:00–15:00; afternoon visits have fewer crowds
 - Early June hydrangeas are at their freshest — the best time to visit
+- Walk up to the mountain at Fushimi Inari for a more immersive experience, it is only about 200 meters high.
