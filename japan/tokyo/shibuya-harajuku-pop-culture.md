@@ -1,9 +1,9 @@
 # Shibuya & Harajuku: Pop Culture & Street Fashion
 
 **City:** Tokyo  
-**Best for:** Pop culture, street fashion, shopping, food, socializing  
-**Approximate duration:** Full day (8–9 hours)  
-**Estimated cost:** ¥4,000–¥12,000 (shopping budget varies)
+**Best for:** Pop culture, street fashion, anime merchandise, shopping, food, socializing  
+**Approximate duration:** Full day (9–10 hours)  
+**Estimated cost:** ¥6,000–¥22,000 (shopping budget varies)
 
 ---
 
@@ -43,15 +43,25 @@ Head up to the rooftop terrace of Tokyu Plaza for a coffee with views across the
 
 Harajuku's famous pedestrian street is packed with quirky boutiques, crepe shops, and street fashion. It's one of the best places in Japan to people-watch and find unique, eccentric clothing. Try a Rainbow Crepe — a Harajuku classic. Free to browse, crepes ~¥600–¥900.
 
-🗺️ [Directions to Omotesando lunch area (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Takeshita+Street,+Harajuku,+Tokyo&destination=Omotesando,+Harajuku,+Tokyo&travelmode=transit)
+🗺️ [Directions to ONE PIECE Mugiwara Store Harajuku (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=Takeshita+Street,+Harajuku,+Tokyo&destination=ONE+PIECE+Mugiwara+Store+Harajuku,+6-31-21+Jingumae,+Shibuya-ku,+Tokyo&travelmode=transit)
 
-### Lunch — Harajuku / Omotesando (12:30)
+### Early Afternoon — ONE PIECE Mugiwara Store Harajuku (12:00)
+
+[![ONE PIECE Mugiwara Store Harajuku interior — official merchandise and character displays](https://japanimationhub.com/_src/91797116/mugiwarastore_harajuku9.png)](https://japanimationhub.com/bywork/mugiwarastore_harajuku.html "ONE PIECE Mugiwara Store Harajuku interior — official merchandise and character displays")
+
+**📍 6-31-21 Jingumae, Shibuya-ku, Tokyo — Tokyu Plaza Harajuku "Harakado" GF**
+
+The official ONE PIECE merchandise flagship store in Harajuku, located on the ground floor of Tokyu Plaza Harajuku "Harakado". The store carries exclusive Harajuku-only goods, apparel, plushies, collectibles, and limited-run items you won't find anywhere else. Open 11:00–21:00, free entry, duty-free shopping available. Budget ¥2,000–¥10,000+ depending on how much you buy.
+
+🗺️ [Directions to Omotesando lunch area (walk, ~5 min)](https://www.google.com/maps/dir/?api=1&origin=ONE+PIECE+Mugiwara+Store+Harajuku,+6-31-21+Jingumae,+Shibuya-ku,+Tokyo&destination=Omotesando,+Harajuku,+Tokyo&travelmode=transit)
+
+### Lunch — Harajuku / Omotesando (13:00)
 
 Omotesando is Harajuku's more upscale boulevard lined with flagship stores. Many excellent lunch options from casual ramen to upmarket set lunches. Budget ¥1,200–¥2,500.
 
 🗺️ [Directions to Nakano Broadway (JR Chuo Line, ~15 min)](https://www.google.com/maps/dir/?api=1&origin=Harajuku+Station,+Tokyo&destination=Nakano+Broadway,+5-52-15+Nakano,+Nakano-ku,+Tokyo&travelmode=transit)
 
-### Afternoon — Nakano Broadway (14:00)
+### Afternoon — Nakano Broadway (14:30)
 
 [![Nakano Broadway entrance, Tokyo](https://upload.wikimedia.org/wikipedia/commons/3/35/Nakano_broadway_entrance.JPG)](https://commons.wikimedia.org/wiki/File:Nakano_broadway_entrance.JPG "Nakano Broadway entrance, Tokyo")
 
@@ -61,7 +71,7 @@ Take the Chuo Line one stop from Harajuku (or a few from Shinjuku) to Nakano. Na
 
 🗺️ [Directions back to Shibuya (JR Chuo Line, ~15 min)](https://www.google.com/maps/dir/?api=1&origin=Nakano+Station,+Nakano-ku,+Tokyo&destination=Shibuya+Station,+Shibuya-ku,+Tokyo&travelmode=transit)
 
-### Late Afternoon — Return to Shibuya / Shinjuku (16:30)
+### Late Afternoon — Return to Shibuya / Shinjuku (17:00)
 
 Head back and explore Shibuya's department stores or Shinjuku's shopping district at your own pace. Don Quijote Shinjuku Kabukicho (the iconic bulk discount store with a giant Godzilla head on the facade) is a fun stop for snacks, souvenirs, and random finds.
 
@@ -82,3 +92,4 @@ Shibuya has one of the best bar and restaurant scenes in Tokyo. Explore the back
 - Harajuku Takeshita Street gets very crowded on weekends afternoons; mornings are calmer
 - The Meiji Shrine (free entry) is a 5-minute walk from Harajuku Station and makes for a peaceful detour
 - JR Yamanote Line connects Shibuya, Harajuku, and Shinjuku conveniently
+- The Mugiwara Store accepts credit cards and most e-money/QR payment methods; duty-free is available for purchases over ¥5,000
