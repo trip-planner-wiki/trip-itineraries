@@ -14,6 +14,7 @@ full list.
 | Page | Date | Description |
 |------|------|-------------|
 | [Shibuya Sky, Harajuku & Memory Lane](curated/shibuya-sky-harajuku-memory-lane.md) | Any | Scramble Crossing, 360° rooftop views, kawaii fashion, Loft shopping, and yakitori dinner in Memory Lane |
+| [Tokyo Day Trip: Art, Anime & Markets](curated/art-anime-markets-day-trip.md) | Any | teamLab Planets in Toyosu, Tsukiji Outer Market lunch, Unicorn Gundam in Odaiba, and PIGMENT TOKYO in Shinagawa |
 
 ---
 
