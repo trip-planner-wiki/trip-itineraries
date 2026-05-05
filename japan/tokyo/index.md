@@ -18,6 +18,7 @@ full list.
 | [Tokyo Day Trip: Asakusa & Akihabara](curated/asakusa-akihabara-temples-and-pop-culture.md) | Any | Senso-ji Temple at dawn, retro arcade gaming at TAITO STATION, and a maid cafe experience at @home cafe |
 | [A Perfect Day in Shinjuku](curated/shinjuku-gyoen-memory-lane-light-show.md) | Any | Shinjuku Gyoen garden stroll, yakitori dinner in Omoide Yokocho, and the free projection mapping light show at the TMG Building |
 | [A Saturday Flea Market Morning in Tokyo](curated/saturday-flea-market-morning.md) | Any (Sat/Sun) | Tokyo City Flea Market at Oi Racecourse — vintage clothing, antiques and collectibles, followed by lunch in Oimachi |
+| [Tokyo Hidden Gems: Temples, Shrines & Nostalgic Alleys](curated/tokyo-hidden-gems-temples-shrines-alleys.md) | Any | Gotokuji lucky cat temple, Hie Shrine's torii-gate tunnel, and an evening of yakitori at Omoide Yokocho |
 
 ---
 
