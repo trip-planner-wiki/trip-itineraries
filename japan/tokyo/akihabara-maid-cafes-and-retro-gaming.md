@@ -29,7 +29,7 @@ Begin your day at Japan's very first maid cafe, founded in 2001. Cure Maid Cafe 
 
 ### Late Morning — Super Potato Akihabara (11:30)
 
-[![Super Potato retro game store, Akihabara](https://www.superpotato.com/wp-content/uploads/2021/11/akiba1.jpg)](https://www.superpotato.com/ "Super Potato retro game store, Akihabara")
+[![Super Potato retro game store, Akihabara](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Akihabara_-_Super_Potato_Retro_Game_Shop.jpg/960px-Akihabara_-_Super_Potato_Retro_Game_Shop.jpg)](https://commons.wikimedia.org/wiki/File:Akihabara_-_Super_Potato_Retro_Game_Shop.jpg "Super Potato retro game store, Akihabara")
 
 **📍 Kitabayashi Building 3F–5F, 1-11-2 Soto-Kanda, Chiyoda-ku**
 
@@ -45,7 +45,7 @@ Take a walk along Chuo-dori, the main street of Akihabara. Grab lunch from one o
 
 ### Afternoon — @home cafe Akihabara (14:30)
 
-[![@home cafe exterior, Akihabara, Tokyo — iconic maid cafe chain](https://upload.wikimedia.org/wikipedia/commons/8/8f/Outside_of_%40home_cafe_20111128.jpg)](https://commons.wikimedia.org/wiki/File:Outside_of_%40home_cafe_20111128.jpg "@home cafe exterior, Akihabara, Tokyo")
+[![@home cafe exterior, Akihabara, Tokyo — iconic maid cafe chain](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Outside_of_%40home_cafe_20111128.jpg/960px-Outside_of_%40home_cafe_20111128.jpg)](https://commons.wikimedia.org/wiki/File:Outside_of_@home_cafe_20111128.jpg "@home cafe exterior, Akihabara, Tokyo")
 
 **📍 Mitsuwa Building 3F–7F, 1-11-4 Sotokanda, Chiyoda-ku**
 

@@ -31,7 +31,7 @@ Arrive when the doors open at 10:00 to get the most time. Tokyo Big Sight is a m
 
 ### Mid-Morning — Live Painting & Performances (10:30)
 
-[![Tokyo Big Sight at Night — venue for Design Festa](https://upload.wikimedia.org/wikipedia/commons/d/d6/Tokyo_Big_Sight_at_Night.jpg)](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_at_Night.jpg "Tokyo Big Sight — venue for Design Festa")
+[![Tokyo Big Sight at Night — venue for Design Festa](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tokyo_Big_Sight_at_Night.jpg/960px-Tokyo_Big_Sight_at_Night.jpg)](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_at_Night.jpg "Tokyo Big Sight — venue for Design Festa")
 
 Head to the Live Stage area first to catch live painting demonstrations on giant canvases. Creators work on massive pieces in real time — it's hypnotic to watch. The Workshop Area runs hands-on sessions throughout the day.
 

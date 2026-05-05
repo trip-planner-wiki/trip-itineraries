@@ -23,7 +23,7 @@ A hands-on seasonal tea leaf picking experience in the grounds of the iconic Exp
 
 ### Morning — Travel to Suita (08:30)
 
-[![Expo 70 Commemorative Park (Bampaku-Kinen-Koen), Osaka Monorail](https://upload.wikimedia.org/wikipedia/commons/2/2e/Osaka_Expo%2770_Festival_Plaza.jpg)](https://commons.wikimedia.org/wiki/File:Osaka_Expo%2770_Festival_Plaza.jpg "Expo 70 Commemorative Park (Bampaku-Kinen-Koen), Suita City")
+[![Expo 70 Commemorative Park (Bampaku-Kinen-Koen), Osaka Monorail](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Osaka_Expo%2770_Festival_Plaza.jpg/960px-Osaka_Expo%2770_Festival_Plaza.jpg)](https://commons.wikimedia.org/wiki/File:Osaka_Expo%2770_Festival_Plaza.jpg "Expo 70 Commemorative Park (Bampaku-Kinen-Koen), Suita City")
 
 **📍 1-1 Senribanpaku-Koen, Suita City, Osaka**
 
@@ -37,7 +37,7 @@ Participate in the seasonal tea leaf picking activity in the park grounds. The a
 
 ### Late Morning — Tower of the Sun & Grounds (10:30)
 
-[![Expo 70 Commemorative Park, Suita City, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/90/Expo70_Park_%28Suite_Osaka%29_hdsr_S5_03.jpg)](https://commons.wikimedia.org/wiki/File:Expo70_Park_(Suite_Osaka)_hdsr_S5_03.jpg "Expo 70 Commemorative Park, Suita City, Osaka")
+[![Expo 70 Commemorative Park, Suita City, Osaka](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Expo70_Park_%28Suite_Osaka%29_hdsr_S5_03.jpg/960px-Expo70_Park_%28Suite_Osaka%29_hdsr_S5_03.jpg)](https://commons.wikimedia.org/wiki/File:Expo70_Park_(Suite_Osaka)_hdsr_S5_03.jpg "Expo 70 Commemorative Park, Suita City, Osaka")
 
 The Tower of the Sun (Taiyo no To) by artist Taro Okamoto is one of Japan's most iconic sculptures, preserved from the 1970 World Exposition. The interior can be visited (advance reservation recommended). The park grounds around it are beautifully maintained.
 
@@ -49,7 +49,7 @@ The park has restaurants and food stands. Budget ¥800–¥1,500. The Japanese G
 
 ### Afternoon — Japanese Garden (13:00)
 
-[![Japanese garden at Expo '70 Commemorative Park, Osaka](https://upload.wikimedia.org/wikipedia/commons/e/ef/131116_Expo_Commemoration_Park_Suita_Osaka_pref_Japan36o.jpg)](https://commons.wikimedia.org/wiki/File:131116_Expo_Commemoration_Park_Suita_Osaka_pref_Japan36o.jpg "Japanese garden at Expo '70 Commemorative Park, Osaka")
+[![Japanese garden at Expo '70 Commemorative Park, Osaka](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/131116_Expo_Commemoration_Park_Suita_Osaka_pref_Japan36o.jpg/960px-131116_Expo_Commemoration_Park_Suita_Osaka_pref_Japan36o.jpg)](https://commons.wikimedia.org/wiki/File:131116_Expo_Commemoration_Park_Suita_Osaka_pref_Japan36o.jpg "Japanese garden at Expo '70 Commemorative Park, Osaka")
 
 The Expo 70 Japanese Garden is one of the most beautiful traditional gardens in Osaka — designed by landscape artist Makoto Nakamura for the 1970 Exposition. Stroll through the tea garden, stone lanterns, and koi ponds. Budget 1–1.5 hours.
 

@@ -19,7 +19,7 @@ Arashiyama is the scenic western edge of Kyoto — home to the world-famous bamb
 
 ### Early Morning — Arashiyama Bamboo Grove (08:30)
 
-[![Arashiyama Bamboo Forest, Kyoto](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg "Arashiyama Bamboo Forest, Kyoto")
+[![Arashiyama Bamboo Forest, Kyoto](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg/960px-Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg "Arashiyama Bamboo Forest, Kyoto")
 
 The bamboo grove is most magical in early morning when the light filters through the towering stalks and crowds are minimal. Walk the main path (about 500m) slowly — the sound of the bamboo in the breeze is unlike anything else. Photography is best in the golden morning light. Free access.
 
@@ -27,7 +27,7 @@ The bamboo grove is most magical in early morning when the light filters through
 
 ### Morning — Tenryu-ji Temple & Garden (09:30)
 
-[![Tenryu-ji Zen garden, Arashiyama, Kyoto](https://upload.wikimedia.org/wikipedia/commons/c/c7/Tenry%C5%AB-ji_Garten.jpg)](https://commons.wikimedia.org/wiki/File:Tenryū-ji_Garten.jpg "Tenryu-ji Zen garden, Arashiyama, Kyoto")
+[![Tenryu-ji Zen garden, Arashiyama, Kyoto](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Tenry%C5%AB-ji_Garten.jpg/960px-Tenry%C5%AB-ji_Garten.jpg)](https://commons.wikimedia.org/wiki/File:Tenryū-ji_Garten.jpg "Tenryu-ji Zen garden, Arashiyama, Kyoto")
 
 **📍 68 Susukinobabacho, Sagatenryuji, Ukyo Ward, Kyoto**
 
@@ -37,7 +37,7 @@ One of Kyoto's finest Zen temple gardens (UNESCO World Heritage Site), Tenryu-ji
 
 ### Mid-Morning — Jojakko-ji & Nison-in Temples (11:00)
 
-[![Jojakko-ji temple, Arashiyama, Kyoto](https://upload.wikimedia.org/wikipedia/commons/c/c2/Jojakkoji01s3200.jpg)](https://commons.wikimedia.org/wiki/File:Jojakkoji01s3200.jpg "Jojakko-ji temple, Arashiyama, Kyoto")
+[![Jojakko-ji temple, Arashiyama, Kyoto](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Jojakkoji01s3200.jpg/960px-Jojakkoji01s3200.jpg)](https://commons.wikimedia.org/wiki/File:Jojakkoji01s3200.jpg "Jojakko-ji temple, Arashiyama, Kyoto")
 
 These quieter hillside temples are a 10-minute walk from the main area and offer beautiful forested gardens with far fewer tourists. Jojakko-ji has a wonderful mossy garden and hillside views. Each is ¥400–¥500 entry.
 

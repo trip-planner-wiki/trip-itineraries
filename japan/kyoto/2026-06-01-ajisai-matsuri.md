@@ -44,7 +44,7 @@ Many Kyoto shrines offer matcha and sweets during special seasonal openings. Che
 
 ### Afternoon — Combine with Fushimi Area (13:00)
 
-[![Torii path at Fushimi Inari Taisha Shrine, Kyoto](https://upload.wikimedia.org/wikipedia/commons/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg "Torii path at Fushimi Inari Taisha Shrine, Kyoto")
+[![Torii path at Fushimi Inari Taisha Shrine, Kyoto](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/960px-Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg "Torii path at Fushimi Inari Taisha Shrine, Kyoto")
 
 Fujinomori Shrine is in the Fushimi district of southern Kyoto — the same area as Fushimi Inari Shrine (famous for thousands of orange torii gates). The two are about 15 minutes apart by foot or bicycle. A combined afternoon covers both.
 

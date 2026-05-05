@@ -41,7 +41,7 @@ The food stalls at the market make for an excellent lunch. Try seasonal dishes p
 
 ### Afternoon — Return to Osaka / Expo 70 (13:00)
 
-[![Expo 70 Commemorative Park, Suita City, Osaka](https://upload.wikimedia.org/wikipedia/commons/2/2e/Osaka_Expo%2770_Festival_Plaza.jpg)](https://commons.wikimedia.org/wiki/File:Osaka_Expo%2770_Festival_Plaza.jpg "Expo 70 Commemorative Park, Suita City, Osaka")
+[![Expo 70 Commemorative Park, Suita City, Osaka](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Osaka_Expo%2770_Festival_Plaza.jpg/960px-Osaka_Expo%2770_Festival_Plaza.jpg)](https://commons.wikimedia.org/wiki/File:Osaka_Expo%2770_Festival_Plaza.jpg "Expo 70 Commemorative Park, Suita City, Osaka")
 
 Yao City is about 30 minutes from central Osaka. After the market, you can either return to central Osaka for afternoon activities, or combine this with the Expo 70 Commemorative Park Tea Picking Day (also May 24, in Suita City, about 40 min away).
 

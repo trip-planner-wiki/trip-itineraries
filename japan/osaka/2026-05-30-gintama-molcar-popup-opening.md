@@ -22,7 +22,7 @@ The grand opening of a wonderfully quirky crossover popup store between samurai 
 
 ### Morning — Den-Den Town / Nipponbashi Area (10:00)
 
-[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Den-Den Town, Nipponbashi, Osaka")
+[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg/960px-Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Den-Den Town, Nipponbashi, Osaka")
 
 The popup is in the Nipponbashi/Namba area. Arrive in the morning to explore Den-Den Town before the grand opening rush at 11:00.
 
@@ -36,7 +36,7 @@ Be among the first visitors at the grand opening. Grand openings typically have 
 
 ### Afternoon — Namba / Dotonbori (13:00)
 
-[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg "Dotonbori canal at night, Osaka")
+[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg/960px-Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg "Dotonbori canal at night, Osaka")
 
 Spend the afternoon in the Namba/Dotonbori area. If you haven't visited Izakaya Toyo yet (Tue/Wed/Fri/Sat only), May 30 is a Saturday — one of the best times to try to get in.
 

@@ -63,7 +63,7 @@ Head to Shinjuku's massive BOOKOFF PLUS — one of Japan's best chain second-han
 
 ### Evening — Don Quijote Shinjuku Kabukicho (18:30)
 
-[![Kabukicho neon signs at night, Shinjuku, Tokyo — home of Don Quijote](https://upload.wikimedia.org/wikipedia/commons/9/92/Kabukicho_red_gate_and_colorful_neon_street_signs_at_night%2C_Shinjuku%2C_Tokyo%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Kabukicho_red_gate_and_colorful_neon_street_signs_at_night,_Shinjuku,_Tokyo,_Japan.jpg "Kabukicho neon signs at night, Shinjuku, Tokyo")
+[![Kabukicho neon signs at night, Shinjuku, Tokyo — home of Don Quijote](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kabukicho_red_gate_and_colorful_neon_street_signs_at_night%2C_Shinjuku%2C_Tokyo%2C_Japan.jpg/960px-Kabukicho_red_gate_and_colorful_neon_street_signs_at_night%2C_Shinjuku%2C_Tokyo%2C_Japan.jpg)](https://commons.wikimedia.org/wiki/File:Kabukicho_red_gate_and_colorful_neon_street_signs_at_night,_Shinjuku,_Tokyo,_Japan.jpg "Kabukicho neon signs at night, Shinjuku, Tokyo")
 
 **📍 Kabukicho, Shinjuku**
 

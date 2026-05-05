@@ -85,7 +85,7 @@ The most notable Kyoto Uniqlo, inside the Mina Kyoto shopping complex on histori
 
 ### Evening — Nishiki Market for Dinner Snacks (17:30)
 
-[![Nishiki Market, Kyoto — evening food stalls and street snacks](https://upload.wikimedia.org/wikipedia/commons/6/6e/Nishiki_Market%2C_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg)](https://commons.wikimedia.org/wiki/File:Nishiki_Market,_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg "Nishiki Market, Kyoto")
+[![Nishiki Market, Kyoto — evening food stalls and street snacks](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nishiki_Market%2C_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg/960px-Nishiki_Market%2C_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg)](https://commons.wikimedia.org/wiki/File:Nishiki_Market,_Kyoto_-_Flickr_-_Sergiy_Galyonkin.jpg "Nishiki Market, Kyoto")
 
 End the day browsing Nishiki Market for dinner components — yakitori, grilled mochi, fresh pickles, and Kyoto sweets. The market starts winding down around 18:00, so this is a last-chance window.
 

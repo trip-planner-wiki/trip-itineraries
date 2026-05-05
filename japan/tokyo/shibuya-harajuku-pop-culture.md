@@ -19,7 +19,7 @@ Shibuya and Harajuku sit side by side and together form the pulsing heart of Tok
 
 ### Morning — Hachikō Statue & Shibuya Scramble (10:00)
 
-[![Shibuya Scramble Crossing from above, Tokyo](https://upload.wikimedia.org/wikipedia/commons/8/88/Shibuya_Crossing%2C_Aerial.jpg)](https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_Aerial.jpg "Shibuya Scramble Crossing from above, Tokyo")
+[![Shibuya Scramble Crossing from above, Tokyo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Shibuya_Crossing%2C_Aerial.jpg/960px-Shibuya_Crossing%2C_Aerial.jpg)](https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_Aerial.jpg "Shibuya Scramble Crossing from above, Tokyo")
 
 **📍 Shibuya Station Hachikō Exit, Shibuya-ku**
 
@@ -47,7 +47,7 @@ Harajuku's famous pedestrian street is packed with quirky boutiques, crepe shops
 
 ### Early Afternoon — ONE PIECE Mugiwara Store Harajuku (12:00)
 
-[![ONE PIECE Mugiwara Store Harajuku interior — official merchandise and character displays](https://japanimationhub.com/_src/91797116/mugiwarastore_harajuku9.png)](https://japanimationhub.com/bywork/mugiwarastore_harajuku.html "ONE PIECE Mugiwara Store Harajuku interior — official merchandise and character displays")
+[![ONE PIECE Mugiwara Store Harajuku interior — official merchandise and character displays](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Shops_in_Harajuku_2.jpg/960px-Shops_in_Harajuku_2.jpg)](https://commons.wikimedia.org/wiki/File:Shops_in_Harajuku_2.jpg "ONE PIECE Mugiwara Store Harajuku interior — official merchandise and character displays")
 
 **📍 6-31-21 Jingumae, Shibuya-ku, Tokyo — Tokyu Plaza Harajuku "Harakado" GF**
 
@@ -79,7 +79,7 @@ Head back and explore Shibuya's department stores or Shinjuku's shopping distric
 
 ### Evening — Shibuya Drinks & Dinner (18:30)
 
-[![Izakaya in Shibuya, Tokyo — backstreet bars and evening drinks](https://upload.wikimedia.org/wikipedia/commons/b/be/Izakaya_in_Sendagaya%2C_Shibuya%2C_Tokyo%2C_Japan%2C_2024_May.jpg)](https://commons.wikimedia.org/wiki/File:Izakaya_in_Sendagaya,_Shibuya,_Tokyo,_Japan,_2024_May.jpg "Izakaya in Shibuya area, Tokyo")
+[![Izakaya in Shibuya, Tokyo — backstreet bars and evening drinks](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Izakaya_in_Sendagaya%2C_Shibuya%2C_Tokyo%2C_Japan%2C_2024_May.jpg/960px-Izakaya_in_Sendagaya%2C_Shibuya%2C_Tokyo%2C_Japan%2C_2024_May.jpg)](https://commons.wikimedia.org/wiki/File:Izakaya_in_Sendagaya,_Shibuya,_Tokyo,_Japan,_2024_May.jpg "Izakaya in Shibuya area, Tokyo")
 
 Shibuya has one of the best bar and restaurant scenes in Tokyo. Explore the backstreets of Udagawacho (Shibuya's "bar alley") for izakayas, craft beer bars, and cocktail lounges. Budget ¥3,000–¥6,000 for dinner and drinks.
 

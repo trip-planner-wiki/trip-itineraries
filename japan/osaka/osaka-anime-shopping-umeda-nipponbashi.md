@@ -50,7 +50,7 @@ Both massive shopping complexes connected to Osaka Station have excellent restau
 
 ### Afternoon — Jujutsu Kaisen POPUP Exhibition — Umeda (14:30)
 
-[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Jujutsu Kaisen POPUP Exhibition, Umeda, Osaka — Death Painting Womb arc")
+[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg/960px-Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "Jujutsu Kaisen POPUP Exhibition, Umeda, Osaka — Death Painting Womb arc")
 
 **Active through June 14, 2026. Free entry.**
 
@@ -74,7 +74,7 @@ Browse BOOKOFF PLUS Namba Ebisubashi, Mandarake, and the specialty shops along O
 
 ### Evening — Namba Dinner (19:00)
 
-[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg "Namba dinner area, Osaka")
+[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg/960px-Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg "Namba dinner area, Osaka")
 
 End the day in Namba with dinner at one of Osaka's many excellent restaurants. Budget ¥1,500–¥3,500.
 

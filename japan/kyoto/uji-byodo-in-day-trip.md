@@ -38,7 +38,7 @@ Walk from Uji Station along the Uji River. The entire main street leading to Byo
 
 ### Byodo-in (11:00)
 
-[![Byodo-in Phoenix Hall, Uji](https://upload.wikimedia.org/wikipedia/commons/5/59/Byodoin_Phoenix_Hall_Uji_2009.jpg)](https://commons.wikimedia.org/wiki/File:Byodoin_Phoenix_Hall_Uji_2009.jpg "Byodo-in Phoenix Hall, Uji")
+[![Byodo-in Phoenix Hall, Uji](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Byodoin_Phoenix_Hall_Uji_2009.jpg/960px-Byodoin_Phoenix_Hall_Uji_2009.jpg)](https://commons.wikimedia.org/wiki/File:Byodoin_Phoenix_Hall_Uji_2009.jpg "Byodo-in Phoenix Hall, Uji")
 
 **📍 116 Renge, Uji City, Kyoto Prefecture**
 **Entry:** Adults ¥600 (garden + Phoenix Hall ¥1,000)**

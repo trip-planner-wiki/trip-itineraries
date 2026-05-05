@@ -29,7 +29,7 @@ Arrive at opening time (typically 09:00). USJ is accessible via the JR Yumesaki 
 
 ### Morning — Super Nintendo World (09:00)
 
-[![Kinopio's Café exterior at Super Nintendo World, Universal Studios Japan](https://upload.wikimedia.org/wikipedia/commons/8/8d/Kinopio%27s_cafe_exterior_at_Super_Nintendo_World_%28Universal_Studios_Japan%29.png)](https://commons.wikimedia.org/wiki/File:Kinopio%27s_cafe_exterior_at_Super_Nintendo_World_(Universal_Studios_Japan).png "Kinopio's Café exterior at Super Nintendo World, Universal Studios Japan")
+[![Kinopio's Café exterior at Super Nintendo World, Universal Studios Japan](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kinopio%27s_cafe_exterior_at_Super_Nintendo_World_%28Universal_Studios_Japan%29.png/960px-Kinopio%27s_cafe_exterior_at_Super_Nintendo_World_%28Universal_Studios_Japan%29.png)](https://commons.wikimedia.org/wiki/File:Kinopio%27s_cafe_exterior_at_Super_Nintendo_World_(Universal_Studios_Japan).png "Kinopio's Café exterior at Super Nintendo World, Universal Studios Japan")
 
 Head straight to Super Nintendo World at opening — queues build quickly throughout the day. The immersive Mario land features the Mario Kart: Koopa's Challenge ride, Yoshi's Adventure, interactive Power-Up Band wristbands, and dozens of hands-on activities. Budget 2–3 hours here. A separate timed entry ticket (Area Reservation) is included with Express Pass or available at designated times.
 

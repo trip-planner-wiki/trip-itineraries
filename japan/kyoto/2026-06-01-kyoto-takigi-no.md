@@ -23,7 +23,7 @@ Kyoto's annual torchlight Noh theater — one of the city's most atmospheric cul
 
 ### Afternoon — Heian Shrine Visit (16:00)
 
-[![Heian Shrine courtyard — venue for Kyoto Takigi Nō](https://upload.wikimedia.org/wikipedia/commons/8/86/Courtyard_of_Heian_Jingu_%282616076789%29.jpg)](https://commons.wikimedia.org/wiki/File:Courtyard_of_Heian_Jingu_(2616076789).jpg "Heian Shrine courtyard — venue for Kyoto Takigi Nō")
+[![Heian Shrine courtyard — venue for Kyoto Takigi Nō](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Courtyard_of_Heian_Jingu_%282616076789%29.jpg/960px-Courtyard_of_Heian_Jingu_%282616076789%29.jpg)](https://commons.wikimedia.org/wiki/File:Courtyard_of_Heian_Jingu_(2616076789).jpg "Heian Shrine courtyard — venue for Kyoto Takigi Nō")
 
 **📍 Okazaki Nishitennocho, Sakyo Ward, Kyoto**
 
@@ -33,7 +33,7 @@ Heian Shrine is one of Kyoto's most impressive — a large, vermilion-painted sh
 
 ### Dinner — Okazaki / Nanzenji Area (17:00)
 
-[![Sanmon gate, Nanzenji Temple, Kyoto — near the Okazaki dining area](https://upload.wikimedia.org/wikipedia/commons/1/11/Sanmon_gate%2C_Nanzenji_Temple%2C_Kyoto%2C_20240820_1205_5050.jpg)](https://commons.wikimedia.org/wiki/File:Sanmon_gate,_Nanzenji_Temple,_Kyoto,_20240820_1205_5050.jpg "Sanmon gate, Nanzenji Temple, Kyoto")
+[![Sanmon gate, Nanzenji Temple, Kyoto — near the Okazaki dining area](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sanmon_gate%2C_Nanzenji_Temple%2C_Kyoto%2C_20240820_1205_5050.jpg/960px-Sanmon_gate%2C_Nanzenji_Temple%2C_Kyoto%2C_20240820_1205_5050.jpg)](https://commons.wikimedia.org/wiki/File:Sanmon_gate,_Nanzenji_Temple,_Kyoto,_20240820_1205_5050.jpg "Sanmon gate, Nanzenji Temple, Kyoto")
 
 The Okazaki cultural district has several excellent restaurants and cafes. Budget ¥1,500–¥3,000 for a pre-show dinner.
 

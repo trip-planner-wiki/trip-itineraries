@@ -21,7 +21,7 @@ A jam-packed day trip through Tokyo's most iconic experiences — from a 628 AD 
 
 ### Morning — Senso-ji Temple, Asakusa (07:00)
 
-[![Senso-ji Temple, Asakusa, Tokyo](https://upload.wikimedia.org/wikipedia/commons/d/d1/Senso-ji_Temple_%40_Asakusa_%2814019477806%29.jpg)](https://commons.wikimedia.org/wiki/File:Senso-ji_Temple_@_Asakusa_(14019477806).jpg "Senso-ji Temple, Asakusa, Tokyo")
+[![Senso-ji Temple, Asakusa, Tokyo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Senso-ji_Temple_%40_Asakusa_%2814019477806%29.jpg/960px-Senso-ji_Temple_%40_Asakusa_%2814019477806%29.jpg)](https://commons.wikimedia.org/wiki/File:Senso-ji_Temple_@_Asakusa_(14019477806).jpg "Senso-ji Temple, Asakusa, Tokyo")
 
 **📍 2-3-1 Asakusa, Taito-ku, Tokyo 111-0032**  
 **Admission:** Free  
@@ -38,7 +38,7 @@ Tokyo's oldest and most visited temple, founded in 628 AD. Start early to beat t
 
 ### Late Morning — teamLab Borderless Tokyo, Azabudai Hills (10:00)
 
-[![teamLab Borderless, Azabudai Hills, Tokyo](https://upload.wikimedia.org/wikipedia/commons/0/07/TeamLab_Borderless_Azabudai_Hills.jpg)](https://commons.wikimedia.org/wiki/File:TeamLab_Borderless_Azabudai_Hills.jpg "teamLab Borderless, Azabudai Hills, Tokyo")
+[![teamLab Borderless, Azabudai Hills, Tokyo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TeamLab_Borderless_Azabudai_Hills.jpg/960px-TeamLab_Borderless_Azabudai_Hills.jpg)](https://commons.wikimedia.org/wiki/File:TeamLab_Borderless_Azabudai_Hills.jpg "teamLab Borderless, Azabudai Hills, Tokyo")
 
 **📍 Azabudai Hills Garden Plaza B, B1F, 5-9 Toranomon, Minato-ku, Tokyo**  
 **Admission:** ¥3,200–¥3,800/adult (dynamic pricing; buy online in advance)  
@@ -54,7 +54,7 @@ An immersive "borderless" digital art museum where artworks freely move between 
 
 ### Lunch — Azabudai Hills / Roppongi (13:00)
 
-[![Azabudai Hills, Tokyo — luxury dining and retail complex](https://upload.wikimedia.org/wikipedia/commons/0/07/Azabudai_Hills_Mori_JP_Tower_20231205.jpg)](https://commons.wikimedia.org/wiki/File:Azabudai_Hills_Mori_JP_Tower_20231205.jpg "Azabudai Hills, Tokyo")
+[![Azabudai Hills, Tokyo — luxury dining and retail complex](https://cdn.housingjapan.com/wp-content/uploads/2025/03/17112127/azabudaihillsHeroUpdate-1024x683.jpg)](https://housingjapan.com/blog/explore-activities-at-tokyos-new-azabudai-hills/ "Azabudai Hills, Tokyo")
 
 **📍 Azabudai Hills, Minato-ku, or nearby Roppongi**
 

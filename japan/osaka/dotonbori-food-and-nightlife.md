@@ -29,7 +29,7 @@ Start with Kuromon Ichiba Market — Osaka's covered food market nicknamed "Osak
 
 ### Early Evening — Dotonbori Canal Walk (17:00)
 
-[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg "Dotonbori canal at night, Osaka — Glico Running Man, Ebisubashi")
+[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg/960px-Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg "Dotonbori canal at night, Osaka — Glico Running Man, Ebisubashi")
 
 Walk along the Dotonbori canal, taking in the famous giant signs: the Glico Running Man, the giant crab of Kani Doraku, and the blowfish lanterns. Cross Ebisubashi bridge for the classic Dotonbori photo. The atmosphere intensifies as night falls.
 
@@ -56,7 +56,7 @@ Walk through the covered Shinsaibashi-suji shopping arcade (open until 21:00). D
 
 ### Late Evening — Izakaya Toyo (20:00)
 
-[![Fresh seafood at Osaka market — representative of Izakaya Toyo's fresh fish selection](https://upload.wikimedia.org/wikipedia/commons/4/4a/Seafood_in_Kuromon_Market%2C_Osaka_on_June_7th%2C_2017.jpg)](https://commons.wikimedia.org/wiki/File:Seafood_in_Kuromon_Market,_Osaka_on_June_7th,_2017.jpg "Fresh Osaka seafood — Izakaya Toyo style")
+[![Fresh seafood at Osaka market — representative of Izakaya Toyo's fresh fish selection](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seafood_in_Kuromon_Market%2C_Osaka_on_June_7th%2C_2017.jpg/960px-Seafood_in_Kuromon_Market%2C_Osaka_on_June_7th%2C_2017.jpg)](https://commons.wikimedia.org/wiki/File:Seafood_in_Kuromon_Market,_Osaka_on_June_7th,_2017.jpg "Fresh Osaka seafood — Izakaya Toyo style")
 
 **📍 3-2-26 Higashinodamachi, Miyakojima Ward, Osaka**
 

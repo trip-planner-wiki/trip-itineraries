@@ -19,7 +19,7 @@ Den-Den Town is Osaka's answer to Tokyo's Akihabara — the city's premier elect
 
 ### Morning — BOOKOFF PLUS Namba Ebisubashi (10:00)
 
-[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "BOOKOFF PLUS Namba Ebisubashi, Osaka")
+[![Den-Den Town, Nipponbashi, Osaka](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg/960px-Den-Den_Town%2C_Nipponbashi%2C_Osaka_-_Jul_12%2C_2023.jpg)](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg "BOOKOFF PLUS Namba Ebisubashi, Osaka")
 
 **📍 Near Ebisubashi Bridge, Namba, Osaka**
 
@@ -57,7 +57,7 @@ Take the subway to Osaka/Umeda Station (about 10 minutes from Nipponbashi). Nint
 
 ### Evening — Dotonbori Street Food & Nightlife (18:00)
 
-[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg "Dotonbori canal at night, Osaka")
+[![Dotonbori canal at night, Osaka](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg/960px-Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg)](https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg "Dotonbori canal at night, Osaka")
 
 **📍 Dotonbori, Namba**
 

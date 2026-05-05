@@ -68,7 +68,7 @@ Knowledgeable staff at many booths can guide your choices. Belgian food stalls s
 
 ### Evening — Riverside Live Music (18:00)
 
-[![Dojima River and Nakanoshima at night, Osaka — riverside festival setting](https://upload.wikimedia.org/wikipedia/commons/2/2f/Dojima_River_Nakanoshima_Osaka_Japan02-r.jpg)](https://commons.wikimedia.org/wiki/File:Dojima_River_Nakanoshima_Osaka_Japan02-r.jpg "Nakanoshima riverside at night, Osaka")
+[![Dojima River and Nakanoshima at night, Osaka — riverside festival setting](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dojima_River_Nakanoshima_Osaka_Japan02-r.jpg/960px-Dojima_River_Nakanoshima_Osaka_Japan02-r.jpg)](https://commons.wikimedia.org/wiki/File:Dojima_River_Nakanoshima_Osaka_Japan02-r.jpg "Nakanoshima riverside at night, Osaka")
 
 The live stage comes alive in the evening. The Nakanoshima riverside at night — illuminated Osaka skyline reflected in the Okawa River — is one of the city's most romantic settings. Stay as late as the event runs.
 

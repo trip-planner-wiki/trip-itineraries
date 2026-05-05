@@ -25,7 +25,7 @@ From Demachiyanagi Station (end of Keihan Line), take the charming Eizan Electri
 
 ### Morning — Kurama-dera Temple (09:45)
 
-[![Kurama-dera temple, northern Kyoto](https://upload.wikimedia.org/wikipedia/commons/9/9e/Kurama-Dera_%28Kyoto_Sakyo-ku%29_Temple_hdsr_S5_25.jpg)](https://commons.wikimedia.org/wiki/File:Kurama-Dera_(Kyoto_Sakyo-ku)_Temple_hdsr_S5_25.jpg "Kurama-dera temple, northern Kyoto")
+[![Kurama-dera temple, northern Kyoto](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kurama-Dera_%28Kyoto_Sakyo-ku%29_Temple_hdsr_S5_25.jpg/960px-Kurama-Dera_%28Kyoto_Sakyo-ku%29_Temple_hdsr_S5_25.jpg)](https://commons.wikimedia.org/wiki/File:Kurama-Dera_(Kyoto_Sakyo-ku)_Temple_hdsr_S5_25.jpg "Kurama-dera temple, northern Kyoto")
 
 **📍 1074 Kuramahonmachi, Sakyo Ward, Kyoto**
 
@@ -33,7 +33,7 @@ Kurama-dera is an ancient mountain temple complex reached by a 30-minute hike (o
 
 ### Lunch — Kurama Riverside Restaurants (12:00)
 
-[![Road to Kurama Onsen, Kyoto](https://upload.wikimedia.org/wikipedia/commons/b/bb/Road_to_Kurama-onsen_%2848885565266%29.jpg)](https://commons.wikimedia.org/wiki/File:Road_to_Kurama-onsen_(48885565266).jpg "Kurama riverside restaurants, Kyoto")
+[![Road to Kurama Onsen, Kyoto](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Road_to_Kurama-onsen_%2848885565266%29.jpg/960px-Road_to_Kurama-onsen_%2848885565266%29.jpg)](https://commons.wikimedia.org/wiki/File:Road_to_Kurama-onsen_(48885565266).jpg "Kurama riverside restaurants, Kyoto")
 
 The village of Kurama at the base of the mountain has several traditional restaurants serving river fish, tofu cuisine, and set meals. Budget ¥1,500–¥2,500.
 
@@ -57,7 +57,7 @@ From Kurama Onsen, experienced hikers can take the 2km forest trail over the mou
 
 ### Evening — Kifune Shrine (16:30)
 
-[![Kifune Shrine, Kibune, northern Kyoto](https://upload.wikimedia.org/wikipedia/commons/d/d1/Kifune_Jinja_Shrine_20150914.JPG)](https://commons.wikimedia.org/wiki/File:Kifune_Jinja_Shrine_20150914.JPG "Kifune Shrine, Kibune, northern Kyoto")
+[![Kifune Shrine, Kibune, northern Kyoto](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kifune_Jinja_Shrine_20150914.JPG/960px-Kifune_Jinja_Shrine_20150914.JPG)](https://commons.wikimedia.org/wiki/File:Kifune_Jinja_Shrine_20150914.JPG "Kifune Shrine, Kibune, northern Kyoto")
 
 **📍 180 Kibune-cho, Kurama, Sakyo Ward, Kyoto**
 

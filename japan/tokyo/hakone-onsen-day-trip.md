@@ -41,7 +41,7 @@ At Gora, transfer to the Hakone Tozan Cable Car up to Sounzan, then board the Ha
 
 ### Late Morning — Lake Ashi Sightseeing Cruise (12:00)
 
-[![Lake Ashi with Mt. Fuji and Hakone Shrine torii gate](https://upload.wikimedia.org/wikipedia/commons/d/d7/Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg)](https://commons.wikimedia.org/wiki/File:Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg "Lake Ashi with Mt. Fuji and Hakone Shrine torii gate")
+[![Lake Ashi with Mt. Fuji and Hakone Shrine torii gate](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg/960px-Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg)](https://commons.wikimedia.org/wiki/File:Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg "Lake Ashi with Mt. Fuji and Hakone Shrine torii gate")
 
 **📍 Togendai Port → Moto-Hakone Port, Lake Ashi**
 
@@ -61,7 +61,7 @@ Several restaurants and cafes sit along the lakefront at Moto-Hakone. Try soba o
 
 ### Early Afternoon — Hakone Shrine & Ancient Cedar Avenue (13:30)
 
-[![Hakone Shrine torii gate on Lake Ashi](https://upload.wikimedia.org/wikipedia/commons/3/34/Hakone_Shrine%27s_torii_%2830577923547%29.jpg)](https://commons.wikimedia.org/wiki/File:Hakone_Shrine's_torii_(30577923547).jpg "Hakone Shrine torii gate on Lake Ashi")
+[![Hakone Shrine torii gate on Lake Ashi](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hakone_Shrine%27s_torii_%2830577923547%29.jpg/960px-Hakone_Shrine%27s_torii_%2830577923547%29.jpg)](https://commons.wikimedia.org/wiki/File:Hakone_Shrine's_torii_(30577923547).jpg "Hakone Shrine torii gate on Lake Ashi")
 
 **📍 80-1 Motohakone, Hakone, Kanagawa 250-0522**
 
