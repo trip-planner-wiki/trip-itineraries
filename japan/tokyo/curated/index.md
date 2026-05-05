@@ -15,6 +15,7 @@ These curated itineraries can be done on any day during the Tokyo stay
 | [Tokyo Day Trip: Art, Anime & Markets](art-anime-markets-day-trip.md) | teamLab Planets in Toyosu, Tsukiji Outer Market lunch, Unicorn Gundam in Odaiba, and PIGMENT TOKYO art supplies in Shinagawa |
 | [Tokyo Day Trip: Asakusa & Akihabara](asakusa-akihabara-temples-and-pop-culture.md) | Senso-ji Temple at dawn, retro arcade gaming at TAITO STATION, and a maid cafe experience at @home cafe |
 | [A Perfect Day in Shinjuku](shinjuku-gyoen-memory-lane-light-show.md) | Shinjuku Gyoen garden stroll, yakitori dinner in Omoide Yokocho, and the free projection mapping light show at the TMG Building |
+| [A Saturday Flea Market Morning in Tokyo](saturday-flea-market-morning.md) | Tokyo City Flea Market at Oi Racecourse — 300–500 vendor stalls of vintage clothing, antiques, collectibles, and local goods, followed by lunch in Oimachi |
 
 ---
 
