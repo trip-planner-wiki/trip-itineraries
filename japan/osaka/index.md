@@ -12,6 +12,7 @@ Trips curated specifically for this visit, covering both flexible and date-speci
 | Page | Date | Description |
 |------|------|-------------|
 | [Osaka Day Trip: Universal Studios Japan, Shinsekai & Kushikatsu Daruma](curated/usj-shinsekai-kushikatsu.md) | Any | Full-day USJ followed by a Shinsekai evening stroll and kushikatsu dinner at the 1929 original |
+| [Osaka Namba District – A Perfect Day Trip](curated/namba-district-perfect-day.md) | Any | Kuromon Market breakfast, Namba Yasaka Shrine, afternoon shopping in Namba, Dotonbori neon at dusk, and Amerikamura evening |
 
 ---
 
