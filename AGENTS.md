@@ -14,9 +14,13 @@ wiki/trip-itineraries/
 └── <destination>/          ← e.g. japan/
     ├── index.md            ← destination index, links to all city directories
     └── <city>/             ← e.g. tokyo/, osaka/, kyoto/
-        ├── index.md        ← city index, lists all day-trip pages
+        ├── index.md        ← city index, lists all day-trip pages + links to curated/
         ├── <trip-name>.md  ← general day-trip page
-        └── <YYYY-MM-DD-trip-name>.md  ← date-specific event page
+        ├── <YYYY-MM-DD-trip-name>.md  ← date-specific event page
+        └── curated/        ← user-curated trips for this city
+            ├── index.md    ← curated index, lists curated general trips and events
+            ├── <trip-name>.md
+            └── <YYYY-MM-DD-trip-name>.md
 ```
 
 Every directory **must** contain an `index.md`. No pages should exist outside
@@ -164,6 +168,18 @@ highlights relevant to the trip.>
 
 ---
 
+## User-Curated Trips
+
+Trips curated specifically for this visit, covering both flexible and
+date-specific outings. See the [curated index](curated/index.md) for the
+full list.
+
+| Page | Date | Description |
+|------|------|-------------|
+| [<Title>](curated/<filename>.md) | Any / <Month DD> | <One-line description> |
+
+---
+
 ## General Day Trips
 
 These itineraries can be done on any day during the <City> stay
@@ -178,6 +194,41 @@ These itineraries can be done on any day during the <City> stay
 ## Date-Specific Events
 
 These day trips are tied to specific dates:
+
+| Page | Date | Description |
+|------|------|-------------|
+| [<Title>](<YYYY-MM-DD-filename>.md) | <Month DD (–DD)> | <One-line description> |
+
+---
+
+## Notes
+
+- <Any important caveats, booking requirements, or scheduling advice>
+```
+
+### Curated City Index (`<city>/curated/index.md`)
+
+```markdown
+# <City>: Curated Trips
+
+**Stay dates:** <Month DD–DD, YYYY>
+
+---
+
+## General Day Trips
+
+These curated itineraries can be done on any day during the <City> stay
+(<date range>):
+
+| Page | Description |
+|------|-------------|
+| [<Title>](<filename>.md) | <One-line description> |
+
+---
+
+## Date-Specific Events
+
+These curated trips are tied to specific dates:
 
 | Page | Date | Description |
 |------|------|-------------|
@@ -348,11 +399,14 @@ trips in Dotonbori) but each page must offer a distinct experience.
 Whenever a page is added, removed, or renamed:
 
 1. Update the **city `index.md`** — add/remove/update the row in the
-   appropriate table (General Day Trips or Date-Specific Events).
-2. Check that the **destination `index.md`** does not need updating (it links
+   appropriate table (General Day Trips, Date-Specific Events, or
+   User-Curated Trips).
+2. If the page is inside `curated/`, also update **`curated/index.md`** —
+   add/remove/update the row in the appropriate table there.
+3. Check that the **destination `index.md`** does not need updating (it links
    to city indexes, not individual pages — only update if a city is
    added/removed).
-3. Check that the **root `index.md`** does not need updating (it links to
+4. Check that the **root `index.md`** does not need updating (it links to
    destination indexes only).
 
 Never leave a page without a corresponding index entry, and never leave an
@@ -368,3 +422,6 @@ index entry pointing to a non-existent file.
 4. Add the city to the destination `index.md`.
 5. If adding a new destination entirely, also create a destination `index.md`
    and add an entry to the root `index.md`.
+6. When adding user-curated trips, create `curated/` under the city directory,
+   add `curated/index.md` using the curated city index template, and add a
+   summary row to the city `index.md` User-Curated Trips table.
