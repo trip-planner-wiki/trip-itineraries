@@ -13,6 +13,7 @@ These curated itineraries can be done on any day during the Tokyo stay
 |------|-------------|
 | [Shibuya Sky, Harajuku & Memory Lane](shibuya-sky-harajuku-memory-lane.md) | Shibuya Crossing, rooftop views from Shibuya Sky, Harajuku kawaii fashion, Shibuya Loft shopping, and yakitori dinner in Memory Lane |
 | [Tokyo Day Trip: Art, Anime & Markets](art-anime-markets-day-trip.md) | teamLab Planets in Toyosu, Tsukiji Outer Market lunch, Unicorn Gundam in Odaiba, and PIGMENT TOKYO art supplies in Shinagawa |
+| [Tokyo Day Trip: Asakusa & Akihabara](asakusa-akihabara-temples-and-pop-culture.md) | Senso-ji Temple at dawn, retro arcade gaming at TAITO STATION, and a maid cafe experience at @home cafe |
 
 ---
 
