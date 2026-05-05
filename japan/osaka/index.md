@@ -5,6 +5,16 @@
 
 ---
 
+## User-Curated Trips
+
+Trips curated specifically for this visit, covering both flexible and date-specific outings. See the [curated index](curated/index.md) for the full list.
+
+| Page | Date | Description |
+|------|------|-------------|
+| [Osaka Day Trip: Universal Studios Japan, Shinsekai & Kushikatsu Daruma](curated/usj-shinsekai-kushikatsu.md) | Any | Full-day USJ followed by a Shinsekai evening stroll and kushikatsu dinner at the 1929 original |
+
+---
+
 ## General Day Trips
 
 These itineraries can be done on any day during the Osaka stay (May 24–30):
