@@ -16,6 +16,7 @@ full list.
 | [Shibuya Sky, Harajuku & Memory Lane](curated/shibuya-sky-harajuku-memory-lane.md) | Any | Scramble Crossing, 360° rooftop views, kawaii fashion, Loft shopping, and yakitori dinner in Memory Lane |
 | [Tokyo Day Trip: Art, Anime & Markets](curated/art-anime-markets-day-trip.md) | Any | teamLab Planets in Toyosu, Tsukiji Outer Market lunch, Unicorn Gundam in Odaiba, and PIGMENT TOKYO in Shinagawa |
 | [Tokyo Day Trip: Asakusa & Akihabara](curated/asakusa-akihabara-temples-and-pop-culture.md) | Any | Senso-ji Temple at dawn, retro arcade gaming at TAITO STATION, and a maid cafe experience at @home cafe |
+| [A Perfect Day in Shinjuku](curated/shinjuku-gyoen-memory-lane-light-show.md) | Any | Shinjuku Gyoen garden stroll, yakitori dinner in Omoide Yokocho, and the free projection mapping light show at the TMG Building |
 
 ---
 
