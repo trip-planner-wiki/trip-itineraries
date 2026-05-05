@@ -12,6 +12,7 @@ These curated itineraries can be done on any day during the Osaka stay (May 24�
 |------|-------------|
 | [Osaka Day Trip: Universal Studios Japan, Shinsekai & Kushikatsu Daruma](usj-shinsekai-kushikatsu.md) | Full-day USJ theme park followed by a retro Shinsekai evening stroll and kushikatsu dinner at the 1929 original |
 | [Osaka Namba District – A Perfect Day Trip](namba-district-perfect-day.md) | Kuromon Market breakfast, Namba Yasaka Shrine, afternoon shopping, Dotonbori neon, and Amerikamura evening |
+| [Day Trip from Osaka: Koyasan & Okunoin](koyasan-okunoin-day-trip.md) | Full-day spiritual journey to UNESCO-listed Mount Koya — Kongobuji Temple, Okunoin sacred mausoleum & lantern hall |
 
 ---
 
