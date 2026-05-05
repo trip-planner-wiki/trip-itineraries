@@ -5,6 +5,18 @@
 
 ---
 
+## User-Curated Trips
+
+Trips curated specifically for this visit, covering both flexible and
+date-specific outings. See the [curated index](curated/index.md) for the
+full list.
+
+| Page | Date | Description |
+|------|------|-------------|
+| [Kyoto Highlights: A Perfect Day Trip](curated/kyoto-highlights-perfect-day-trip.md) | Any | Arashiyama Bamboo Forest at dawn, Fushimi Inari torii gate hike, and the Yasaka Pagoda at golden hour |
+
+---
+
 ## General Day Trips
 
 These itineraries can be done on any day during the Kyoto stay (May 31 – June 6):
