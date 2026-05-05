@@ -278,7 +278,19 @@ absent from the graph.
 
 ### Images
 
-Every stop must include exactly one image. Place it immediately after the
+Every stop must include exactly one image, with the following exceptions:
+
+- **Transit stops** (e.g. walking to or from a railway station, or
+  walking/driving between stops) do **not** require an image unless there
+  is something notable to see along the way.
+- **Do not re-use the same image** on the same page more than once.
+- If no appropriate image can be found on Wikimedia Commons (step 4 below),
+  **omit the image entirely** for that stop rather than using an unsuitable
+  one.
+
+These rules apply to both General Day-Trip Pages and Date-Specific Event Pages.
+
+Place the image immediately after the
 `### <Time of day> — <Stop name> (<HH:MM>)` heading and before the
 `**📍 <Address or area>**` line. Images are displayed inline and link to
 their original source using this format:
@@ -294,13 +306,16 @@ Image source priority (use the first source that yields a suitable result):
 1. **Official event/venue website** — press images or OGP images from the
    event's own site
 2. **Trip blogs or news articles** — photos from the actual event or location
-3. Search on https://duckduckgo.com/ — try up to 3 different queries before
-   giving up
+3. Search on https://duckduckgo.com/ — Get the images from the target page, not
+   from the thumbnail overview. Click on the search result and open the target
+   page to retrieve the image from there. If you are unsuccessful, try up to 3
+   different queries before giving up.
 4. **Wikimedia Commons** — only as a last resort, after at least 3 failed
-   DuckDuckGo attempts
+   DuckDuckGo attempts. NEVER directly start with Wikimedia Commons right away
+   before attempting the higher priority sources.
 
 Only use images that are publicly accessible without login. Make sure that you
-don't add images that don't load.
+don't add images that don't load. Images MUST be smaller than 5 MB.
 
 ### Google Maps links
 
