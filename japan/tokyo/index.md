@@ -5,6 +5,18 @@
 
 ---
 
+## User-Curated Trips
+
+Trips curated specifically for this visit, covering both flexible and
+date-specific outings. See the [curated index](curated/index.md) for the
+full list.
+
+| Page | Date | Description |
+|------|------|-------------|
+| [Shibuya Sky, Harajuku & Memory Lane](curated/shibuya-sky-harajuku-memory-lane.md) | Any | Scramble Crossing, 360° rooftop views, kawaii fashion, Loft shopping, and yakitori dinner in Memory Lane |
+
+---
+
 ## General Day Trips
 
 These itineraries can be done on any day during the Tokyo stay (May 18–23):
