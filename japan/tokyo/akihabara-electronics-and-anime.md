@@ -1,3 +1,7 @@
+---
+title: "Akihabara: Electronics, Anime & Collectibles Deep Dive"
+---
+
 # Akihabara: Electronics, Anime & Collectibles Deep Dive
 
 **City:** Tokyo  

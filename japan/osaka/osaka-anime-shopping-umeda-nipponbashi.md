@@ -1,3 +1,7 @@
+---
+title: "Osaka Anime Shopping: Umeda & Nipponbashi"
+---
+
 # Osaka Anime Shopping: Umeda & Nipponbashi
 
 **City:** Osaka  

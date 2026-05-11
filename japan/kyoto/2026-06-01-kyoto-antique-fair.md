@@ -1,3 +1,7 @@
+---
+title: "2026-06-01: Kyoto Antique Fair"
+---
+
 # 2026-06-01: Kyoto Antique Fair
 
 **City:** Kyoto  

@@ -1,3 +1,7 @@
+---
+title: "Universal Studios Japan & Super Nintendo World"
+---
+
 # Universal Studios Japan & Super Nintendo World
 
 **City:** Osaka  

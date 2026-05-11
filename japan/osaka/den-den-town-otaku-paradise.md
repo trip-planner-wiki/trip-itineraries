@@ -1,3 +1,7 @@
+---
+title: "Den-Den Town: Osaka's Otaku Paradise"
+---
+
 # Den-Den Town: Osaka's Otaku Paradise
 
 **City:** Osaka  

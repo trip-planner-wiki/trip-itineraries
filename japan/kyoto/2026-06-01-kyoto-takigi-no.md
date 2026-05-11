@@ -1,3 +1,7 @@
+---
+title: "2026-06-01: Kyoto Takigi Nō — Torchlight Noh Theater"
+---
+
 # 2026-06-01: Kyoto Takigi Nō — Torchlight Noh Theater
 
 **City:** Kyoto  

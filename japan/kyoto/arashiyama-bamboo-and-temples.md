@@ -1,3 +1,7 @@
+---
+title: "Arashiyama: Bamboo Forest, Temples & Riverside"
+---
+
 # Arashiyama: Bamboo Forest, Temples & Riverside
 
 **City:** Kyoto  

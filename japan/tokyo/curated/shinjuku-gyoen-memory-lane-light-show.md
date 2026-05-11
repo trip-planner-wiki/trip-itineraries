@@ -1,3 +1,7 @@
+---
+title: "A Perfect Day in Shinjuku: Gardens, Yakitori & Projection Mapping"
+---
+
 # A Perfect Day in Shinjuku: Gardens, Yakitori & Projection Mapping
 
 **City:** Tokyo (Shinjuku)

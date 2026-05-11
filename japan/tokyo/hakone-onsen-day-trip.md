@@ -1,3 +1,7 @@
+---
+title: "Hakone Day Trip: Onsen, Volcanoes & Mt. Fuji Views"
+---
+
 # Hakone Day Trip: Onsen, Volcanoes & Mt. Fuji Views
 
 **City:** Tokyo (day trip)  

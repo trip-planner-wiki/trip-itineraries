@@ -1,3 +1,7 @@
+---
+title: "Osaka: Curated Trips"
+---
+
 # Osaka: Curated Trips
 
 **Stay dates:** May 24–30, 2026

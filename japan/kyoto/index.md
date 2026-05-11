@@ -1,3 +1,7 @@
+---
+title: "Kyoto: Day-Trip Itineraries"
+---
+
 # Kyoto: Day-Trip Itineraries
 
 **Stay dates:** May 31 – June 6, 2026  

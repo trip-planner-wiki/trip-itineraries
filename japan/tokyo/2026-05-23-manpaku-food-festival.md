@@ -1,3 +1,7 @@
+---
+title: "2026-05-23: Manpaku Food Festival — Final Day at Showa Kinen Park"
+---
+
 # 2026-05-23: Manpaku Food Festival — Final Day at Showa Kinen Park
 
 **City:** Tokyo  

@@ -1,3 +1,7 @@
+---
+title: "2026-05-22: Azuma Odori — Tokyo Geisha Dance Performance"
+---
+
 # 2026-05-22: Azuma Odori — Tokyo Geisha Dance Performance
 
 **City:** Tokyo  

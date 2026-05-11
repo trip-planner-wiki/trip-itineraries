@@ -1,3 +1,7 @@
+---
+title: "2026-05-24: Expo 70 Commemorative Park Tea Picking Day"
+---
+
 # 2026-05-24: Expo 70 Commemorative Park Tea Picking Day
 
 **City:** Osaka (Suita City)  

@@ -1,3 +1,7 @@
+---
+title: "2026-06-01: Kifune Matsuri"
+---
+
 # 2026-06-01: Kifune Matsuri
 
 **City:** Kyoto  

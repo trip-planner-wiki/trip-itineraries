@@ -1,3 +1,7 @@
+---
+title: "Nishiki Market & Gion: Kyoto's Kitchen & Geisha District"
+---
+
 # Nishiki Market & Gion: Kyoto's Kitchen & Geisha District
 
 **City:** Kyoto  

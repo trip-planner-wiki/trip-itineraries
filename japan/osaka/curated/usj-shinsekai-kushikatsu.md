@@ -1,3 +1,7 @@
+---
+title: "Osaka Day Trip: Universal Studios Japan, Shinsekai & Kushikatsu Daruma"
+---
+
 # Osaka Day Trip: Universal Studios Japan, Shinsekai & Kushikatsu Daruma
 
 **City:** Osaka  

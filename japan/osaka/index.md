@@ -1,3 +1,7 @@
+---
+title: "Osaka: Day-Trip Itineraries"
+---
+
 # Osaka: Day-Trip Itineraries
 
 **Stay dates:** May 24–30, 2026  

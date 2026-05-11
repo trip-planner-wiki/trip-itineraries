@@ -1,3 +1,7 @@
+---
+title: "Uji Day Trip: Byodo-in & Tea Culture"
+---
+
 # Uji Day Trip: Byodo-in & Tea Culture
 
 **City:** Kyoto (day trip to Uji)  

@@ -1,3 +1,7 @@
+---
+title: "Tokyo: Day-Trip Itineraries"
+---
+
 # Tokyo: Day-Trip Itineraries
 
 **Stay dates:** May 18–23, 2026  

@@ -1,3 +1,7 @@
+---
+title: "Tokyo: Curated Trips"
+---
+
 # Tokyo: Curated Trips
 
 **Stay dates:** May 18–23, 2026

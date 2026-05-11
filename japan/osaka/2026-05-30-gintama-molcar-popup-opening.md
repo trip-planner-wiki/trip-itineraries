@@ -1,3 +1,7 @@
+---
+title: "2026-05-30: Gintama × PUI PUI Molcar POP UP STORE Grand Opening"
+---
+
 # 2026-05-30: Gintama × PUI PUI Molcar POP UP STORE Grand Opening
 
 **City:** Osaka  

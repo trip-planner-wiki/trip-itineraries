@@ -1,3 +1,7 @@
+---
+title: "Shibuya & Harajuku: Pop Culture & Street Fashion"
+---
+
 # Shibuya & Harajuku: Pop Culture & Street Fashion
 
 **City:** Tokyo  

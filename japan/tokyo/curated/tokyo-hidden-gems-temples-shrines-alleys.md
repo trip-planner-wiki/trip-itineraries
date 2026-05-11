@@ -1,3 +1,7 @@
+---
+title: "Tokyo Hidden Gems: A Day Trip Through Temples, Shrines & Nostalgic Alleys"
+---
+
 # Tokyo Hidden Gems: A Day Trip Through Temples, Shrines & Nostalgic Alleys
 
 **City:** Tokyo

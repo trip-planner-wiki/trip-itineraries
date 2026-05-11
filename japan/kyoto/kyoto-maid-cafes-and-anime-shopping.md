@@ -1,3 +1,7 @@
+---
+title: "Kyoto Maid Cafes & Anime Shopping"
+---
+
 # Kyoto Maid Cafes & Anime Shopping
 
 **City:** Kyoto  

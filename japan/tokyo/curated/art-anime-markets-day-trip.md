@@ -1,3 +1,7 @@
+---
+title: "Tokyo Day Trip: Art, Anime & Markets"
+---
+
 # Tokyo Day Trip: Art, Anime & Markets
 
 **City:** Tokyo  

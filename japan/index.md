@@ -1,3 +1,7 @@
+---
+title: "Japan Trip Itineraries"
+---
+
 # Japan Trip Itineraries
 
 **Trip:** Japan 2026  

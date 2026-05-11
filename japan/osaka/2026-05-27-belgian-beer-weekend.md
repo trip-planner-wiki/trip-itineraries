@@ -1,3 +1,7 @@
+---
+title: "2026-05-27: Belgian Beer Weekend Osaka 2026"
+---
+
 # 2026-05-27: Belgian Beer Weekend Osaka 2026
 
 **City:** Osaka  

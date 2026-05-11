@@ -1,3 +1,7 @@
+---
+title: "Tokyo Day Trip: Asakusa & Akihabara"
+---
+
 # Tokyo Day Trip: Asakusa & Akihabara
 
 **City:** Tokyo

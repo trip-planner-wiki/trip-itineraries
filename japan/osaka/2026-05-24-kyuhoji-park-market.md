@@ -1,3 +1,7 @@
+---
+title: "2026-05-24: Kyuhoji Park Market"
+---
+
 # 2026-05-24: Kyuhoji Park Market
 
 **City:** Osaka (Yao City)  

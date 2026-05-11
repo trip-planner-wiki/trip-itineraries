@@ -1,3 +1,7 @@
+---
+title: "Kifune & Kurama: Mountain Shrines & Onsen"
+---
+
 # Kifune & Kurama: Mountain Shrines & Onsen
 
 **City:** Kyoto  

@@ -1,3 +1,7 @@
+---
+title: "Nishiki Market Culinary Walk: Food, Shrines & Pontocho"
+---
+
 # Nishiki Market Culinary Walk: Food, Shrines & Pontocho
 
 **City:** Kyoto  

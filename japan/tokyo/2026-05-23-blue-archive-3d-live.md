@@ -1,3 +1,7 @@
+---
+title: "2026-05-23: Blue Archive Music 3D Live — 5th Anniversary"
+---
+
 # 2026-05-23: Blue Archive Music 3D Live — 5th Anniversary
 
 **City:** Tokyo  

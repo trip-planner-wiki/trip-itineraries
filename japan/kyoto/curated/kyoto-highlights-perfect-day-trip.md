@@ -1,3 +1,7 @@
+---
+title: "Kyoto Highlights: A Perfect Day Trip"
+---
+
 # Kyoto Highlights: A Perfect Day Trip
 
 **City:** Kyoto  

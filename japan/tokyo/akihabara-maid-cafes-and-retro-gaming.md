@@ -1,3 +1,7 @@
+---
+title: "Akihabara: Maid Cafes & Retro Gaming"
+---
+
 # Akihabara: Maid Cafes & Retro Gaming
 
 **City:** Tokyo  

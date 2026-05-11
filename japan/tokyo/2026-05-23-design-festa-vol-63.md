@@ -1,3 +1,7 @@
+---
+title: "2026-05-23: Design Festa Vol. 63"
+---
+
 # 2026-05-23: Design Festa Vol. 63
 
 **City:** Tokyo  

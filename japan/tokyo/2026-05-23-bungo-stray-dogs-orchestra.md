@@ -1,3 +1,7 @@
+---
+title: "2026-05-23: Bungo Stray Dogs 10th Anniversary Orchestra Live"
+---
+
 # 2026-05-23: Bungo Stray Dogs 10th Anniversary Orchestra Live
 
 **City:** Tokyo  

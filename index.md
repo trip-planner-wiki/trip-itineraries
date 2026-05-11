@@ -1,3 +1,7 @@
+---
+title: "Trip Itineraries Wiki"
+---
+
 # Trip Itineraries Wiki
 
 Welcome to the trip itineraries wiki — a collection of day-trip options for each city on the Japan 2026 trip.

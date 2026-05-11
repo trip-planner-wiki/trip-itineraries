@@ -1,3 +1,7 @@
+---
+title: "Osaka Namba District – A Perfect Day Trip"
+---
+
 # Osaka Namba District – A Perfect Day Trip
 
 **City:** Osaka

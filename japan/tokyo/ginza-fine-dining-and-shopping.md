@@ -1,3 +1,7 @@
+---
+title: "Ginza & Marunouchi: Fine Dining & High-End Shopping"
+---
+
 # Ginza & Marunouchi: Fine Dining & High-End Shopping
 
 **City:** Tokyo  

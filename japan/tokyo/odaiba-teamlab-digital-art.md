@@ -1,3 +1,7 @@
+---
+title: "Odaiba: teamLab Digital Art & Tokyo Bay"
+---
+
 # Odaiba: teamLab Digital Art & Tokyo Bay
 
 **City:** Tokyo  

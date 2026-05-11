@@ -1,3 +1,7 @@
+---
+title: "Tokyo Day Trip: Gundam, Digital Art & Ancient Temples"
+---
+
 # Tokyo Day Trip: Gundam, Digital Art & Ancient Temples
 
 **City:** Tokyo  

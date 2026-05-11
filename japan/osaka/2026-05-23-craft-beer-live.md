@@ -1,3 +1,7 @@
+---
+title: "2026-05-23: Craft Beer Live 2026"
+---
+
 # 2026-05-23: Craft Beer Live 2026
 
 **City:** Osaka  

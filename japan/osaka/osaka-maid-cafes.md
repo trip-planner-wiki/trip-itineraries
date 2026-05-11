@@ -1,3 +1,7 @@
+---
+title: "Osaka Maid Cafes: Namba & Nipponbashi"
+---
+
 # Osaka Maid Cafes: Namba & Nipponbashi
 
 **City:** Osaka  

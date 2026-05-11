@@ -1,3 +1,7 @@
+---
+title: "Dotonbori: Food, Street Culture & Nightlife"
+---
+
 # Dotonbori: Food, Street Culture & Nightlife
 
 **City:** Osaka  

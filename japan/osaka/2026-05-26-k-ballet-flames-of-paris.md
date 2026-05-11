@@ -1,3 +1,7 @@
+---
+title: "2026-05-26: K-Ballet Tokyo — Flames of Paris"
+---
+
 # 2026-05-26: K-Ballet Tokyo — Flames of Paris
 
 **City:** Osaka  

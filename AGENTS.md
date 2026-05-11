@@ -55,11 +55,35 @@ multiple days.
 
 ---
 
+## Front Matter
+
+Every wiki page **must** include a YAML front matter block as the very first
+thing in the file, before any Markdown content.
+
+The front matter must contain a `title` attribute whose value is **identical**
+to the text of the page's first H1 heading (the `#` line), without the leading
+`# `.
+
+```markdown
+---
+title: "<Exact text of the first H1 heading>"
+---
+```
+
+The `title` value and the H1 heading must always be kept **in sync**: whenever
+one is changed, the other must be updated to match.
+
+---
+
 ## Page Templates
 
 ### General Day-Trip Page
 
 ```markdown
+---
+title: "<Title>"
+---
+
 # <Title>
 
 **City:** <City name>
@@ -107,6 +131,10 @@ long to spend, and estimated budget for this stop.>
 ### Date-Specific Event Page
 
 ```markdown
+---
+title: "<YYYY-MM-DD>: <Event Name>"
+---
+
 # <YYYY-MM-DD>: <Event Name>
 
 **City:** <City name>
@@ -160,6 +188,10 @@ a link for the user to find their own route back to their accommodation.>
 ### City Index (`<city>/index.md`)
 
 ```markdown
+---
+title: "<City>: Day-Trip Itineraries"
+---
+
 # <City>: Day-Trip Itineraries
 
 **Stay dates:** <Month DD–DD, YYYY>
@@ -209,6 +241,10 @@ These day trips are tied to specific dates:
 ### Curated City Index (`<city>/curated/index.md`)
 
 ```markdown
+---
+title: "<City>: Curated Trips"
+---
+
 # <City>: Curated Trips
 
 **Stay dates:** <Month DD–DD, YYYY>
@@ -244,6 +280,10 @@ These curated trips are tied to specific dates:
 ### Destination Index (`<destination>/index.md`)
 
 ```markdown
+---
+title: "<Destination> Trip Itineraries"
+---
+
 # <Destination> Trip Itineraries
 
 **Trip:** <Trip name>
@@ -273,6 +313,10 @@ These curated trips are tied to specific dates:
 ### Root Index (`index.md`)
 
 ```markdown
+---
+title: "Trip Itineraries Wiki"
+---
+
 # Trip Itineraries Wiki
 
 <One-line welcome sentence.>

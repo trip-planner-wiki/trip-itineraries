@@ -1,3 +1,7 @@
+---
+title: "Koyasan & Okunoin Day Trip from Osaka"
+---
+
 # Koyasan & Okunoin Day Trip from Osaka
 
 **City:** Osaka

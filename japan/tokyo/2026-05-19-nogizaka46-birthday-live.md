@@ -1,3 +1,7 @@
+---
+title: "2026-05-19: Nogizaka46 14th Birthday Live — Day 1"
+---
+
 # 2026-05-19: Nogizaka46 14th Birthday Live — Day 1
 
 **City:** Tokyo  

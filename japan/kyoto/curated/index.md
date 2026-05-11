@@ -1,3 +1,7 @@
+---
+title: "Kyoto: Curated Trips"
+---
+
 # Kyoto: Curated Trips
 
 **Stay dates:** May 31 – June 6, 2026
